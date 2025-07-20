@@ -1,0 +1,25 @@
+[
+  {
+    "questionNumber": 526,
+    "question": "Câu 526: Công cụ nào trong số các công cụ dưới đây không phải là công cụ của thị trường tiền tệ:",
+    "options": [
+      {
+        "text": "a) Tín phiếu kho bạc",
+        "isBold": false
+      },
+      {
+        "text": "b) Công trái địa phương",
+        "isBold": false
+      },
+      {
+        "text": "c) Hối phiếu",
+        "isBold": false
+      },
+      {
+        "text": "d) Trái phiếu phát hành mới__",
+        "isBold": true
+      }
+    ],
+    "answer": "d) Trái phiếu phát hành mới__"
+  }
+]

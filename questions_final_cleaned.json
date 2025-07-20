@@ -1,0 +1,5252 @@
+[
+  {
+    "question": "Câu 1: Người sở hữu cổ phiếu và trái phiếu đều được hưởng:,",
+    "options": [
+      "a. Lãi suất cố định",
+      "b. Thu nhập phụ thuộc vào hoạt động của công ty",
+      "c. Được quyền bầu cử tại Đại hội cổ đông",
+      "d. Lãi suất từ vốn mà mình đầu tư vào công ty"
+    ],
+    "answer": "d. Lãi suất từ vốn mà mình đầu tư vào công ty"
+  },
+  {
+    "question": "Câu 2: Nhà đầu tư mua 10 trái phiếu có mệnh giá 100 USD, có lai suất danh nghĩa 6%/năm với giá 900 USD., Vậy hàng năm nhà đầu tư sẽ nhận được tiền lãi là:,",
+    "options": [
+      "a. 60 USD (10*100*6% = 60 $)",
+      "b. 600 USD",
+      "c. 570 USD",
+      "d. 500 USD"
+    ],
+    "answer": "a. 60 USD (10*100*6% = 60 $)"
+  },
+  {
+    "question": "Câu 3: Cổ phiếu quỹ:,",
+    "options": [
+      "a. Được chia cổ tức.",
+      "b. Là loại cổ phiếu được phát hành và được tổ chức phát hành mua lại trên thị trường.",
+      "c. Người sở hữu có quyền biểu quyết.",
+      "d. Là một phần cổ phiếu chưa được phép phát hành."
+    ],
+    "answer": "b. Là loại cổ phiếu được phát hành và được tổ chức phát hành mua lại trên thị trường."
+  },
+  {
+    "question": "Câu 4: Các câu nào sau đây đúng với thị trường sơ cấp,",
+    "options": [
+      "a. Làm tăng lượng vốn đầu tư cho nền kinh tế",
+      "b. Làm tăng lượng tiền trong lưu thông.",
+      "c. Không làm tăng lượng tiền trong lưu thông.",
+      "d. Giá phát hành do quan hệ cung cầu quyết định"
+    ],
+    "answer": "a. Làm tăng lượng vốn đầu tư cho nền kinh tế"
+  },
+  {
+    "question": "Câu 5: Thị trường thứ cấp,",
+    "options": [
+      "a. Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái phiếu.",
+      "b. Là nơi mua bán các loại chứng khoán kém chất lượng",
+      "c. Là nơi mua bán các chứng khoán đã phát hành",
+      "d. Là thị trường chứng khoán kém phát triển"
+    ],
+    "answer": "c. Là nơi mua bán các chứng khoán đã phát hành"
+  },
+  {
+    "question": "Câu 6: Hình thức bảo lãnh mà trong đó các nhà bảo lãnh phát hành cam kết sẽ mua toàn bộ chứng khoán của tổ chức phát hành cho dù họ có thể bán hết hay không được gọi là:,",
+    "options": [
+      "a. Bảo lãnh tất cả hoặc không",
+      "b. Bảo lãnh với cố gắng tối đa",
+      "c. Bảo lãnh với cam kết chắc chắn.",
+      "d. Bảo lãnh với hạn mức tối thiểu;"
+    ],
+    "answer": "c. Bảo lãnh với cam kết chắc chắn."
+  },
+  {
+    "question": "Câu 7: Đối với công chúng đầu tư, tài liệu nào quan trọng nhất trong hồ sơ đăng ký phát hành ra công chúng:,",
+    "options": [
+      "a. Bản sao giấy phép thành lập và đăng ký kinh doanh",
+      "b. Danh sách và sơ yếu lý lịch thành viên Hội đồng Quản Trị và Ban Giám đốc.",
+      "c. Đơn xin phép phát hành.",
+      "d. Bản cáo bạch"
+    ],
+    "answer": "d. Bản cáo bạch"
+  },
+  {
+    "question": "Câu 8: Trật tự ưu tiên lệnh theo phương thức khớp lệnh là:,",
+    "options": [
+      "a. Thời gian, giá, số lượng",
+      "b. Giá, thời gian, số lượng",
+      "c. Số lượng, thời gian, giá",
+      "d. Thời gian, số lượng, giá"
+    ],
+    "answer": "b. Giá, thời gian, số lượng"
+  },
+  {
+    "question": "Câu 9: Lệnh giới hạn là lệnh:,",
+    "options": [
+      "a. Được ưu tiên thực hiện trước các loại lệnh khác",
+      "b. Được thực hiện tại mức giá mà người đặt lệnh chỉ định",
+      "c. Được thực hiện tại mức giá khớp lệnh",
+      "d. Người đặt bán và người đặt mua đều có ưu tiên giống nhau."
+    ],
+    "answer": "b. Được thực hiện tại mức giá mà người đặt lệnh chỉ định"
+  },
+  {
+    "question": "Câu 10: Lệnh dùng để bán được đưa ra,",
+    "options": [
+      "a. Với giá cao hơn giá thị trường hiện hành",
+      "b. Với giá thấp hơn giá thị trường hiện hành",
+      "c. Hoặc cao hơn hoặc thấp hơn giá thị trường hiện hành",
+      "d. Ngay tại giá trị trường hiện hành."
+    ],
+    "answer": "b. Với giá thấp hơn giá thị trường hiện hành"
+  },
+  {
+    "question": "Câu 11: Lý do nào sau đây đúng với bán khống chứng khoán:,",
+    "options": [
+      "a. Ngăn chặn sự thua lỗ",
+      "b. Hưởng lợi từ sụt giá chứng khoán",
+      "c. Hưởng lợi từ việc tăng giá chứng khoán",
+      "d. Hạn chế rủi ro"
+    ],
+    "answer": "b. Hưởng lợi từ sụt giá chứng khoán"
+  },
+  {
+    "question": "Câu 12: Các chỉ tiêu nào sau đây không phải là chỉ tiêu của phân tích cơ bản:,",
+    "options": [
+      "a. Các chỉ tiêu phản ánh khả năng sinh lời của công ty",
+      "b. Các chỉ tiêu phản ánh khả năng thanh toán của công ty",
+      "c. Tỷ số P/E",
+      "d. Chỉ số giá của thị trường chứng khoán Phái sinh"
+    ],
+    "answer": "d. Chỉ số giá của thị trường chứng khoán Phái sinh"
+  },
+  {
+    "question": "Câu 13: Giao dịch theo phương pháp khớp lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có,",
+    "options": [
+      "a. 100đ: 10.000 - 49.900 đồng; 50đ: 0-9.950 đ",
+      "b. 200đ",
+      "c. 300đ",
+      "d. 500đ"
+    ],
+    "answer": "d. 500đ"
+  },
+  {
+    "question": "Câu 14: Ông X vừa bán 100 cổ phiếu của công ty A với giá 40 USD/cổ phiếu. Ông ta mua cổ phiếu đó một năm,",
+    "options": [
+      "a. 1000 USD",
+      "b. 1200 USD",
+      "c. 1300 USD",
+      "d. Tất cả đều sai"
+    ],
+    "answer": "b. 1200 USD"
+  },
+  {
+    "question": "Câu 15: Mệnh giá trái phiếu phát hành ra công chúng ở Việt Nam là:,",
+    "options": [
+      "a. Tối thiểu là 100.000 đồng và bội số của 100.000đồng",
+      "b. 100.000 đồng",
+      "c. 10.000 đồng",
+      "d. 200.000 đồng"
+    ],
+    "answer": "a. Tối thiểu là 100.000 đồng và bội số của 100.000đồng"
+  },
+  {
+    "question": "Câu 16: Nếu một trái phiếu được bán với giá thấp hơn mệnh giá thì:,",
+    "options": [
+      "a. Lãi suất hiện hành của trái phiếu < lãi suất danh nghĩa của trái phiếu",
+      "b. Lãi suất hiện hành của trái phiếu = lãi suất danh nghĩa của trái phiếu",
+      "c. Lãi suất hiện hành của trái phiếu > lãi suất danh nghĩa của trái phiếu",
+      "d. Không có cơ sở để so sánh"
+    ],
+    "answer": "c. Lãi suất hiện hành của trái phiếu > lãi suất danh nghĩa của trái phiếu"
+  },
+  {
+    "question": "Câu 17: Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời,",
+    "options": [
+      "a. L•i suất trái phiếu X > l•i suất trái phiếu Y",
+      "b. L•i suất trái phiếu X = l•i suất trái phiếu Y",
+      "c. Lãi suất trái phiếu X < lãi suất trái phiếu Y",
+      "d. Còn tùy trường hợp cụ thể."
+    ],
+    "answer": "c. Lãi suất trái phiếu X < lãi suất trái phiếu Y"
+  },
+  {
+    "question": "Câu 18: Ng i bán kh ng ch ng khoán th ườ ố ứ ực hiện hành động bán khống khi họ dự đoán giá của cổ phiếu:,",
+    "options": [
+      "a. Tăng lên",
+      "b. Giảm đi",
+      "c. Không thay đổi",
+      "d. Không câu nào đúng."
+    ],
+    "answer": "b. Giảm đi"
+  },
+  {
+    "question": "Câu 19: Giả sử cổ phiếu A có giá đóng cửa ở phiên giao dịch trước là: 101.000 đồng, theo quy chế giao dịch ở,",
+    "options": [
+      "a. 101.500 đồng",
+      "b. 100.000 đồng",
+      "c. 106.050 đồng",
+      "d. 95.000 đồng"
+    ],
+    "answer": "b. 100.000 đồng"
+  },
+  {
+    "question": "Câu 20: Lệnh dừng để mua được đưa ra:,",
+    "options": [
+      "a. Hoặc cao hơn hoặc thấp hơn giá thị trường hiện hành",
+      "b. Với giá thấp hơn giá thị trường hiện hành",
+      "c. Với giá cao hơn giá thị trường hiện hành",
+      "d. Ngay tại giá thị trường hiện hành."
+    ],
+    "answer": "c. Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "question": "Câu 21: Thị trường vốn là thị trường giao dịch.,",
+    "options": [
+      "a. Các công cụ tài chính ngắn hạn",
+      "b. Các công cụ tài chính trung và dài hạn",
+      "c. Kỳ phiếu",
+      "d. Tiền tệ"
+    ],
+    "answer": "b. Các công cụ tài chính trung và dài hạn"
+  },
+  {
+    "question": "Câu 22: Thị trường chứng khoán là một bộ phận của:,",
+    "options": [
+      "a. Thị trường tín dụng",
+      "b. Thị trường liên ngân hàng",
+      "c. Thị trường vốn",
+      "d. Thị trường mở"
+    ],
+    "answer": "c. Thị trường vốn"
+  },
+  {
+    "question": "Câu 23: Thặng dư vốn phát sinh khi:,",
+    "options": [
+      "a. Công ty làm ăn có l•i",
+      "b. Chênh lệch giá khi phát hành cổ phiếu mới",
+      "c. Tất cả các trường hợp trên.",
+      "d. [Missing option]"
+    ],
+    "answer": "b. Chênh lệch giá khi phát hành cổ phiếu mới"
+  },
+  {
+    "question": "Câu 24: Công ty cổ phần bắt buộc phải có,",
+    "options": [
+      "a. Cổ phiếu phổ thông",
+      "b. Cổ phiếu ưu đ•i",
+      "c. Trái phiếu công ty",
+      "d. Tất cả các loại chứng khoán trên"
+    ],
+    "answer": "a. Cổ phiếu phổ thông"
+  },
+  {
+    "question": "Câu 25: Quỹ đầu tư chứng khoán dạng mở là quỹ:,",
+    "options": [
+      "a. Có chứng chỉ được niêm yết trên thị trường chứng khoán",
+      "b. Liên tục phát hành chứng chỉ quỹ",
+      "c. Không mua lại chứng chỉ quỹ",
+      "d. Chỉ phát hành chứng chỉ quỹ một lần"
+    ],
+    "answer": "b. Liên tục phát hành chứng chỉ quỹ"
+  },
+  {
+    "question": "Câu 26: Quỹ đầu tư chứng khoán dạng đóng là quỹ:,",
+    "options": [
+      "a. Phát hành chứng chỉ quỹ nhiều lần",
+      "b. Có thể được niêm yết chứng chỉ quỹ trên thị trường chứng khoán",
+      "c. Được quyền mua lại chứng chỉ quỹ từ nhà đầu tư",
+      "d. Được quyền phát hành bổ sung ra công chứng"
+    ],
+    "answer": "b. Có thể được niêm yết chứng chỉ quỹ trên thị trường chứng khoán"
+  },
+  {
+    "question": "Câu 27: Mục đích phân biệt phát hành riêng lẻ và phát hành ra công chúng là:,",
+    "options": [
+      "a. Để dễ dàng quản lý",
+      "b. Để bảo vệ công chúng đầu tư",
+      "c. Để thu phí phát hành",
+      "d. Để dễ dàng huy động vốn"
+    ],
+    "answer": "b. Để bảo vệ công chúng đầu tư"
+  },
+  {
+    "question": "Câu 28: Năm N, Công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu,,",
+    "options": [
+      "a. 1500 đ",
+      "b. 2000 đ",
+      "c. 1000 đ",
+      "d. 1300 đ"
+    ],
+    "answer": "c. 1000 đ"
+  },
+  {
+    "question": "Câu 29: Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông sẽ:,",
+    "options": [
+      "a. Là chủ nợ chung",
+      "b. Mất toàn bộ số tiền đầu tư",
+      "c. Được ưu tiên trả lại cổ phần đ• góp trước",
+      "d. Là người cuối cùng được thanh toán"
+    ],
+    "answer": "d. Là người cuối cùng được thanh toán"
+  },
+  {
+    "question": "Câu 30: Khi phá sản, giải thể công ty, người nắm giữ trái phiếu sẽ được hoàn trả:,",
+    "options": [
+      "a. Trước các khoản vay có thế chấp và các khoản phải trả",
+      "b. Trước thuế",
+      "c. Sau các khoản vay có thế chấp và các khoản phải trả",
+      "d. Trước các cổ đông nắm giữ cổ phiếu ưu đ•i và cổ phiếu phổ thông"
+    ],
+    "answer": "d. Trước các cổ đông nắm giữ cổ phiếu ưu đ•i và cổ phiếu phổ thông"
+  },
+  {
+    "question": "Câu 31: Một trong những điều kiện phát hành cổ phiếu lần đầu ra công chúng ở Việt Nam là:,",
+    "options": [
+      "a. Có vốn tối thiểu là 10 tỷ VND, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "b. Có vốn tối thiểu là 10 tỷ USD, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải",
+      "c. Có vốn tối thiểu là 5 tỷ VND, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "d. Có vốn tối thiểu là 5 tỷ VND, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải có l•i."
+    ],
+    "answer": "a. Có vốn tối thiểu là 10 tỷ VND, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i."
+  },
+  {
+    "question": "Câu 32: Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niêm yết được quy,",
+    "options": [
+      "a. 25% tổng số cổ phiếu",
+      "b. 49% tổng số cổ phiếu",
+      "c. 30% tổng số cổ phiếu",
+      "d. 27% tổng số cổ phiếu"
+    ],
+    "answer": "b. 49% tổng số cổ phiếu"
+  },
+  {
+    "question": "Câu 33: Một trong những điều kiện để niêm yết trái phiếu doanh nghiệp là:,",
+    "options": [
+      "a. Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại",
+      "b. Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại thời",
+      "c. Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước, doanh nghiệp tư nhân có vốn",
+      "d. Không câu nào đúng."
+    ],
+    "answer": "a. Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại"
+  },
+  {
+    "question": "Câu 34: Quỹ đầu tư chứng khoán theo quy định của Việt Nam là quỹ:,",
+    "options": [
+      "a. Đầu tư tối thiểu 40% giá trị tài sản của quỹ vào chứng khoán.",
+      "b. Đầu tư tối thiểu 50% giá trị tài sản của quỹ vào chứng khoán",
+      "c. Đầu tư tối thiểu 60% giá trị tài sản của quỹ vào chứng khoán.",
+      "d. Đầu tư tối thiểu 70% giá trị tài sản của quỹ vào chứng khoán."
+    ],
+    "answer": "c. Đầu tư tối thiểu 60% giá trị tài sản của quỹ vào chứng khoán."
+  },
+  {
+    "question": "Câu 35: Tổ chức phát hành phải hoàn thành việc phân phối cổ phiếu trong vòng:,",
+    "options": [
+      "a. 60 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực.",
+      "b. 70 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực.",
+      "c. 80 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực.",
+      "d. 90 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực."
+    ],
+    "answer": "d. 90 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực."
+  },
+  {
+    "question": "Câu 36: Hội đồng quản trị, Ban giám đốc, Ban kiểm soát của Công ty niêm yết phải nắm giữ.,",
+    "options": [
+      "a. ít nhất 20% vốn cổ phần của Công ty.",
+      "b. ít nhất 20% vốn cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết.",
+      "c. ít nhất 50% số cổ phiếu do mình sơ hữu trong 3 năm kể từ ngày niêm yết.",
+      "d. ít nhất 30% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết."
+    ],
+    "answer": "c. ít nhất 50% số cổ phiếu do mình sơ hữu trong 3 năm kể từ ngày niêm yết."
+  },
+  {
+    "question": "Câu 37: Tổ chức phát hành, tổ chức niêm yết công bố báo cáo tài chính năm trên:,",
+    "options": [
+      "a. 3 số báo liên tiếp của một tờ báo",
+      "b. 4 số báo liên tiếp của một tờ báo",
+      "c. 5 số báo liên tiếp của một tờ báo",
+      "d. 6 số báo liên tiếp của một tờ báo"
+    ],
+    "answer": "a. 3 số báo liên tiếp của một tờ báo"
+  },
+  {
+    "question": "Câu 38: Tổ chức phát hành, tổ chức niêm yết phải công bố thông tin bất thường trong thời gian:,",
+    "options": [
+      "a. 10 tiếng kể từ khi sự kiện xảy ra",
+      "b. 24 tiếng kể từ khi sự kiện xảy ra",
+      "c. 30 tiếng kể từ khi sự kiện xảy ra",
+      "d. 14 tiếng kể từ khi sự kiện xảy ra"
+    ],
+    "answer": "b. 24 tiếng kể từ khi sự kiện xảy ra"
+  },
+  {
+    "question": "Câu 39: Người hành nghề kinh doanh chứng khoán được:,",
+    "options": [
+      "a. Được tự do mua, bán cổ phiếu ở mọi nơi.",
+      "b. Chỉ được mở tài khoản giao dịch cho mình tại công ty chứng khoán nơi làm việc.",
+      "c. Sở hữu không hạn chế số cổ phiếu biểu quyết của một tổ chức phát hành",
+      "d. Làm giám đốc một công ty niêm yết."
+    ],
+    "answer": "b. Chỉ được mở tài khoản giao dịch cho mình tại công ty chứng khoán nơi làm việc."
+  },
+  {
+    "question": "Câu 40: Giao dịch theo phương pháp khớp lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có,",
+    "options": [
+      "a. 100 đ",
+      "b. 200 đ",
+      "c. 300 đ",
+      "d. 500 đ"
+    ],
+    "answer": "a. 100 đ"
+  },
+  {
+    "question": "Câu 41: Doanh nghi p nhà n c c ph ệ ướ ổ ần hóa thực hiện bán đấu giá cổ phiếu lần đầu ra công chúng bắt buộc,",
+    "options": [
+      "a. 10 tỷ đồng trở lên",
+      "b. Từ 1 đến 10 tỷ",
+      "c. 5 tỷ đồng trở lên",
+      "d. Tùy doanh nghiệp có muốn thực hiện đấu giá qua trung tâm hay không"
+    ],
+    "answer": "a. 10 tỷ đồng trở lên"
+  },
+  {
+    "question": "Câu 42: Khi nhà đầu tư mua cổ phần qua đấu giá tại Trung tâm Giao dịch Chứng khoán Hà Nội, nhà đầu tư,",
+    "options": [
+      "a. 10% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "b. 15% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "c. 5% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "d. Không phải đặt cọc."
+    ],
+    "answer": "a. 10% giá trị cổ phần đăng ký mua tính theo giá khởi điểm"
+  },
+  {
+    "question": "Câu 43: Khi thực hiện bán cổ phần của doanh nghiệp nhà nước, cổ đông chiến lược được phép mua:,",
+    "options": [
+      "a. Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+      "b. Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+      "c. Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân.",
+      "c. Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân."
+    ],
+    "answer": "a. Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân."
+  },
+  {
+    "question": "Câu 44: Biên độ dao động giá trên thị trường chứng khoán Việt Nam do:,",
+    "options": [
+      "a. Bộ trưởng Bộ tài chính quy định.",
+      "b. Chủ tịch ủy ban Chứng khoán Nhà nước quy định.",
+      "c. Thống đốc Ngân hàng Nhà nước quy định",
+      "d. Giám đốc Trung tâm Giao dịch Chứng khoán quy định"
+    ],
+    "answer": "b. Chủ tịch ủy ban Chứng khoán Nhà nước quy định."
+  },
+  {
+    "question": "Câu 45: Đối tượng công bố thông tin thị trường chứng khoán gồm:,",
+    "options": [
+      "a. Tổ chức phát hành, tổ chức niêm yết.",
+      "b. Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ.",
+      "c. Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán.",
+      "d. Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán, trung tâm giao dịch."
+    ],
+    "answer": "d. Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán, trung tâm giao dịch."
+  },
+  {
+    "question": "Câu 46: Tại một thời điểm nhất định, nếu tất cả các trái phiếu có thể chuyển đổi đều được trái chủ đổi thành,",
+    "options": [
+      "a. EPS tăng",
+      "b. EPS không bị ảnh hưởng",
+      "c. EPS giảm",
+      "d. P/E bị ảnh hưởng còn EPS không bị ảnh hưởng"
+    ],
+    "answer": "c. EPS giảm"
+  },
+  {
+    "question": "Câu 47: Hội đồng quản trị, Ban giám đốc, Ban kiểm soát của công ty niêm yết phải nắm giữ:,",
+    "options": [
+      "a. ít nhất 20% vốn cổ phần của Công ty",
+      "b. ít nhất 20% vốn cổ phần trong vòng 3 năm kể từ ngày niêm yết",
+      "c. ít nhất 50% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết",
+      "d. ít nhất 30% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm"
+    ],
+    "answer": "c. ít nhất 50% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết"
+  },
+  {
+    "question": "Câu 48: Việc phân phối cổ phiếu niêm yết phải:,",
+    "options": [
+      "a. Theo giá bán được xác định trong bản cáo bạch đ• đăng ký với ủy ban Chứng khoán Nhà nước",
+      "b. Theo giá thỏa thuận với nhà đầu tư.",
+      "c. Theo giá thị trường qua đấu giá.",
+      "d. Theo giá ưu đ•i do Hội đồng quản trị của công ty phát hành quyết định"
+    ],
+    "answer": "a. Theo giá bán được xác định trong bản cáo bạch đ• đăng ký với ủy ban Chứng khoán Nhà nước"
+  },
+  {
+    "question": "Câu 49: Thị trường tài chính là nơi huy động vốn:,",
+    "options": [
+      "a. Ngắn hạn.",
+      "b. Trung hạn.",
+      "c. Dài hạn",
+      "d. Ngắn hạn, trung hạn và dài hạn"
+    ],
+    "answer": "d. Ngắn hạn, trung hạn và dài hạn"
+  },
+  {
+    "question": "Câu 50: Nhà đầu tư đặt lệnh mua bán chứng khoán niêm yết tại:,",
+    "options": [
+      "a. ủy ban Chứng khoán",
+      "b. Trung tâm Giao dịch chứng khoán",
+      "c. Công ty chứng khoán.",
+      "d. [Missing option]"
+    ],
+    "answer": "c. Công ty chứng khoán."
+  },
+  {
+    "question": "Câu 51: Hình thức bảo l•nh phát hành trong đó đợt phát hành sẽ bị hủy bỏ nếu toàn bộ chứng khoán không bán,",
+    "options": [
+      "a. Bảo l•nh với cam kết chắc chắn",
+      "b. Bảo l•nh với cố gắng tối đa.",
+      "c. Bảo l•nh tất cả hoặc không",
+      "d. Tất cả các hình thức trên."
+    ],
+    "answer": "c. Bảo l•nh tất cả hoặc không"
+  },
+  {
+    "question": "Câu 52: Trong các nhận định sau đây, nhận định nào sai về thị trường chứng khoán thứ cấp.,",
+    "options": [
+      "a) Thị trường thứ cấp là nơi giao dịch các chứng khoán kém phẩm chất",
+      "b) Th ị trường thứ cấp tạo tính thanh khoản cho các cổ phiếu đang lưu hành.",
+      "c) Thị trường thứ cấp tạo cho người sở hữu chứng khoán cơ hội để rút vốn đầu tư của họ.",
+      "d) Thị trường thứ cấp tạo cho mọi người đầu tư cơ hội cơ cấu lại danh mục đầu tư của mình."
+    ],
+    "answer": "a) Thị trường thứ cấp là nơi giao dịch các chứng khoán kém phẩm chất"
+  },
+  {
+    "question": "Câu 53: Cổ đông sở hữu cổ phiếu ưu đ•i cổ tức ở Việt Nam có quyền:, I. Nhận cổ tức với mức ưu đ•i., II.Tham dự và biểu quyết tất cả các vấn đề thuộc thẩm quyền của Đại hội đồng cổ đông., III. Khi công ty giải thể, được nhận lại một phần tài sản tương ứng với số cổ phần góp vào công ty., IV. Được nhận cổ tức ưu đ•i như l•i suất trái phiếu kể cả khi công ty làm ăn thua lỗ.,",
+    "options": [
+      "a. I",
+      "b. I và II",
+      "c. I và III",
+      "d. Chi IV"
+    ],
+    "answer": "a. I"
+  },
+  {
+    "question": "Câu 54: Công ty XYZ có 10.000 cổ phiếu đang lưu hành và tuyên bố trả cổ tức bằng cổ phiếu với mức 30%.,",
+    "options": [
+      "a. 1%",
+      "b. 1.3%",
+      "c. 1.5%",
+      "d. 1.1%"
+    ],
+    "answer": "a. 1%"
+  },
+  {
+    "question": "Câu 55: Việc đăng ký lưu ký chứng khoán tại TTGDCK được thực hiện bởi:,",
+    "options": [
+      "a) Người sở hữu chứng khoán",
+      "b) Tổ chức phát hành",
+      "c) Tổ chức bảo l•nh phát hành",
+      "d) Thành viên lưu ký"
+    ],
+    "answer": "d) Thành viên lưu ký"
+  },
+  {
+    "question": "Câu 56: Công ty SAM được phép phát hành 7.000.000 cổ phiếu theo Điều lệ công ty. Công ty phát hành được, I. a, b và c;, II. a, b, c và d;, III. b, c và d;, IV. c và d;, V. Chỉ c.",
+    "options": [
+      "a. 7.000.000 cổ phiếu",
+      "b. 6.000.000 cổ phiếu",
+      "c. 5.000.000 cổ phiếu",
+      "d. 4.000.000 cổ phiếu"
+    ],
+    "answer": "c. 5.000.000 cổ phiếu"
+  },
+  {
+    "question": "Câu 57: Để giao dịch chưng khoán niêm yết tại Trung tâm giao dịch chứng khoán cần phải có các bước:, I. Trung tâm giao dịch chứng khoán thực hện ghép lệnh và thông báo kết quả giao dịch cho công ty chứng khoán., II. Nhà đầu tư mở tài khoản, đặt lệnh mua bán chứng khoán., III. Công ty chứng khoán nhập lệnh vào hệ thống giao dịch của Trung tâm., IV. Nhà đầu tư nhận được chứng khoán (nếu là người mua) hoặc tiền (nếu là người bán) trên tài khoản của, V. Công ty chứng khoán thông báo kết quả giao dịch cho nhà đầu tư.,",
+    "options": [
+      "a. I, II, III, IV, V",
+      "b. I, III, V, II, IV",
+      "c. II, I, V, IV, III",
+      "d. II, III, I, V, IV"
+    ],
+    "answer": "d. II, III, I, V, IV"
+  },
+  {
+    "question": "Câu 58: Số lệ__________nh của cổ phiếu XXX với giá đóng cửa trước đó là 30,5 như sau:,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 59: Giả sử giá đóng cửa của chứng khoán A trong phiên giao dịch trước là 10200 đồng, đơn vị yết giá là,",
+    "options": [
+      "a. 9998, 10998, 10608",
+      "b. 9900, 10000, 10100, 10300, 10300",
+      "c. 9900, 1000, 10100, 10500, 10600",
+      "d. 1000, 10100, 10200, 10300, 10400"
+    ],
+    "answer": "d. 1000, 10100, 10200, 10300, 10400"
+  },
+  {
+    "question": "Câu 60: Phiến đóng cửa tuần n của thị trường chứng khoán Việt Nam, VN.Index là 237,78 điểm, tăng 2,64 điểm,",
+    "options": [
+      "a. 1,12%",
+      "b. 1,11%",
+      "c. 1%",
+      "d. 1,2%"
+    ],
+    "answer": "a. 1,12%"
+  },
+  {
+    "question": "Câu 61: Đối với các doanh nghiệp nhà nước cổ phần hóa và niêm yết ngay trên thị trường chứng khoán, điều,",
+    "options": [
+      "a) Vốn điều lệ",
+      "b) Thời gian hoạt động có l•i",
+      "c) Thời gian cam kết nắm giữ cổ phiếu của thành viên Hội đồng quản trị, Ban Giám đốc, Ban kiểm soát.",
+      "d) Tỷ lệ nắm giữ của các cổ đông ngoài tổ chức phát hành"
+    ],
+    "answer": "b) Thời gian hoạt động có l•i"
+  },
+  {
+    "question": "Câu 62: Trả cổ tức bằng cổ phiếu, sẽ làm:,",
+    "options": [
+      "a. Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty.",
+      "b. Không làm thay đổi tỷ lệ quyền lợi của cổ đông",
+      "c. Làm giảm quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "d. Không có câu nào đúng."
+    ],
+    "answer": "d. Không có câu nào đúng."
+  },
+  {
+    "question": "Câu 63: Nêu khái niệm Giá trị tài sản ròng của quỹ (NAV) và cách xác định Giá trị tài sản ròng của chứng chỉ,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 64: Chức năng thị trường chứng khoán thứ cấp của Trung tâm giao dịch chứng khoán được thể hiện, bởi:,",
+    "options": [
+      "a. Đấu giá cổ phần doanh nghiệp nhà nước cổ phần hóa;",
+      "b. Đấu thầu trái phiếu Chính phủ và các tài sản chính;",
+      "c. Giao dịch chứng khoán niêm yết/đăng ký giao dịch.",
+      "d. [Missing option]"
+    ],
+    "answer": "c. Giao dịch chứng khoán niêm yết/đăng ký giao dịch."
+  },
+  {
+    "question": "Câu 65: Môi giới chứng khoán là một nghiệp vụ kinh doanh chứng khoán, trong đó một công ty chứng khoán đại,",
+    "options": [
+      "a) Cơ chế giao dịch tại Sở giao dịch chứng khoán hoặc thị trường OTC, trong đó Sở giao dịch CK / Thị trường",
+      "b) Cơ chế giao dịch tại Sở giao dịch trong đó khách hàng chịu trách nhiệm về kết quả kinh tế của giao",
+      "c) Cơ chế giao dịch tại thị trường OTC trong đó khách hàng chịu trách nhiệm về kết quả kinh tế của giao dịch",
+      "d) b và c"
+    ],
+    "answer": "a) Cơ chế giao dịch tại Sở giao dịch chứng khoán hoặc thị trường OTC, trong đó Sở giao dịch CK / Thị trường"
+  },
+  {
+    "question": "Câu 66: Trong tháng 7 chúng ta không có ngày nghỉ lễ, giả sử bạn là người đầu tư bán cổ phiếu trên thị trường,",
+    "options": [
+      "a) Chủ nhật 18/7",
+      "b) Thứ hai 19/7",
+      "c) Thứ ba 20/7",
+      "d) Thứ tư 21/7"
+    ],
+    "answer": "d) Thứ tư 21/7"
+  },
+  {
+    "question": "Câu 67: Việc quản lý chứng khoán tại Hệ thống lưu ký chứng khoán tập trung có thể được thực hiện,",
+    "options": [
+      "a) Thông qua Hệ thống tài khoản lưu ký chứng khoán tại Trung tâm lưu ký chứng khoán đối với chứng khoán",
+      "b) Lưu giữ đặc biệt - lưu giữ chứng chỉ chứng khoán trong kho Trung tâm lưu ký chứng khoán đứng tên người",
+      "c) Do tổ chức phát hành quản lý",
+      "d) a và b"
+    ],
+    "answer": "d) a và b"
+  },
+  {
+    "question": "Câu 68: Khi lưu giữ chứng khoán tập trung tại một Trung tâm lưu ký chứng khoán, người đầu tư được quyền:,",
+    "options": [
+      "a) Rút chứng khoán ra bằng chứng chỉ;",
+      "b) Chuyển khoản chứng khoán thông qua hệ thống tài khoản mở tại Trung tâm lưu ký:",
+      "c) a và b",
+      "d. [Missing option]"
+    ],
+    "answer": "c) a và b"
+  },
+  {
+    "question": "Câu 69: Theo quy định của pháp luật Việt Nam, phát hành chứng khoán ra công chúng là:, I: a, b và c, II: a và c;, III: a, b và d;, IV: b và d",
+    "options": [
+      "a. Phát hành qua tổ chức trung gian;",
+      "b. Phát hành để niêm yết;",
+      "c. Có ít nhất 50 nhà đầu tư ngoài tổ chức phát hành;",
+      "d. Có ít nhất 50 nhà đầu tư."
+    ],
+    "answer": "a. Phát hành qua tổ chức trung gian;"
+  },
+  {
+    "question": "Câu 70: Mục tiêu chính của công tác thanh tra, giám sát việc thực hiện pháp luật chứng kiến khoán và thị,",
+    "options": [
+      "a) Bảo vệ quyền lợi của người đầu tư.",
+      "b) Góp phần đảm bảo cho hoạt động thị trường chứng khoán công bằng, công khai, hiệu quả.",
+      "c) Giảm thiểu rủi ro hệ thống",
+      "d) Để người đầu tư ngày càng có l•i."
+    ],
+    "answer": "a) Bảo vệ quyền lợi của người đầu tư."
+  },
+  {
+    "question": "Câu 71: Công ty cổ phần là doanh nghiệp, trong đó:, I. Vốn điều lệ được chia thành nhiều phần bằng nhau gọi là cổ phần., II. Cổ đông chịu trách nhiệm hữu hạn về nghĩa vụ nợ, III. Cổ đong có quyền tự do chuyển nhượng tất cả các loại cổ phần của mình., IV. Không hạn chế số lượng cổ đông tối đa,",
+    "options": [
+      "a. I và II",
+      "b. I, II và III",
+      "c. I, II và IV",
+      "d. I, III và IV"
+    ],
+    "answer": "c. I, II và IV"
+  },
+  {
+    "question": "Câu 72: Lệnh thị trường là lệnh:,",
+    "options": [
+      "a) Mua, bán theo giá thị trường",
+      "b) Lưu giữ ở sổ bệnh đến khi mua bán được mới thôi",
+      "c) Lệnh đặt mua, bán chứng khoán ở một giá nhất định để thị trường chấp nhận.",
+      "d) Không có đáp án nào trên đúng."
+    ],
+    "answer": "a) Mua, bán theo giá thị trường"
+  },
+  {
+    "question": "Câu 73: Loại hình niêm yết nào sau đây mang tính chất thâu tóm, sáp nhập công ty:,",
+    "options": [
+      "a. Niêm yết lần đầu;",
+      "b. Niêm yết lại;",
+      "c. Niêm yết bổ sung;",
+      "d. Niêm yết cửa sau;"
+    ],
+    "answer": "d. Niêm yết cửa sau;"
+  },
+  {
+    "question": "Câu 74: Thị trường tài chính bao gồm:,",
+    "options": [
+      "a) Thị trường tiền tệ và thị trường vốn",
+      "b) Thị trường hối đoái và thị trường vốn",
+      "c) Thị trường chứng khoán và thị trường tiền tệ",
+      "d) Thị trường thuê mua và thị trường bảo hiểm"
+    ],
+    "answer": "a) Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "question": "Câu 75: Thị trường chứng khoán bao gồm,",
+    "options": [
+      "a) Thị trường vốn và thị trường thuê mua",
+      "b) Thị trường cổ phiếu và thị trường trái phiếu",
+      "c) Thị trường hối đoái và thị trường cho vay ngắn hạn",
+      "d) Tất cả các câu trên"
+    ],
+    "answer": "b) Thị trường cổ phiếu và thị trường trái phiếu"
+  },
+  {
+    "question": "Câu 76: Căn cứ và sự luân chuyển của các nguồn vốn, TTCK chia làm,",
+    "options": [
+      "a) Thị trường nợ và thị trường trái phiếu",
+      "b) Thị trường tập trung và thị trường OTC",
+      "c) Thị trường sơ cấp và thị trường thứ cấp",
+      "d) Cả 3 câu trên đều đúng"
+    ],
+    "answer": "c) Thị trường sơ cấp và thị trường thứ cấp"
+  },
+  {
+    "question": "Câu 77: Căn cứ vào phương thức hoạt động, TTCK bao gồm:,",
+    "options": [
+      "a) Thị trường thứ 3 và thị trường OTC",
+      "b) Thị trường tập trung và thị trường phi tập trung",
+      "c) Cả a & b đều đúng",
+      "d) Cả a & b đều sai."
+    ],
+    "answer": "b) Thị trường tập trung và thị trường phi tập trung"
+  },
+  {
+    "question": "Câu 78: 1 công ty XYZ thông báo sẽ tiến hành gộp cổ phiếu, điều này sẽ làm,",
+    "options": [
+      "a) Không thay đổi gì",
+      "b) Tăng mệnh giá và giảm số lượng cổ phần",
+      "c) Giảm mệnh giá và tăng số lượng cổ phần",
+      "d) Tăng mệnh giá tương đương với chỉ số gộp."
+    ],
+    "answer": "b) Tăng mệnh giá và giảm số lượng cổ phần"
+  },
+  {
+    "question": "Câu 79: 1 Công ty XYZ thông báo sẽ tiến hành tách cổ phiếu, điều này sẽ làm,",
+    "options": [
+      "a) Tăng mệnh giá tương đương với chỉ số tách",
+      "b) Không thay đổi gì",
+      "c) Giảm mệnh giá và tăng số lượng cổ phần",
+      "d) Tăng mệnh giá và giảm số lượng cổ phần"
+    ],
+    "answer": "c) Giảm mệnh giá và tăng số lượng cổ phần"
+  },
+  {
+    "question": "Câu 80: Ai trong số những người sau đây là chủ sở hữu công ty, I. Những người nắm giữ trái phiếu, II. Những cổ đông có giấy bảo đảm quyền mua cổ phiếu mới, III. Các cổ đông nắm giữ cổ phiếu thường, IV. Các cổ đông nắm giữ cổ phiếu ưu đ•i,",
+    "options": [
+      "a) I & II",
+      "b) II & III",
+      "c) Chỉ có I",
+      "d) II, III &IV"
+    ],
+    "answer": "d) II, III &IV"
+  },
+  {
+    "question": "Câu 81: Thị trường mua bán lần đầu các chứng khoán mới phát hành là,",
+    "options": [
+      "a) Thị trường tiền tệ",
+      "b) Thị trường sơ cấp",
+      "c) Thị trường thứ cấp",
+      "d) Thị trường chính thức"
+    ],
+    "answer": "b) Thị trường sơ cấp"
+  },
+  {
+    "question": "Câu 82: Loại chứng khoán nào sau đây được phép phát hành kèm theo trái phiếu hoặc cổ phiếu ưu đ•i, cho phép,",
+    "options": [
+      "a) Cổ phiếu ưu đ•i",
+      "b) Trái phiếu",
+      "c) Chứng quyền",
+      "d) Quyền mua cổ phần"
+    ],
+    "answer": "c) Chứng quyền"
+  },
+  {
+    "question": "Câu 83: Phương thức phát hành qua đấu giá là,",
+    "options": [
+      "a) Nhận bán chứng khoán cho tổ chức phát hành trên cơ sở thỏa thuận về giá.",
+      "b) Tổ chức phát hành trực tiếp bán cho các tổ chức, cá nhân có nhu cầu",
+      "c) Nhận bán lại chứng khoán của tổ chức phát hành",
+      "d) Chào bán chứng khoán dựa trên cơ sở cạnh tranh hình thành giá và khối lượng trúng thầu"
+    ],
+    "answer": "d) Chào bán chứng khoán dựa trên cơ sở cạnh tranh hình thành giá và khối lượng trúng thầu"
+  },
+  {
+    "question": "Câu 84: Quy trình giao dịch chứng khoán là như sau:, I. Khách hàng đặt lệnh., II. Công ty chứng khoán nhận và kiểm tra lệnh, III. Lệnh đăng ký tại quầy giao dịch hoặc máy chủ, IV. Lệnh được chuyển đến trung tâm giao dịch,",
+    "options": [
+      "a) I, II, III & IV",
+      "b) I, II, IV& III",
+      "c) I, III, II & IV",
+      "d) I, III, IV & II"
+    ],
+    "answer": "c) I, III, II & IV"
+  },
+  {
+    "question": "Câu 85: SGDCK là, I. Thị trường giao dịch tập trung, II. Giao dịch CK niêm yết, III. Thị trường thương lượng,",
+    "options": [
+      "a) I & II",
+      "b) I, II & III",
+      "c) II & III",
+      "d) Tất cả đều đúng"
+    ],
+    "answer": "b) I, II & III"
+  },
+  {
+    "question": "Câu 86: Những diều này sau đây đúng với phạm trù thị trường thứ cấp, I. Thị trường giao dịch chứng khoán mua đi bán lại, II. Tạo tính thanh khoản cho vốn đầu tư, III. Tạo ra người đầu cơ, IV. Tạo ra vốn cho tổ chức phát hành,",
+    "options": [
+      "a) I & II",
+      "b) I, II & III",
+      "c) I, III & IV",
+      "d) Tất cả"
+    ],
+    "answer": "b) I, II & III"
+  },
+  {
+    "question": "Câu 87: Quỹ đầu tư theo nghị định 144 là, I. Hình thành từ vốn góp của người đầu tư, II. Được công ty quản lý quỹ quản lý, III. Dành tối thiểu 60% giá trị tài sản để đầu tư vào chứng khoán, IV. Chỉ được đầu tư vào chứng khán.,",
+    "options": [
+      "a) I, II & IV",
+      "b) I, II & III",
+      "c) II, III & IV",
+      "d) Tất cả đều sai"
+    ],
+    "answer": "b) I, II & III"
+  },
+  {
+    "question": "Câu 88: Trên TTCK, hành vi có tiêu cực là:,",
+    "options": [
+      "a) Giao dịch của nhà đầu tư lớn",
+      "b) Mua bán cổ phiếu của cổ đông và l•nh đạo các công ty niêm yết",
+      "c) Mua bán nội gián",
+      "d) Mua bán lại chính cổ phiếu của công ty niêm yết."
+    ],
+    "answer": "c) Mua bán nội gián"
+  },
+  {
+    "question": "Câu 89: Sự tách biệt giữa phòng môi giới và phòng tự doanh của công ty chứng khoán sẽ làm cho:,",
+    "options": [
+      "a) Tăng chi phí giao dịch",
+      "b) Tăng chi phí nghiên cứu",
+      "c) Gây khó khăn cho công ty trong công việc",
+      "d) Khách hàng yên tâm và tin tưởng vào công ty"
+    ],
+    "answer": "d) Khách hàng yên tâm và tin tưởng vào công ty"
+  },
+  {
+    "question": "Câu 90: Phát hành thêm cổ phiếu mới ra công chúng để niêm yết phải theo các quy định dưới đây, ngoại trừ:,",
+    "options": [
+      "a) Lần phát hành thêm cách lần phát hành trước ít nhất 1 năm",
+      "b) Có kế hoạch và đăng ký trước với UBCK 3 tháng",
+      "c) Giá trị cổ phiếu phát hành thêm không lớn hơn tổng giá trị cổ phiếu đang lưu hành",
+      "d) Tất cả"
+    ],
+    "answer": "d) Tất cả"
+  },
+  {
+    "question": "Câu 91: Đại diện giao dịch tại TTGDCK,",
+    "options": [
+      "a) Là người được thành viên của TTGDCK cử làm đại diện",
+      "b) Là công ty chứng khoán được UBCK cấp giấy phép hoạt động",
+      "c) Là công ty chứng khoán thành viên của TTGDCK",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Là người được thành viên của TTGDCK cử làm đại diện"
+  },
+  {
+    "question": "Câu 92: TTGDCK tạm ngừng giao dịch của 1 loại chứng khoán khi,",
+    "options": [
+      "a) Khi chứng khoán không còn thuộc diện bị kiểm soát",
+      "b) Khi chứng khoían bị rơi vào tình trạng bị kiểm soát",
+      "c) Tách, gộp cổ phiếu của công ty niêm yết.",
+      "d) Tất cả đều đúng."
+    ],
+    "answer": "b) Khi chứng khoían bị rơi vào tình trạng bị kiểm soát"
+  },
+  {
+    "question": "Câu 93: Theo quy định tại thông tư 01/UBCK, bảo l•nh phát hành ở Việt Nam được thực hiện dưới hình thức:,",
+    "options": [
+      "a) Cố gắng cao nhất",
+      "b) Tối thiểu - tối đa",
+      "c) Cam kết chắc chắn",
+      "d) Tất cả hoặc không"
+    ],
+    "answer": "c) Cam kết chắc chắn"
+  },
+  {
+    "question": "Câu 94: Bản cáo bạch tóm tắt là tài liệu mà tổ chức phát hành,",
+    "options": [
+      "a) Cung cấp cho các nhà đầu tư",
+      "b) Cung cấp cho nhân viên của tổ chức phát hành",
+      "c) Nộp cho UBCKNN trong hồ sơ xin phép phát hành CK",
+      "d) Dùng để thăm dò thị trường trong thời gian chờ UBCKNN xem xét hồ sơ xin phép phát hành."
+    ],
+    "answer": "c) Nộp cho UBCKNN trong hồ sơ xin phép phát hành CK"
+  },
+  {
+    "question": "Câu 95: Chức năng chính của tổ chức bảo l•nh phát hành là,",
+    "options": [
+      "a) Tư vấn",
+      "b) Bao tiêu chứng khoán",
+      "c) Định giá CK phát hành",
+      "d) Chuẩn bị hồ sơ xin phép phát hành"
+    ],
+    "answer": "b) Bao tiêu chứng khoán"
+  },
+  {
+    "question": "Câu 96: Trong các nhận định sau đây, nhận định nào sai về thị trường thứ cấp,",
+    "options": [
+      "a) Là nơi chào bán các CK mới phát hành",
+      "b) Tạo tính thanh khoản cho CK",
+      "c) Tạo cho người sở hữu CK cơ hội rút vốn",
+      "d) Cho phép các nhà đầu tư sắp xếp lại danh mục đầu tư"
+    ],
+    "answer": "a) Là nơi chào bán các CK mới phát hành"
+  },
+  {
+    "question": "Câu 97: ý nghĩa của việc phân biệt phát hành riêng lẻ và phát hành ra công chúng là,",
+    "options": [
+      "a) Phân biệt quy mô huy động vốn",
+      "b) Phân biệt đối tượng và phạm vi cần quản lý",
+      "c) Phân biệt loại CK được phát hành",
+      "d) Phân biệt hình thức bán buôn hay bán lẻ"
+    ],
+    "answer": "b) Phân biệt đối tượng và phạm vi cần quản lý"
+  },
+  {
+    "question": "Câu 98: Trong các điều kiện để quản lý DN được phát hành CK ra công chúng, điều kiện nào là quan trọng,",
+    "options": [
+      "a) Có ban Giám đốc điều hành tốt",
+      "b) Có sản phẩm nổi tiếng",
+      "c) Có tỷ lệ nợ trên vốn hợp lý",
+      "d) Quy mô vốn và kết quả hoạt động trước khi phát hành"
+    ],
+    "answer": "d) Quy mô vốn và kết quả hoạt động trước khi phát hành"
+  },
+  {
+    "question": "Câu 99: Hiện nay ở Việt Nam trong quy định về phát hành CK ra công chúng thì tỷ lệ CK phát hành ra bên ngoài,",
+    "options": [
+      "a) 30%",
+      "b) 20%",
+      "c) 25%",
+      "d) 15%"
+    ],
+    "answer": "b) 20%"
+  },
+  {
+    "question": "Câu 100: Những CK nào được phép niêm yết tại TTGD,",
+    "options": [
+      "a) Trái phiếu chính phủ",
+      "b) Cổ phiếu của các DN thực hiện cổ phần hóa",
+      "c) CK của các DN đ• được UBCKNN cấp giấy phép phát hành ra công chúng",
+      "d) Cả a & c"
+    ],
+    "answer": "d) Cả a & c"
+  },
+  {
+    "question": "Câu 101: M t công ty có c phi u u đ•i không tích lũy đang l ộ ổ ế ư ưu hành được trả cổ tức hàng năm là 7USD. Năm,",
+    "options": [
+      "a) 7 USD",
+      "b) 10 USD",
+      "c) 14 USD",
+      "d) Tất cả đều sai"
+    ],
+    "answer": "a) 7 USD"
+  },
+  {
+    "question": "Câu 102: Nghĩa vụ nào sau đây không thuộc nghĩa vụ của thành viên giao dịch,",
+    "options": [
+      "a) Nộp BCTC 6 tháng",
+      "b) Đóng góp lập quỹ hỗ trợ thanh toán",
+      "c) Nộp phí thành viên, phí giao dịch, phí sử dụng hệ thống giao dịch",
+      "d) Tất cả đều đúng"
+    ],
+    "answer": "a) Nộp BCTC 6 tháng"
+  },
+  {
+    "question": "Câu 103: Người có giấy phép kinh doanh hành nghề CK được phép,",
+    "options": [
+      "a) Cùng làmiệc hoặc góp vốn vào 2 hay nhiều công ty CK",
+      "b) Làm GĐ 1 tổ chức niêm yết",
+      "c) Tham gia kinh doanh hoạt động CK",
+      "d) Cho mượn giấy phép hành nghề"
+    ],
+    "answer": "c) Tham gia kinh doanh hoạt động CK"
+  },
+  {
+    "question": "Câu 104: Các nhà phân tích kỹ thuật ít quan tâm đến chỉ tiêu nào trong số các chỉ tiêu sau đây,",
+    "options": [
+      "a) Số lượng CK giao dịch",
+      "b) Tỷ lệ nợ trên vốn cổ phần",
+      "c) Xu hướng giá",
+      "d) Giá mở cửa, đóng cửa"
+    ],
+    "answer": "b) Tỷ lệ nợ trên vốn cổ phần"
+  },
+  {
+    "question": "Câu 105: Theo quy định của VN, công ty CK là loại hình DN, I. DNNN, II. Công ty liên doanh, III. Công ty TNHH, IV. Công ty CP, V. Công ty hợp danh,",
+    "options": [
+      "a) Chỉcó I & II",
+      "b) Chỉ có II & III",
+      "c) III & IV",
+      "d) Tất cả"
+    ],
+    "answer": "c) III & IV"
+  },
+  {
+    "question": "Câu 106: Căn cứ vào đặc điểm và tính chất, công ty CK là, I. Công ty chuyên doanh, II. Công ty đa năng, III. Công ty đa năng toàn phần, IV. Công ty đa năng một phần,",
+    "options": [
+      "a) Chỉ số I",
+      "b) II & III",
+      "c) I & IV",
+      "d) Tất cả"
+    ],
+    "answer": "c) I & IV"
+  },
+  {
+    "question": "Câu 107: Trong khi thực hiện tự doanh, công ty CK phải tuân thủ các nguyên tắc sau:, I. Tách bạch tài khoản giữa công ty và khách hàng, II. Bình ổn thị trường, III. Tuân thủ về giới hạn đầu tư, lĩnh vực đầu tư,",
+    "options": [
+      "a) I & II",
+      "b) II & III",
+      "c) I, II, II",
+      "d) Tất cả đều sai"
+    ],
+    "answer": "c) I, II, II"
+  },
+  {
+    "question": "Câu 108: Chức năng của hệ thống đăng ký, lưu ký, thanh toán bù trừ CK, I. Quản lý các CK lưu lý của khách hàng, II. Ghi nhận quyền sở hữu, III. Cungcấp các thông tin về CK bị giả mạo, mất cắp, IV. Phân phối l•i, trả vốn gốc và cổ tức bằng tiền cho người sở hữu CK,",
+    "options": [
+      "a) I, II",
+      "b) I, II, III",
+      "c) II, III, IV",
+      "d) Tất cả"
+    ],
+    "answer": "d) Tất cả"
+  },
+  {
+    "question": "Câu 109: Quy trình đăng ký làm thành viên lưu ý của TTGDCK, I. Nộp hồ sơ đăng ký, II. Kiểm tra hồ sơ, III. Đóng quỹ hỗ trợ thanh toán và phí thành viên, IV. Quyết định chấp nhận,",
+    "options": [
+      "a) I, II, III, IV",
+      "b) II, III, IV, I",
+      "c) III, II, I, IV",
+      "d) IV, III, II, I"
+    ],
+    "answer": "a) I, II, III, IV"
+  },
+  {
+    "question": "Câu 110: Mở tài khoản lưu ký CK, I. Tài khoản CK giao dịch, II. Tài khoản CK cầm cố, III. Tài khoản CK chờ niêm yết, chờ rút, IV. Tài khoản thanh toán bù trừ,",
+    "options": [
+      "a) I, II",
+      "b) I, II, III",
+      "c) I, III, IV",
+      "d) Tất cả"
+    ],
+    "answer": "d) Tất cả"
+  },
+  {
+    "question": "Câu 111: Tiêu chuẩn bản chất đạo đức nghề nghiệp bao gồm, I. Có trình độ năng lực, II. Làm việc có tiêu chuẩn tay nghề, III. Có đạo đức tốt, IV. Có niềm tự hào.,",
+    "options": [
+      "a) I, II",
+      "b) II, III",
+      "c) I, II, III",
+      "d) Tất cả"
+    ],
+    "answer": "d) Tất cả"
+  },
+  {
+    "question": "Câu 112: Chức năng của chỉ số thị trường chứng khoán là, I. Phong vũ biểu phản ánh nền kinh tế, II. Là cơ sở để đánh giá hoạt động của từng doanh nghiệp, III. Là cơ sở để nhà đầu tư tạo lập danh mục đầu tư có hiệu quả,",
+    "options": [
+      "a) I",
+      "b) II",
+      "c) I, III",
+      "d) I, II, III"
+    ],
+    "answer": "c) I, III"
+  },
+  {
+    "question": "Câu 113: Lý do nào sau đây đúng với bản khống chứng khoán,",
+    "options": [
+      "a) Ngăn chặn sự thua lỗ",
+      "b) Hưởng lợi từ sự sụt giá CK",
+      "c) Hưởng lợi từ sự tăng giá CK",
+      "d) Hạn chế rủi ro"
+    ],
+    "answer": "b) Hưởng lợi từ sự sụt giá CK"
+  },
+  {
+    "question": "Câu 114: Công ty Cổ phần bắt buộc phải có,",
+    "options": [
+      "a) Cổ phiếu phổ thông",
+      "b) Cổ phiếu ưu đ•i",
+      "c) Trái phiếu công ty",
+      "d) Tất cả các loại chứng khoán trên"
+    ],
+    "answer": "a) Cổ phiếu phổ thông"
+  },
+  {
+    "question": "Câu 115: Đối với công chúng đầu tư, tài liệu nào quan trọng nhất trong hồ sơ đăng ký phát hành ra công chúng:,",
+    "options": [
+      "a) Bản sao giấy phép thành lập và đăng ký kinh doanh",
+      "b) Danh sách và sơ yếu lý lịch thành viên HĐQT và BGĐ",
+      "c) Đơn xin phép phát hành",
+      "d) Bản cáo bạch"
+    ],
+    "answer": "d) Bản cáo bạch"
+  },
+  {
+    "question": "Câu 116: Nếu 1 trái phiếu được bán ra thấp hơn mệnh gì thì:,",
+    "options": [
+      "a) L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của trái phiếu",
+      "b) L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+      "c) L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+      "d) Không có cơ sở để so sánh."
+    ],
+    "answer": "b) L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu"
+  },
+  {
+    "question": "Câu 117: Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời,",
+    "options": [
+      "a) L•i suất trái phiếu X > l•i suất trái phiếu Y",
+      "b) L•i suất trái phiếu X = l•i suất trái phiếu Y",
+      "c) L•i suất trái phiếu X < l•i suất trái phiếu Y",
+      "d) Còn tùy trường hợp cụ thể"
+    ],
+    "answer": "c) L•i suất trái phiếu X < l•i suất trái phiếu Y"
+  },
+  {
+    "question": "Câu 118: DNNN thực hiện bán đấu giá cổ phần lần đầu ra công chúng bắt buộc phải thực hiện đấu giá qua,",
+    "options": [
+      "a) 10 tỷ đồng trở nên",
+      "b) Từ 1 đến 10 tỷ đồng",
+      "c) 5 tỷ đồng trở nên",
+      "d) Tùy DN có muốn thực hiện đấu giá qua trung tâm hay không"
+    ],
+    "answer": "a) 10 tỷ đồng trở nên"
+  },
+  {
+    "question": "Câu 119: Khi thực hiện bán CP của DNNN, cổ đông chiến lược được phép mua,",
+    "options": [
+      "a) Tối đa 20% tổng số CP bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân",
+      "b) Tối đa 25% tổng số CP bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân",
+      "c) Tối đa 25% tổng số CP bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân",
+      "d) Tối đa 20% tổng số CP bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân"
+    ],
+    "answer": "a) Tối đa 20% tổng số CP bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân"
+  },
+  {
+    "question": "Câu 120: Nhà đầu tư đặt lệnh mua bán chứng khoán tại:,",
+    "options": [
+      "a) UBCK",
+      "b) TTGDCK",
+      "c) Công ty chứng khoán",
+      "d) Tất cả các nơi trên"
+    ],
+    "answer": "c) Công ty chứng khoán"
+  },
+  {
+    "question": "Câu 121: Kha l•i suất thị trường tăng hoặc giảm, giá của các loại CK nào sau đây sẽ biến động mạnh nhất.,",
+    "options": [
+      "a) Trái phiếu trung hạn",
+      "b) Trái phiếu dài hạn",
+      "c) Cổ phiếu",
+      "d) Cổ phiếu ưu đ•i"
+    ],
+    "answer": "b) Trái phiếu dài hạn"
+  },
+  {
+    "question": "Câu 122: Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niêm yết trên thị,",
+    "options": [
+      "a) 25%",
+      "b) 27%",
+      "c) 35%",
+      "d) 49%"
+    ],
+    "answer": "a) 25%"
+  },
+  {
+    "question": "Câu 123: Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông sẽ:,",
+    "options": [
+      "a) Là chủ nợ chung",
+      "b) Mất toàn bộ số tiền đầu tư",
+      "c) Được ưu tiên trả lại cổ phần đ• góp trước",
+      "d) Là người cuối cùng được thanh toán"
+    ],
+    "answer": "a) Là chủ nợ chung"
+  },
+  {
+    "question": "Câu 124: Thị trường tài chính là nơi huy động vốn:,",
+    "options": [
+      "a) Ngắn hạn",
+      "b) Trung hạn",
+      "c) Dài hạn",
+      "d) Cả 3 yếu tố trên"
+    ],
+    "answer": "d) Cả 3 yếu tố trên"
+  },
+  {
+    "question": "Câu 125: Sở giao dịch chứng khoán là:,",
+    "options": [
+      "a) Thị trường giao dịch CK tập trung",
+      "b) Thị trường giao dịch CK phi tập trung",
+      "c) 1 trong các hoạt động của TTCK thứ cấp",
+      "d) Cả a & c"
+    ],
+    "answer": "d) Cả a & c"
+  },
+  {
+    "question": "Câu 126: CK xác định người sở hữu nó có:,",
+    "options": [
+      "a) Quyền sở hữu đối với 1 công ty",
+      "b) Quyền chủ nợ đối với 1 công ty",
+      "c) Quyền chủ nợ đối với chính phủ hay chính quyền địa phương",
+      "d) Tất cả các quyền trên"
+    ],
+    "answer": "d) Tất cả các quyền trên"
+  },
+  {
+    "question": "Câu 127: Cổ phiếu trái phiếu có cùng đặc trưng là:,",
+    "options": [
+      "a) Có l•i suất cố định",
+      "b) Có thu nhập theo hoạt động của công ty",
+      "c) Được quyền bầu cử tại HĐCĐ",
+      "d) Không có câu nào đúng"
+    ],
+    "answer": "d) Không có câu nào đúng"
+  },
+  {
+    "question": "Câu 128: Chính phủ phát hành trái phiếu nhằm các mục đích ngoại trừ:,",
+    "options": [
+      "a) Bù đắp thâm hụt ngân sách",
+      "b) Tài trợ các công trình công cộng",
+      "c) Giúp đỡ các công ty",
+      "d) Điều tiết tiền tệ"
+    ],
+    "answer": "c) Giúp đỡ các công ty"
+  },
+  {
+    "question": "Câu 129: Trong các điều kiện để quản lý DN được phát hành CK ra công chúng, điều kiện nào là quan trọng,",
+    "options": [
+      "a) Có ban giám đốc điều hành tốt",
+      "b) Có sản phẩm nổi tiếng",
+      "c) Có tỷ lệ nợ trên vốn hợp lý",
+      "d) Quy mô vốn và kết quả hoạt động trước khi phát hành"
+    ],
+    "answer": "d) Quy mô vốn và kết quả hoạt động trước khi phát hành"
+  },
+  {
+    "question": "Câu 130: Khi l•i su ất thị trường tăng lên giá trái phiếu sẽ:,",
+    "options": [
+      "a) Tăng",
+      "b) Giảm",
+      "c) Không thay đổi",
+      "d. [Missing option]"
+    ],
+    "answer": "b) Giảm"
+  },
+  {
+    "question": "Câu 131: Một nhà đầu tư muốn thu được lợi vốn thì khi nào là thời điểm để mua trái phiếu:,",
+    "options": [
+      "a) Khi l•i suất cao và dự kiến sẽ giảm xuống",
+      "b) Khi l•i suất thấp và dự kiến sẽ tăng lên",
+      "c) Khi l•i suất ổn định và dự kiến không thay đổi",
+      "d) Khi trái phiếu thấp và l•i suất dự kiến sẽ tăng"
+    ],
+    "answer": "d) Khi trái phiếu thấp và l•i suất dự kiến sẽ tăng"
+  },
+  {
+    "question": "Câu 132: Chức năng chính của tổ chức bảo l•nh phát hành là:,",
+    "options": [
+      "a) Tư vấn.",
+      "b) Chuẩn bị hồ sơ xin phép phát hành",
+      "c) Định giá CK phát hành",
+      "d) Bao tiêu một phần hoặc toàn bộ số CK đ• phát hành"
+    ],
+    "answer": "d) Bao tiêu một phần hoặc toàn bộ số CK đ• phát hành"
+  },
+  {
+    "question": "Câu 133: Giả sử chỉ số DowJones công nghiệp ngày giao dịch là 120% phiếu và tổng giá của 30 loại CK hợp,",
+    "options": [
+      "a) 4",
+      "b) 0.15",
+      "c) 100.5",
+      "d) 0.25"
+    ],
+    "answer": "a) 4"
+  },
+  {
+    "question": "Câu 134: Giả sử giá đóng cửa chứng khoán A trong phiên giao dịch trước là 9800đ. Đơn vị yết giá 100đ, biên độ,",
+    "options": [
+      "a) 9310, 9810, 10000, 10290",
+      "b) 9300, 9700, 9800, 10200",
+      "c) 9500, 9700, 9900, 10000, 10400",
+      "d) 9400, 9500, 9600, 9700, 10200"
+    ],
+    "answer": "a) 9310, 9810, 10000, 10290"
+  },
+  {
+    "question": "Câu 135: Xác định giá mở cửa theo các lệnh sau đây. Biết rằng giá đóng cửa của ngày hôm trước là 10500đ,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 136: Một trong những điều kiện nào dưới đây chưa phải là điều kiện tối thiểu của việc phát hành lần đầu,",
+    "options": [
+      "a) Mức vốn tối thiểu là 10 tỷ VND",
+      "b) Kinh doanh có l•i trong năm gần nhất",
+      "c) Đội ngũ l•nh đạo của công ty có năng lực quản lý tốt",
+      "d) Tối thiểu 20% vốn cổ phần phát hành ra công chúng"
+    ],
+    "answer": "c) Đội ngũ l•nh đạo của công ty có năng lực quản lý tốt"
+  },
+  {
+    "question": "Câu 137: Các tổ chức có thể tham gia hoạt động tại trung tâm chứng khoán tập trung là:, I. Các nhà đầu tư có tổ chức., II. Các nhà đầu tư cá thể, III. Các công ty chứng khoán, IV. Các ngân hàng thương mại được UBCK cấp phê,",
+    "options": [
+      "a. Chỉ có I",
+      "b. Chỉ có II",
+      "c. Chỉ có II",
+      "d. Không có câu nào đúng"
+    ],
+    "answer": "a. Chỉ có I"
+  },
+  {
+    "question": "Câu 138: Khi công ty có l•i nó sẽ:,",
+    "options": [
+      "a. Trả cổ tức cho cổ phiếu thường",
+      "b. Trả l•i trái phiếu",
+      "c. Trả cổ tức cho cổ phiếu ưu đ•i",
+      "d. Không phải trả l•i và cổ tức"
+    ],
+    "answer": "a. Trả cổ tức cho cổ phiếu thường"
+  },
+  {
+    "question": "Câu 139: Việc tách cổ phiếu trong số đại diện để tính chỉ số chứng khoán theo phương pháp DownJoncs sẽ làm,",
+    "options": [
+      "a. Tăng",
+      "b. Giảm",
+      "c. Không đổi",
+      "d. [Missing option]"
+    ],
+    "answer": "b. Giảm"
+  },
+  {
+    "question": "Câu 140: Đại hội cổ đông sẽ điều:,",
+    "options": [
+      "a. Hội đồng quản trị và Ban kiểm soát",
+      "b. Hội đồng quản trị, để Hội đồng quản trị chọn giám đốc và ban kiểm soát",
+      "c. Hội đồng quản trị, chủ tịch hội đồng quản trị và Ban kiểm soát",
+      "d. Cả 3 đều sai"
+    ],
+    "answer": "a. Hội đồng quản trị và Ban kiểm soát"
+  },
+  {
+    "question": "Câu 141: H•y xác định ngày giao dịch chứng khoán có cổ tức tại sơ đồ dưới đây. Biết rằng ngày kết thúc năm,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 142: Theo luật pháp Việt Nam các tổ chức được phát hành cổ phiếu là:,",
+    "options": [
+      "a. Công ty TNHH",
+      "b. Doanh nghiệp nhà nước thực hiện cổ phần hóa",
+      "c. Công ty CP và DN nhà nước thực hiện cổ phần hóa",
+      "d. Công ty CP"
+    ],
+    "answer": "c. Công ty CP và DN nhà nước thực hiện cổ phần hóa"
+  },
+  {
+    "question": "Câu 143: Việc phát hành cổ phiếu làm tăng:,",
+    "options": [
+      "a. Nợ của công ty",
+      "b. Tài sản của công ty",
+      "c. Vốn cổ phần của công ty",
+      "d. Cả b và c"
+    ],
+    "answer": "d. Cả b và c"
+  },
+  {
+    "question": "Câu 144: M t c phi u bán theo quy n mua c phi u m ộ ổ ế ề ổ ế ới với giá 90.000đ/CP nhưng hiện nay giá trị thị trường,",
+    "options": [
+      "a. 3.000",
+      "b. 2.000",
+      "c. 20.000",
+      "d. 10.000"
+    ],
+    "answer": "b. 2.000"
+  },
+  {
+    "question": "Câu 145: Theo luật pháp Việt Nam hiện hành, các tổ chức được phép phát hành trái phiếu là:,",
+    "options": [
+      "a. Doanh nghiệp tư nhân",
+      "b. Công ty CP và DN nhà nước",
+      "c. Công ty TNHH, công ty CP và DN Nhà nước",
+      "d. Công ty Cổ phần"
+    ],
+    "answer": "c. Công ty TNHH, công ty CP và DN Nhà nước"
+  },
+  {
+    "question": "Câu 146: Theo luật pháp Việt Nam hiện hành, các tổ chức được phép phát hành trái phiếu là:,",
+    "options": [
+      "a. Doanh nghiệp tư nhân",
+      "b. Công ty cổ phần và doanh nghiệp Nhà nước",
+      "c. Công ty TNHH, Công ty CP và DN Nhà nước",
+      "d. Công ty Cổ phần"
+    ],
+    "answer": "c. Công ty TNHH, Công ty CP và DN Nhà nước"
+  },
+  {
+    "question": "Câu 147: Hiện nay ở Việt Nam, trong quy định về việc phát hành chứng khoán ra công chúng thì tỷ lệ chứng,",
+    "options": [
+      "a. 30%",
+      "b. 20% hoặc 15%",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "b. 20% hoặc 15%"
+  },
+  {
+    "question": "Câu 148: Một cổ phiếu bán theo quyền mua cổ phiếu với giá 90.000đ/CP nhưng hiện nay giá thị trường là,",
+    "options": [
+      "a. 3.000",
+      "b. 2.000",
+      "c. 20.000",
+      "d. 10.000"
+    ],
+    "answer": "d. 10.000"
+  },
+  {
+    "question": "Câu 149: Xác định các lệnh mua bán khớp lệnh với nhau,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 150: Xác định giá mở cửa:,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 151: Lệnh dừng để bán sẽ đặt tại mức giá:,",
+    "options": [
+      "a. Thấp hơn giá thị trường",
+      "b. Cao hơn giá thị trường",
+      "c. Bằng giá thị trường",
+      "d. Tùy vào quyết định của nhà đầu tư"
+    ],
+    "answer": "a. Thấp hơn giá thị trường"
+  },
+  {
+    "question": "Câu 152: Lệnh dừng để mua đặt tại giá:,",
+    "options": [
+      "a. Thấp hơn giá thị trường",
+      "b. Cao hơn giá thị trường",
+      "c. Bằng giá thị trường",
+      "d. Tùy thuộc vào quyết định của nhà đầu tư"
+    ],
+    "answer": "b. Cao hơn giá thị trường"
+  },
+  {
+    "question": "Câu 153: Mục đích của lệnh AQT là:,",
+    "options": [
+      "a. Tăng giá khớp lệnh",
+      "b. Tăng khối lượng giao dịch",
+      "c. Giảm giá khớp lệnh",
+      "d. Giảm khối lượng giao dịch"
+    ],
+    "answer": "b. Tăng khối lượng giao dịch"
+  },
+  {
+    "question": "Câu 154: Lệnh ATO là lệnh được thực hiện:,",
+    "options": [
+      "a. Trước lệnh giới hạn",
+      "b. Sau lệnh giới hạn",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Trước lệnh giới hạn"
+  },
+  {
+    "question": "Câu 155: Vào ngày 1.1.2005, một nhà đầu tư mua 100 cổ phiếu ABC với giá 40.000/CP. Tỷ lệ ký quỹ là 50%.,",
+    "options": [
+      "a. 40%",
+      "b. 35%",
+      "c. 17.50%",
+      "d. 8.75%"
+    ],
+    "answer": "b. 35%"
+  },
+  {
+    "question": "Câu 156: Theo cơ chế hoạt động của quỹ đầu tư mở thì:, I. Nhà đầu tư không được quyền bán lại chứng chỉ cho quỹ đầu tư đ• phát hành ra nó., II. Nhà đầu tư được quyền bán lại cho quỹ đầu tư mở đ• phát hành ra nó., III. Quỹ có chiến lược đầu tư dài hạn, IV. Quỹ có chiến lược đầu tư ngắn hạn,",
+    "options": [
+      "a. I và IV đúng",
+      "b. II và IV đúng",
+      "c. I đúng",
+      "d. II và III đúng"
+    ],
+    "answer": "d. II và III đúng"
+  },
+  {
+    "question": "Câu 157: Vào ngày 31.12.2005, 1 quỹ đầu tư đóng có tình trạng như sau:, VTC 4.200 31.500,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 158: Công ty XYZ định phát hành thêm 2 triệu cổ phiếu thường. Nếu điều này xảy ta thực sự thì:, I. Không ảnh hưởng đến tỷ lệ nắm giữ cổ phiếu của các cổ đông hiện có, II. Tài sản của Công ty sẽ giảm đi, III. Vốn chủ sở hữu của Công ty sẽ tăng lên.,",
+    "options": [
+      "a. I và IV đúng",
+      "b. II và III đúng",
+      "c. II và IV đúng",
+      "d. III và IV đúng"
+    ],
+    "answer": "a. I và IV đúng"
+  },
+  {
+    "question": "Câu 159: Giá tham chiếu của cổ phiếu BBC đang ở mức 21.000. Với biên độ dao động là 3% thì các nhà đầu tư,",
+    "options": [
+      "a. 11 mức giá",
+      "b. 12 mức giá",
+      "c. 13 mức giá",
+      "d. 14 mức giá"
+    ],
+    "answer": "d. 14 mức giá"
+  },
+  {
+    "question": "Câu 160: Nếu giá tham chiếu của cổ phiếu IBM đang ở mức 101.000 với biên độ giao động 10% thì theo quy,",
+    "options": [
+      "a. 90.900",
+      "b. 100.000",
+      "c. 101.500",
+      "d. 111.100"
+    ],
+    "answer": "b. 100.000"
+  },
+  {
+    "question": "Câu 161: Nếu giá tham chiếu của cổ phiếu GMD đang ở mức 50.500 với biên độ giao động 5% thì theo quy định,",
+    "options": [
+      "a. 51.100",
+      "b. 51.500",
+      "c. 53.100",
+      "d. 53.500"
+    ],
+    "answer": "b. 51.500"
+  },
+  {
+    "question": "Câu 162: Các nhà đầu tư lựa chọn giai dịch bán bán khi họ dự đoán rằng:,",
+    "options": [
+      "a. Giá CKhoán có xu hướng tăng trong tương lai",
+      "b. Giá CKhoán có xu hướng giảm trong tương lai",
+      "c. Giá CKhoán có thể là bất kỳ theo xu hướng nào",
+      "d. Giá CKhoán không thay đổi"
+    ],
+    "answer": "b. Giá CKhoán có xu hướng giảm trong tương lai"
+  },
+  {
+    "question": "Câu 163: Một nhà đầu tư đến công ty CK của mình và vay 7.500 cổ phiếu VIH. Ông ta bán toàn bộ số cổ phiếu,",
+    "options": [
+      "a. 7.14%",
+      "b. 10.71%",
+      "c. 10.14%",
+      "d. 71.71%"
+    ],
+    "answer": "a. 7.14%"
+  },
+  {
+    "question": "Câu 164: Chức năng của chỉ số là:, I. Là phòng vũ biểu phản ánh nền kinh tế, II. Là cơ sở để đánh giá hoạt động của doanh nghiệp, III. Là cơ sở để người đầu tư lập danh mục đầu tư có hiệu quả,",
+    "options": [
+      "a. Chỉ I",
+      "b. Chỉ II",
+      "c. I,II,III",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Chỉ I"
+  },
+  {
+    "question": "Câu 165: Chỉ số bình quân DowJones bao gồm:, I. 30 cổ phiếu của ngành công nghiệp., II. 20 cổ phiếu của ngành giao thông vận tải, III. 15 cổ phiếu của ngành dịch vụ công cộng, IV. 20 cổ phiếu của ngành nông nghiệp,",
+    "options": [
+      "a. I và II",
+      "b. II và III",
+      "c. I, II và III",
+      "d. II, III và IV"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 166: Trên thị trường chứng khoán có tiêu cực là:,",
+    "options": [
+      "a. Giao dịch của các nhà đầu tư lớn",
+      "b. Mua bán cổ phiếu của cổ đông và l•nh đạo công ty niêm yết",
+      "c. Mua báo nội gián",
+      "d. Mua bán lại cổ phiếu của chính tổ chức niêm yết"
+    ],
+    "answer": "a. Giao dịch của các nhà đầu tư lớn"
+  },
+  {
+    "question": "Câu 167: Người có thẩm quyền xử phạt đối với các vi phạm về chứng khoán và thị trường chứng khoán là:,",
+    "options": [
+      "a. Chánh thanh tra ủy ban CK nhà nước",
+      "b. Giám đốc TTâm GDCK, Sở GDCK",
+      "c. Thanh tra viên chuyên ngành UBCK",
+      "d. Chủ tịch UB nhân dân cấp huyện, Quận"
+    ],
+    "answer": "a. Chánh thanh tra ủy ban CK nhà nước"
+  },
+  {
+    "question": "Câu 168: Những nội dung chính về đạo đức trong kinh doanh chứng khoán:, I. Phải trung thực, công bằng và công khai, II. Cung cấp thông tin đầy đủ và kịp thời, III. Phải bảo vệ bí mật khách hàng., IV. Mối quan hệ với cơ quan quản lý (chấp hành đúng luật),",
+    "options": [
+      "a. I và II",
+      "b. II và III",
+      "c. I, II và III",
+      "d. Tất cả"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 169: Mở tài khoản lưu ký chứng khoán:, I. Tài khoản chứng khoán giao dịch, II. Tài khoản chứng khoán cầm cố, III. Tài khoản chứng khoán chờ niêm yết, chờ rút, IV. Tài khoản chứng khoán đ• giao dịch,",
+    "options": [
+      "a. I và II",
+      "b. I, II và III",
+      "c. II, III và IV",
+      "d. Tất cả"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 170: Quy trình đăng ký làm thành viên lưu ký của TT GDCK, I. Tổ chức hoạt động lưu ký nộp hồ sơ đăng ký, II. Bộ phận lưu ký kiểm tra hồ sơ, III. Đóng góp quỹ hỗ trợ thanh toán và phí thành viên, IV. Ban giám đốc quyết định chấp nhận,",
+    "options": [
+      "a. I, II, III và IV",
+      "b. II, III, IV và I",
+      "c. III, IV, II và I",
+      "d. IV, III, II và I"
+    ],
+    "answer": "a. I, II, III và IV"
+  },
+  {
+    "question": "Câu 171: Chức năng của hệ thống đăng ký, lưu ký, thanh toán bù trừ chứng khoán, I. Quản lý các chứng khoán lưu ký của khách hàng, II. Ghi nhận quyền sở hữu, III. Cung cấp các thông tin về chứng khoáng giả mạp, bị mất cắp, IV. Phân phối l•i, trả vốn gốc, và cổ tức bằng tiền cho người sở hữu chứng khoán.,",
+    "options": [
+      "a. I và II",
+      "b. I, II và III",
+      "c. II, III và IV",
+      "d. Tất cả"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 172: Trong khi th c hi n nghi p v t doanh. C ự ệ ệ ụ ự ông ty chứng khoán phải tuân thủ các nguyên tắc nghề, I. Tách bạch tài khoản của công ty với tài khoản của khách hàng và ưu tiên khách hàng., II. Bình ổn thị trường, III. Tuân thủ về giới hạn đầu tư, lĩnh vực đầu tư.,",
+    "options": [
+      "a. I và II",
+      "b. II và III",
+      "c. Tất cả",
+      "d. [Missing option]"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 173: Công ty CK bao gồm các nghiệp vụ sau:, I. Môi giới, II. Tự doanh, III. Bảo l•nh phát hành, IV. Quản lý danh mục đầu tư, V. Tư vấn đầu tư,",
+    "options": [
+      "a. I và II",
+      "b. I, II và III",
+      "c. II, III và IV",
+      "d. Tất cả"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 174: Sổ lệnh của cổ phiếu XXX với giá đóng cửa trước đó là 30.500 như sau:,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 175: Theo quy định của Việt Nam, công ty CK là loại hình doanh nghiệp nào, I. DN nhà nước, II. Cty LDoanh, III. Cty TNHH, IV. Cty CPhần, V. Cty hợp danh,",
+    "options": [
+      "a. Chỉ có I và II",
+      "b. Chỉ có II và III",
+      "c. II, III và IV",
+      "d. Tất cả"
+    ],
+    "answer": "a. Chỉ có I và II"
+  },
+  {
+    "question": "Câu 176: Những lợi ích khi đầu tư qua quỹ, I. Đa dạng hóa danh mục đầu tư, phân tán rủi ro, II. Đảm bảo đầu tư có hiệu quả hơn, III. Giảm chi phí giao dịch và nghiên cứu,",
+    "options": [
+      "a. I và II",
+      "b. II và III",
+      "c. Tất cả",
+      "d. [Missing option]"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 177: Quỹ đầu tư dạng mở là:, I. Phát hành chứng chỉ ra công chúng một lần, II. Phát hành chứng chỉ nhiều lần ra công chúng, III. Sẵn sàng mua lại khi người nắm giữ chứng chỉ đề nghị, IV. Không thực hiện mua lại khi người nắm giữ chứng chỉ đề nghị, V. Chứng chỉ được niêm yết giao dịch trên thị trường chứng khoán, VI. Chứng chỉ không được niêm yết giao dịch trên thị trường chứng khoán,",
+    "options": [
+      "a. I, III và V",
+      "b. II, III và VI",
+      "c. II, IV và V",
+      "d. II, IV và VI"
+    ],
+    "answer": "a. I, III và V"
+  },
+  {
+    "question": "Câu 178: Quỹ đầu tư theo nghị quyết 114 là:, I. Quỹ hình thành từ vốn góp của người đầu tư, II. Quỹ được ủy thác cho công ty quản lý quỹ quản lý, III. Quỹ phải dành tối thiểu 60%giá trị tài sản để đầu tư và CKhoán, IV. Qu ch đ c đ u t vào C ỹ ỉ ượ ầ ư khoán và không được phép đầu tư vào các lĩnh vực khác.,",
+    "options": [
+      "a. I, II và IV",
+      "b.I, II và III",
+      "c. II, III và IV",
+      "d. Tất cả đều sai"
+    ],
+    "answer": "a. I, II và IV"
+  },
+  {
+    "question": "Câu 179: Những điều nào sau đây đúng với phạm trù thứ cấp:, I. Thị trường GDCK mua đi bán lại, II. Tạo tính thanh khoản cho vốn đầu tư, III. Tạo ra người đầu cơ, IV. Tạo vốn đầu tư cho tổ chức phát hành,",
+    "options": [
+      "a. I và II",
+      "b. I, II và III",
+      "c. I, III và IV",
+      "d. Tất cả"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 180: Sở GDCK là:, I. Thị trường giao dịch tập trung, II. Giao dịch CK niêm yết, III. Thị trường thương lượng,",
+    "options": [
+      "a. I và II",
+      "b. I, II và III",
+      "c. II và III",
+      "d. [Missing option]"
+    ],
+    "answer": "a. I và II"
+  },
+  {
+    "question": "Câu 181: Quy trình giao dịch của Sở GD CK là:, I. Khách hàng đặt lệnh, II. Công ty CK nhận và kiểm tra lệnh, III. Lệnh đăng ký tại quầy giao dịch hoặc máy chủ, IV. Lệnh được chuyển đến Sở giao dịch.,",
+    "options": [
+      "a. I, II, III và IV",
+      "b. I, II, IV và III",
+      "c. I, III, II và IV",
+      "d. I, III, IV và II"
+    ],
+    "answer": "a. I, II, III và IV"
+  },
+  {
+    "question": "Câu 182: Kho b c ạ nhà nước phát hành trái phiếu với các nội dung sau:,",
+    "options": [
+      "a. 110 tỷ l•i suất 8.75%",
+      "b. 60 tỷ l•i suất 8.75%",
+      "c. 30 tỷ l•i suất 8.75%",
+      "d. [Missing option]"
+    ],
+    "answer": "a. 110 tỷ l•i suất 8.75%"
+  },
+  {
+    "question": "Câu 183: Phương thức phát hành qua đấu giá là:,",
+    "options": [
+      "a. Nhận bán chứng khoán cho tổ chức phát hành trên cơ sở thỏa thuận về giá",
+      "b. Tổ chức phát hành trực tiếp bán cổ phiếu cho tổ chức, ca nhân có nhu cầu.",
+      "c. Nhận bán lại chứng khoán của tổ chức phát hành để mua lại",
+      "d. Chào bán chứng khoán dựa trên cơ sở cạnh tranh hình thành giá và khối lượng trúng thầu"
+    ],
+    "answer": "a. Nhận bán chứng khoán cho tổ chức phát hành trên cơ sở thỏa thuận về giá"
+  },
+  {
+    "question": "Câu 184: Loại chứng khoán nào sau đây được phép phát hành kèm theo trái phiếu hoặc cổ phiếu ưu đ•i, cho,",
+    "options": [
+      "a. Cổ phiếu ưu đ•i",
+      "b. Trái phiếu",
+      "c. Chứng quyền",
+      "d. Quyền mua cổ phần"
+    ],
+    "answer": "a. Cổ phiếu ưu đ•i"
+  },
+  {
+    "question": "Câu 185: Thị trường mua bán lần đầu và chứng khoán mới phát hành là:,",
+    "options": [
+      "a. Thị trường tiền tệ.",
+      "b. Thị trường sơ cấp",
+      "c. Thị trường thứ cấp",
+      "d. Thị trường chính thức"
+    ],
+    "answer": "a. Thị trường tiền tệ."
+  },
+  {
+    "question": "Câu 186: Ai trong số những người sau đây là chủ sở hữu công ty,",
+    "options": [
+      "a. Những người nắm giữ trái phiếu",
+      "b. Những cổ đông có giấy đẩm bảo quyền mua cổ phần mới",
+      "c. Các cổ đông nắm giữ cổ phiếu thường",
+      "d. Các cổ đông nắm giữ cổ phiếu ưu đ•i"
+    ],
+    "answer": "a. Những người nắm giữ trái phiếu"
+  },
+  {
+    "question": "Câu 187: Năm N, công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu,,",
+    "options": [
+      "a. 1.000đ",
+      "b. 1.300đ",
+      "c. 1.500đ",
+      "d. 2.000đ"
+    ],
+    "answer": "a. 1.000đ"
+  },
+  {
+    "question": "Câu 188: Tại một thời điểm nhất định, nếu tất cả các trái phiếu có thể chuyển đổi đều được trải chủ đổi thành,",
+    "options": [
+      "a. EPS tăng",
+      "b. EPS giảm",
+      "c. EPS không bị ảnh hưởng",
+      "d. P/E bị ảnh hưởng còn EPS không bị ảnh hưởng."
+    ],
+    "answer": "a. EPS tăng"
+  },
+  {
+    "question": "Câu 189: Người nào sau đây được coi là chủ sở hữu chung của doanh nghiệp:,",
+    "options": [
+      "a. Người nắm giữ giấy tờ",
+      "b. Người nắm giữ trái phiếu thế chấp",
+      "c. Người sở hữu cổ phiếu phổ thông",
+      "d. Tất cả các trường hợp trên"
+    ],
+    "answer": "a. Người nắm giữ giấy tờ"
+  },
+  {
+    "question": "Câu 190: Người sở hữu cổ phiếu phổ thông,",
+    "options": [
+      "a. Là chủ sở hữu công ty",
+      "b. Là chủ nợ công ty",
+      "c. Không có quyền sở hữu công ty",
+      "d. Là chủ nợ của công ty nhưng không có quyền sở hữu công ty"
+    ],
+    "answer": "a. Là chủ sở hữu công ty"
+  },
+  {
+    "question": "Câu 191: Người sở hữu cổ phần phổ thông:,",
+    "options": [
+      "a. Được bỏ phiếu để bầu ra Hội đồng quản trị",
+      "b. Được nhận lại vốn góp khi cổ phiếu đó dáo hạn",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Được bỏ phiếu để bầu ra Hội đồng quản trị"
+  },
+  {
+    "question": "Câu 192: Khi công ty hoạt động có l•i, cổ đông phổ thông:,",
+    "options": [
+      "a. Được chia cổ tức trước thuế",
+      "b. Được chia cổ tức sau thuế",
+      "c. Được chia cổ tức sau khi chia cổ tức cổ phiếu ưu đ•i",
+      "d. Được chia cổ tức sau thuế sau khi đ• chia cổ tức cho cổ phiếu ưu đ•i"
+    ],
+    "answer": "a. Được chia cổ tức trước thuế"
+  },
+  {
+    "question": "Câu 193: Một cổ phiếu ưu đ•i có thể chuyển đổi thành cổ phiếu thường của chính công ty đothi được gọi là:,",
+    "options": [
+      "a. Cổ phiếu ưu đ•i tích lũy",
+      "b. Cổ phiếu ưu đ•i có thể hoán lại",
+      "c. Cổ phiếu ưu đ•i tham dự chia phần",
+      "d. Cổ phiếu ưu đ•i có thể chuyển đổi"
+    ],
+    "answer": "a. Cổ phiếu ưu đ•i tích lũy"
+  },
+  {
+    "question": "Câu 194: Trong trường hợp phá sản, giải thế doanh nghiệp, các cổ đông sẽ:,",
+    "options": [
+      "a. Là chủ nợ chung",
+      "b. Mất toàn bộ số tiền đầu tư",
+      "c. Được ưu tiên trả lại cổ phần đ• đóng góp trước",
+      "d. Là người cuối cùng được thanh toán"
+    ],
+    "answer": "a. Là chủ nợ chung"
+  },
+  {
+    "question": "Câu 195: Khi công ty không có l•i, công ty vẫn phải:,",
+    "options": [
+      "a. Trả cổ tức cho cổ đông phổ thông",
+      "b. Trả l•i cho trái chủ",
+      "c. Trả cổ tức cho cổ đông nắm giữ cổ phiếu ưu đ•i",
+      "d. Không trả l•i và cổ tức"
+    ],
+    "answer": "a. Trả cổ tức cho cổ đông phổ thông"
+  },
+  {
+    "question": "Câu 196: Cổ đông phổ thông có quyền được trong các trường hợp sau:,",
+    "options": [
+      "a. Giả thể và hợp nhất công ty",
+      "b. Lựa chọn ban giám đốc",
+      "c. Sửa đổi quy định và điều lệ công ty",
+      "d. Chỉ a và c"
+    ],
+    "answer": "a. Giả thể và hợp nhất công ty"
+  },
+  {
+    "question": "Câu 197: Người sở hữu cổ phiếu và trái phiếu đều được hưởng:,",
+    "options": [
+      "a. L•i suất cố định.",
+      "b. Thu nhập phụ thuộc vào hoạt động của công ty",
+      "c. Được quyền bầu cử tại Đại hội cổ đông",
+      "d. Không câu nào đúng"
+    ],
+    "answer": "a. L•i suất cố định."
+  },
+  {
+    "question": "Câu 198: Cổ phiếu quỹ:,",
+    "options": [
+      "a. Được chia cổ tức",
+      "b. Là loại cổ phiếu đ• phát hành và được tổ chức phát hành mua lại trên thị trường.",
+      "c. Cho phép người sở hữu chúng có quyền biểu quyết",
+      "d. Là một phần cổ phiếu chưa được phát hành"
+    ],
+    "answer": "a. Được chia cổ tức"
+  },
+  {
+    "question": "Câu 199: Khi phá sản, giải thể công ty, người nắm giữ trái phiếu sẽ được hoàn trả:,",
+    "options": [
+      "a. Trước các khoản vay có thế chấp và các khoản phải trả",
+      "b. Trước thuế",
+      "c. Sau các khoản vay có thế chấp và các khoản phải trả",
+      "d. Trước các cổ đông nắm giữ cổ phiếu ưu đ•i và cổ phiếu phổ thông"
+    ],
+    "answer": "a. Trước các khoản vay có thế chấp và các khoản phải trả"
+  },
+  {
+    "question": "Câu 200: Trái phiếu chuyển đổi có đặc tính sau:,",
+    "options": [
+      "a. Trái chủ có quyền đổi thành cổ phiếu phổ thông sau một thời gian nhất định.",
+      "b.Trái chủ có quyền đổi lấy một trái phiếu khác nếu như trái phiếu chuyển đổi đó không trả l•i đúng thời hạn.",
+      "c. Không có phương án nào đúng",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Trái chủ có quyền đổi thành cổ phiếu phổ thông sau một thời gian nhất định."
+  },
+  {
+    "question": "Câu 201: Số chi trả tiền l•i dựa trên:,",
+    "options": [
+      "a. Mệnh giá",
+      "b. Giá trị chiết khấu",
+      "c. Thị giá",
+      "d. Tùy từng trường hợp cụ thể."
+    ],
+    "answer": "a. Mệnh giá"
+  },
+  {
+    "question": "Câu 202: Câu nào đúng với quyền mua cổ phiếu (rights),",
+    "options": [
+      "a. Quyền mua trước có thời hạn",
+      "b. Quyền mua trước cho phép mua cổ phiếu mới với giá rẻ hơn chào mời ra công chúng trên thị trường.",
+      "c. Giá mua cổ phiếu ghi trên quyền cao hơn giá trị thị trường hiện hành",
+      "d. a và c"
+    ],
+    "answer": "a. Quyền mua trước có thời hạn"
+  },
+  {
+    "question": "Câu 203: Câu nào sau đây đúng với hợp đồng quyền chọn:,",
+    "options": [
+      "a. Hợp đồng quyền chọn là hợp đồng bắt buộc phải thực hiện",
+      "b. Hợp đồng quyền chọn giống như hợp đồng tương lai",
+      "c. Mua quyền chọn là mua quyền được mua hoặc được bán chứ không có nghĩa vụ phải thực hiện.",
+      "d. Tất cả các câu trên đều đúng."
+    ],
+    "answer": "a. Hợp đồng quyền chọn là hợp đồng bắt buộc phải thực hiện"
+  },
+  {
+    "question": "Câu 204: Các câu nào sau đây không đúng với chung quyền:,",
+    "options": [
+      "a. Chứng quyền có thời hạn hiệu lực ngắn",
+      "b. Chứng quyền có thời hạn hiệu lực dài",
+      "c. Chứng quyền được phát hành trước khi phát hành một đợt cổ phiếu mới",
+      "d. Chứng quyền được phát hành đi kèm với chứng khoán kém hấp dẫn"
+    ],
+    "answer": "a. Chứng quyền có thời hạn hiệu lực ngắn"
+  },
+  {
+    "question": "Câu 205: Chức năng của thị trường sơ cấp là:,",
+    "options": [
+      "a. Huy động vốn",
+      "b. Kiếm lợi nhuận do kinh doanh chênh lệch giá.",
+      "c. Tăng tính thanh khoản của chứng khoán",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Huy động vốn"
+  },
+  {
+    "question": "Câu 206: Các câu nào sau đây đúng với thị trường sơ cấp,",
+    "options": [
+      "a. Làm tăng lượng vốn đầu tư cho nền kinh tế",
+      "b. Không làm tăng lượng tiền trong lưu thông.",
+      "c. Giá phát hành do quan hệ cung cầu quyết định",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Làm tăng lượng vốn đầu tư cho nền kinh tế"
+  },
+  {
+    "question": "Câu 207: Các câu nào sau đây đúng với thị trường sơ cắp:,",
+    "options": [
+      "a. Tập trung vốn",
+      "b. Luân chuyển vốn",
+      "c. Điều hòa vốn",
+      "d. Tất cả"
+    ],
+    "answer": "a. Tập trung vốn"
+  },
+  {
+    "question": "Câu 208: Chức năng của thị trường thứ cấp là:,",
+    "options": [
+      "a. Huy động vốn",
+      "b. Xác định giá chứng khoán phát hành ở thị trường sơ cấp",
+      "c. Tập trung vốn",
+      "d. Tất cả các ý trên"
+    ],
+    "answer": "a. Huy động vốn"
+  },
+  {
+    "question": "Câu 209: Thị trường thứ cấp:,",
+    "options": [
+      "a. Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái phiếu.",
+      "b. Là nơi mua bán các loại chứng khoán kém chất lượng",
+      "c. Là nơi mua bán các chứng khoán đ• phát hành",
+      "d. Là thị trường chứng khán kém phát triển"
+    ],
+    "answer": "a. Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái phiếu."
+  },
+  {
+    "question": "Câu 210: Hình thức bảo l•nh phát hành trong đó đợt phát hành sẽ bị hủy bỏ nếu toàn bộ chứng khoán không bán,",
+    "options": [
+      "a. Bảo l•nh với cam kết chắc chắn",
+      "b. Bảo l•nh với cố gắng tối đa",
+      "c. Bảo l•nh tất cả hoặc không",
+      "d. Tất cả các hình thức trên."
+    ],
+    "answer": "a. Bảo l•nh với cam kết chắc chắn"
+  },
+  {
+    "question": "Câu 211: Hình thức chào bán mà trong đó có nhà bảo l•nh phát hành cam kết sẽ mua toàn bộ chứng khoán của tổ,",
+    "options": [
+      "a. Bảo l•nh với cam kết chắc chắn",
+      "b. Bảo l•nh với cố gắng tối đa",
+      "c. Bảo l•nh tất cả hoặc không",
+      "d. Bảo l•nh với han mức tối thểu"
+    ],
+    "answer": "a. Bảo l•nh với cam kết chắc chắn"
+  },
+  {
+    "question": "Câu 212: Hình thức chào bán trong đó lượng chứng khoán không ban được sẽ được trả lại cho tổ chức phát hành,",
+    "options": [
+      "a. Bảo l•nh với cam kết chắc chắn",
+      "b. Bảo l•nh với cố gắng tối đa",
+      "c. Bảo l•nh tất cả hoặc không",
+      "d. Bảo l•nh với hạng mức tối thiểu"
+    ],
+    "answer": "a. Bảo l•nh với cam kết chắc chắn"
+  },
+  {
+    "question": "Câu 213: Mục đích chủ yếu của phát hành chứng khoán ra công chúng là:,",
+    "options": [
+      "a. Để chứng tỏ công ty hoạt động có hiệu quả",
+      "b. Huy động vốn để mở rộng sản xuất kinh doanh và nâng cao năng lực sản xuất",
+      "c. Tăng số lượng cổ đông của công ty.",
+      "d. Không có câu nào đúng."
+    ],
+    "answer": "a. Để chứng tỏ công ty hoạt động có hiệu quả"
+  },
+  {
+    "question": "Câu 214: Tr t t ậ ự ưu tiên lệnh theo phương thức khớp lệnh là:,",
+    "options": [
+      "a. Giá, thời gian, số lượng.",
+      "b. Thời gioan, giá, số lượng.",
+      "c. Số lượng, thời gian, giá",
+      "d. Thời gian, số lượng, giá"
+    ],
+    "answer": "a. Giá, thời gian, số lượng."
+  },
+  {
+    "question": "Câu 215: Lệnh giới hạn là:,",
+    "options": [
+      "a. Lệnh cho phép người mua mua ở mức giá đ• định hoặc tốt hơn.",
+      "b. Lệnh cho phép người bán, bán ở mức giá đ• định hoặc tốt hơn.",
+      "c. Cả a, b đều đúng.",
+      "d. Cả a, b đều sai"
+    ],
+    "answer": "a. Lệnh cho phép người mua mua ở mức giá đ• định hoặc tốt hơn."
+  },
+  {
+    "question": "Câu 216: Lệnh thị trường:,",
+    "options": [
+      "a. Lệnh sẽ luôn thực hiện ở mức giá tốt nhất có trên thị trường.",
+      "b. Lệnh cho phép người bán, bán toàn bộ chứng khoán mình đang có trong tài khoản ở mức giá được quy định",
+      "c. Lệnh cho phép người mua, mua chứng khoán theo mức giá đ• định hoặc thấp hơn",
+      "d. a, b, c đều đúng"
+    ],
+    "answer": "a. Lệnh sẽ luôn thực hiện ở mức giá tốt nhất có trên thị trường."
+  },
+  {
+    "question": "Câu 217: Lệnh dừng để bán được đưa ra.,",
+    "options": [
+      "a. Với giá cao hơn giá thị trường hiện hành",
+      "b. Với giá thấp hơn giá thị trường hiện hành",
+      "c. Hoặc cao hơn, hoặc thấp hưn giá thị trường hiện hành",
+      "d. a, b, c đều đúng"
+    ],
+    "answer": "a. Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "question": "Câu 218: Cổ đông sở hữu cổ phiếu phổ thông:,",
+    "options": [
+      "a. Tự động nhận cổ tức hàng quý khi công ty có lời",
+      "b. Nhận một tỷ lệ cố định số lợi nhuận của công ty bằng tiền mặt",
+      "c. Chỉ nhận cổ tức khi nào hội đồng quản trị tuyên bố chi trả cổ tức",
+      "d. Tất cả các câu trên."
+    ],
+    "answer": "a. Tự động nhận cổ tức hàng quý khi công ty có lời"
+  },
+  {
+    "question": "Câu 219: Cổ tức trả bằng cổ phiếu,",
+    "options": [
+      "a. Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "b. Không làm thay đổi tỷ lệ quyền lợi của cổ đông",
+      "c. Làm giảm quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "d. Không có câu nào đúng"
+    ],
+    "answer": "a. Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty"
+  },
+  {
+    "question": "Câu 220: Biên đ giao đ ng cho phép t ộ ộ rên thị trường chứng khoán Việt Nam là:,",
+    "options": [
+      "a. + - 7%",
+      "b. + - 5%",
+      "c. + - 5% đối với cổ phiếu và không giới hạn đối với trái phiếu",
+      "d. Không có câu nào đúng"
+    ],
+    "answer": "a. + - 7%"
+  },
+  {
+    "question": "Câu 221: Công ty chứng khoán hoạt động tại Việt Nam chỉ được thực hiện các nghiệp vụ sau:,",
+    "options": [
+      "a. Môi giới và tư vấn đầu tư chứng khoán.",
+      "b. Môi giới tư vấn đầu tư chứng khoán và bảo hành phát hành.",
+      "c. Quản lý doanh mục và tự doanh",
+      "d. Cả b và c có đủ vốn pháp định theo từng loại hình kinh doanh"
+    ],
+    "answer": "a. Môi giới và tư vấn đầu tư chứng khoán."
+  },
+  {
+    "question": "Câu 222: Mệnh giá trái phiếu phát hành ra công chúng ở Việt Nam là:,",
+    "options": [
+      "a. 10.000 đồng",
+      "b. Tối thiểu là 100.000 đồng và bội số của 100.000 đồng",
+      "c. 100.000 đồng",
+      "d. 200.000 đồng"
+    ],
+    "answer": "a. 10.000 đồng"
+  },
+  {
+    "question": "Câu 223: Mệnh giá trái phiếu phát hành ra công chúng ở Việt Nam là:,",
+    "options": [
+      "a. Tối thiểu là 100.000 đồng và bội số của 100.000 đồng",
+      "b. 100.000 đồng",
+      "c. 10.000 đồng",
+      "d. 20.000 đồng"
+    ],
+    "answer": "a. Tối thiểu là 100.000 đồng và bội số của 100.000 đồng"
+  },
+  {
+    "question": "Câu 224: Những đối tượng nào sau đây được phép phát hành trái phiếu,",
+    "options": [
+      "a. Công ty cổ phần",
+      "b. Công ty TNHH",
+      "c. Doanh nghiệp tư nhân",
+      "d. Cả a và b"
+    ],
+    "answer": "a. Công ty cổ phần"
+  },
+  {
+    "question": "Câu 225: Giá cổ phiếu A trên bảng giao dịch điện tử của công ty chứng khoán có màu đỏ có nghĩa là:,",
+    "options": [
+      "a. Biểu thị cổ phiếu A giảm giá",
+      "b. Biểu thị cổ phiếu A tăng giá",
+      "c. Biểu thị cổ phiếu A vẫn giữ nguyên giá.",
+      "d. Không câu nào đúng"
+    ],
+    "answer": "a. Biểu thị cổ phiếu A giảm giá"
+  },
+  {
+    "question": "Câu 226: Nhà phát hành đ nh phát hành 2 lo i trái phi u: trái ị ạ ế phiếu X có thời hạn và 5 năm và trái phiếu Y có,",
+    "options": [
+      "a. L•i suất trái phiếu X > l•i suất trái phiếu Y",
+      "b. L•i suất trái phiếu X = l•i suất trái phiếu Y",
+      "c. L•i suất trái phiếu X < l•i suất trái phiếu Y",
+      "d. Còn tùy trường hợp cụ thể."
+    ],
+    "answer": "a. L•i suất trái phiếu X > l•i suất trái phiếu Y"
+  },
+  {
+    "question": "Câu 227: Thời hạn thanh toán giao dịch chứng khoán được quy định trên thị trường chứng khoán Việt Nam là:,",
+    "options": [
+      "a. T + 1",
+      "b. T + 2",
+      "c. T + 3",
+      "d. T + 0"
+    ],
+    "answer": "a. T + 1"
+  },
+  {
+    "question": "Câu 228: Các phiên giao dịch chứng khoán trên thị trường chứng khoán Việt Nam được thự__________c hiện vào:,",
+    "options": [
+      "a. Buổi sáng các ngày thứ bảy, chủ nhật và các ngày lễ.",
+      "b. Tất cả các ngày trong tuần trừ thứ bảy, chủ nhật và ngày lễ.",
+      "c. Buổi chiều các ngày trong tuần trừ thứ bảy, chủ nhật và các ngày lễ.",
+      "d. Tất cả các ngày trong tuần."
+    ],
+    "answer": "a. Buổi sáng các ngày thứ bảy, chủ nhật và các ngày lễ."
+  },
+  {
+    "question": "Câu 229: ủy ban chứng khoán nhà nước thuộc:,",
+    "options": [
+      "a. Quốc hội",
+      "b. Chính phủ",
+      "c. Bộ tài chính",
+      "d. Ngân hàng nhà nước Việt Nam"
+    ],
+    "answer": "a. Quốc hội"
+  },
+  {
+    "question": "Câu 230: Văn bản pháp luật cao nhất điều chỉnh các hoạt động của thị trường chứng khoán Việt Nam hiện nay,",
+    "options": [
+      "a. Luật chứng khoán.",
+      "b. Nghị định 48/1998/NĐ-CP ngày 11/7/1998 của Chính phủ",
+      "c. Nghị định 144/2003/NĐ-CP ngày 27/11/2003 của Chính phủ",
+      "d. Tất cả các câu trên."
+    ],
+    "answer": "a. Luật chứng khoán."
+  },
+  {
+    "question": "Câu 231: Ưu tiên trong giao dịch chứng khoán treo phương thức khớp lệnh ở thị trường chứng khoán Việt Nam,",
+    "options": [
+      "a. Giá",
+      "b. Thời gian",
+      "c. Số lượng",
+      "d. Chỉ có a và b"
+    ],
+    "answer": "a. Giá"
+  },
+  {
+    "question": "Câu 232: Giá của trái phiếu giảm khi:,",
+    "options": [
+      "a. L•i suất thị trường tưng",
+      "b. L•i suất thị trường giảm",
+      "c. L•i suất thị trường không thay đổi",
+      "d. Giá của trái phiếu không phụ thuộc vào l•i suất của thị trường"
+    ],
+    "answer": "a. L•i suất thị trường tưng"
+  },
+  {
+    "question": "Câu 233: Lệnh dừng để múa được đưa ra:,",
+    "options": [
+      "a. Với giá cao hơn giá thị trường hiện hành",
+      "b. Với giá thấp hơn giá thị trường hiện hành",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "question": "Câu 234: Một trái phiếu có mệnh giá 1.000 USD, có l•i suất danh nghĩa là 8%/năm, đang được bán với giá 950,",
+    "options": [
+      "a. 8%",
+      "b. 8,42%",
+      "c. 10,37%",
+      "d. 10%"
+    ],
+    "answer": "a. 8%"
+  },
+  {
+    "question": "Câu 235: Công ty X phát hành thêm đợt cổ phiếu phổ thông mới để tăng vốn bằng cách cung ứng các đặc quyền,",
+    "options": [
+      "a. 2.5 USD",
+      "b. 3 USD",
+      "c. 3.75 USD",
+      "d. 15 USD"
+    ],
+    "answer": "a. 2.5 USD"
+  },
+  {
+    "question": "Câu 236: Công ty X phát hành cổ phiếu mới giá thực hiện theo quyền là 30 USD. Giá tham chiếu của cổ phiếu,",
+    "options": [
+      "a. 5",
+      "b. 3",
+      "c. 4",
+      "d. 6"
+    ],
+    "answer": "a. 5"
+  },
+  {
+    "question": "Câu 237: Công ty A cung ng 300.000 c phi u ra ứ ổ ế công chúng với giá 15 USD/ cổ phiếu, lệ phí cho nhà quản lý,",
+    "options": [
+      "a. 4.000.000 USD",
+      "b. 4.200.000 USD",
+      "c. 4.500.000 USD",
+      "d. 5.000.000 USD"
+    ],
+    "answer": "a. 4.000.000 USD"
+  },
+  {
+    "question": "Câu 238: Một trái phiếu có l•i suất 5%/năm được phát hành theo mệnh giá là 1000 USD. Hiện tại trái phiếu đang,",
+    "options": [
+      "a. 20 USD",
+      "b. 50 USD",
+      "c. 500 USD",
+      "d. 5.000 USD"
+    ],
+    "answer": "a. 20 USD"
+  },
+  {
+    "question": "Câu 239: Khi chào bán ra công chúng với giá 12 USD một cổ phiếu, chênh lệch bảo l•nh là 2 USD. Vậy tổ chức,",
+    "options": [
+      "a. 100.000 USD",
+      "b. 120.000 USD",
+      "c. 140.000 USD",
+      "d. 20.000 USD"
+    ],
+    "answer": "a. 100.000 USD"
+  },
+  {
+    "question": "Câu 240: Nếu giá cổ phiếu X trên thị trường là 23.800 đ. Với số tiền là 24 triệu, phí môi giới là 0,5% nhà đầu tư,",
+    "options": [
+      "a. 1003",
+      "b. 1000",
+      "c. 1010",
+      "d. 1005"
+    ],
+    "answer": "a. 1003"
+  },
+  {
+    "question": "Câu 241: Ông X vừa bán 10 cổ phiếu của công ty A với giá 40 USD / cổ phiếu. Ông ta mua cổ phiếu đó một,",
+    "options": [
+      "a. 1000 USD",
+      "b. 1200 USD",
+      "c. 1300 USD",
+      "d. Tất cả đều sai."
+    ],
+    "answer": "a. 1000 USD"
+  },
+  {
+    "question": "Câu 242: M t trái phi u có m nh giá là 1000 USD, l•i su ộ ế ệ ất hiện hành là 12% năm, đang được mua bán với giá,",
+    "options": [
+      "a. 13%.",
+      "b. 15%",
+      "c. 19,2%",
+      "d. 19%"
+    ],
+    "answer": "a. 13%."
+  },
+  {
+    "question": "Câu 243: Một trái phiếu có thể chuyển đổi được mua theo mệnh giá là 1000 USD, giá chuyển đổi là 125 USD., Vậy tỷ lệ chuyển đổi là:,",
+    "options": [
+      "a. 2",
+      "b. 8",
+      "c. 12",
+      "d. 20"
+    ],
+    "answer": "a. 2"
+  },
+  {
+    "question": "Câu 244: Hiện tại giá cổ phiếu KHA trên thị trường chứng khoán Việt Nam là 45.700 đồng/ cổ phiếu, biên độ,",
+    "options": [
+      "a. 43.415 đồng",
+      "b. 47.100 đồng",
+      "c. 46.150 đồng",
+      "d. 48.100 đồng"
+    ],
+    "answer": "a. 43.415 đồng"
+  },
+  {
+    "question": "Câu 245: Công ty X được phép phát hành 1 triệu cổ phiếu thường, công ty đ• phát hành được 600.000 cổ phiếu,,",
+    "options": [
+      "a. 40.000",
+      "b. 560.000",
+      "c. 600.000",
+      "d. 1.000.000"
+    ],
+    "answer": "a. 40.000"
+  },
+  {
+    "question": "Câu 246: Phiên đóng cửa tuần n của thị trường chứng khoán Việt Nam, VN - Index là 237.78 điểm, tăng 2,64,",
+    "options": [
+      "a. 1,12%",
+      "b. 1,11%",
+      "c. 1%",
+      "d. 1,2%"
+    ],
+    "answer": "a. 1,12%"
+  },
+  {
+    "question": "Câu 247: T i s giao d ch, trong phiên giao d ch sau khi ạ ở ị ị tập hợp được các lệnh mua và bán cổ phiếu X nhận, I. ở mức giá 275 có: khối lượng đặt mua là 720 cổ phiếu, và khối lượng đặt là bán 1.560 cổ phiếu., II. ở mức giá 274 có : khối lượng đặt mua là 900 cổ phiếu, và khối lượng đặt là bán 1440 cổ phiếu., III. ở mức giá 273 có: Khối lượng đặt mua là 1200 cổ phiếu, và khối lượng đặt mua là bán 1300 cổ phiếu., IV. ở mức giá 272 có: Khối lượng đặt mua là 1400 cổ phiếu, và khối lượng đặt là bán 640 cổ phiếu., Vậy giá được xác định cho phiên giao dịch này của cổ phiếu X sẽ là:,",
+    "options": [
+      "a.272",
+      "b. 273",
+      "c. 274",
+      "d. 275"
+    ],
+    "answer": "a.272"
+  },
+  {
+    "question": "Câu 248: Tại sở giao dịch, trong phiên giao dịch sau khi tập hợp được các lệnh mua và bán cổ phiếu X nhận, I. ở mức giá 275 có: khối lượng đặt mua là 720 cổ phiếu, và khối lượng đặt là bán 1.560 cổ phiếu., II. ở mức giá 274 có: khối lượng đặt mua là 900 cổ phiếu, và khối lượng đặt là bán 1.440 cổ phiếu., III. ở mức giá 273 có: Khối lượng đặt mua là 1200 cổ phiếu, và khối lượng đặt là bán 900 cổ phiếu., IV. ở mức giá 272 có: Khối lượng đặt mua là 1400 cổ phiếu, và khối lượng đặt là bán 640 cổ phiếu.,",
+    "options": [
+      "a. 272",
+      "b. 273",
+      "c. 274",
+      "d. 275"
+    ],
+    "answer": "a. 272"
+  },
+  {
+    "question": "Câu 249: Cổ phiếu X có mức tăng trưởng g = 0, cổ tức nhận được hàng năm là 2.000 đồng. Với mức tỷ suất lợi,",
+    "options": [
+      "a. 20.000 đồng",
+      "b. 10.000 đồng",
+      "c. 15.000 đồng",
+      "d. 21.000 đồng"
+    ],
+    "answer": "a. 20.000 đồng"
+  },
+  {
+    "question": "Câu 250: Cổ phiếu X có mức tăng trưởng không đổi g = 5%/năm, cổ tức vừa được chia trước đó là 2.000,",
+    "options": [
+      "a. 42.000 đồng",
+      "b. 40.000 đồng",
+      "c. 41.500 đồng",
+      "d. 40.500 đồng"
+    ],
+    "answer": "a. 42.000 đồng"
+  },
+  {
+    "question": "Câu 251: Một trái phiếu có mệnh giá 500.000 đồng, l•i suất 5%/năm, thời hạn trái phiếu 3 năm, thanh toán theo,",
+    "options": [
+      "a. 500.000 đồng",
+      "b. 490.000 đồng",
+      "c. 486.634,9 đồng",
+      "d. 499.602,6 đồng"
+    ],
+    "answer": "a. 500.000 đồng"
+  },
+  {
+    "question": "Câu 252: Giá của cổ phiếu X được xác định trong phiên giao dịch là 155 như bảng dưới đây,",
+    "options": [
+      "a. M1: 600, M2: 300, M3: 400",
+      "b. M1: 600, M2: 300, M3: 200",
+      "c. M3: 300, M4: 500, M5: 400, M6: 200",
+      "d. M2: 300, M3: 400, M4: 400"
+    ],
+    "answer": "a. M1: 600, M2: 300, M3: 400"
+  },
+  {
+    "question": "Câu 253: Giá của cổ phiếu X được xác định trong phiên giao dịch là: 155 như bảng dưới đây:,",
+    "options": [
+      "a. B1: 100, B2: 500, B3: 200",
+      "b. B1: 100, B3: 300, B4: 200, B5: 400, B6: 100",
+      "c. B2: 100, B3: 300, B4: 200, B5; 400, B6: 100",
+      "d. B1: 100, B2: 100, B6: 100, B5: 400 < B4: 200, B3: 300"
+    ],
+    "answer": "a. B1: 100, B2: 500, B3: 200"
+  },
+  {
+    "question": "Câu 254: Một nhà đầu tư bán 100 cổ phiếu X với giá 24.000 đồng/cổ phiếu. Phí môi giới là 0,5% trên giá trị giao,",
+    "options": [
+      "a. 2.400.000 đồng",
+      "b. 2.412.000 đồng",
+      "c. 2.388.000 đồng",
+      "d. 2.410.000 đồng"
+    ],
+    "answer": "a. 2.400.000 đồng"
+  },
+  {
+    "question": "Câu 255: Một nhà đầu tư mua được 200 cổ phiếu Y với giá 50.000đ/cổ phiếu.Phí môi giới là 0,5% trên giá trị,",
+    "options": [
+      "a. 10.000.000 đồng",
+      "b. 10.050.000 đồg",
+      "c. 9.950.000 đồng",
+      "d. 10.500.000 đồng"
+    ],
+    "answer": "a. 10.000.000 đồng"
+  },
+  {
+    "question": "Câu 256: Giả sử cổ phiếu A đang có giá ở phiên giao dịch trước là 101.000 đồng, theo quy định yết giá của Việt,",
+    "options": [
+      "a. 101.500 đồng",
+      "b. 100.000 đồng",
+      "c. 106.050 đồng",
+      "d. 95.000 đồng"
+    ],
+    "answer": "a. 101.500 đồng"
+  },
+  {
+    "question": "Câu 257: Công ty X đang cung ng 300.000 c ứ ổ phiếu ra công chúng với giá 15 USD/ cổ phiếu. Lệ phí cho nhà,",
+    "options": [
+      "a. 13,75 USD",
+      "b. 14 USD",
+      "c. 15 USD",
+      "d. 14,5 USD"
+    ],
+    "answer": "a. 13,75 USD"
+  },
+  {
+    "question": "Câu 258: Nhà đầu tư có tổ chức là:,",
+    "options": [
+      "a. Công chúng đầu tư",
+      "b. Các tổ chức kinh tế",
+      "c. Quỹ đầu tư",
+      "d. Các công ty"
+    ],
+    "answer": "a. Công chúng đầu tư"
+  },
+  {
+    "question": "Câu 259: Cổ phiếu ưu đ•i cổ tức được trả cổ tức theo:,",
+    "options": [
+      "a. Tỷ lệ cố định",
+      "b. Mức cổ tưc cao hơn cổ tức cổ phiếu phổ thông",
+      "c. Tỷ lệ cố định cao hơn trái tức",
+      "d. Tỷ lệ tuyệt đối tối đa"
+    ],
+    "answer": "a. Tỷ lệ cố định"
+  },
+  {
+    "question": "Câu 260: Một trong những điều kiện công ty trả cổ tức là:,",
+    "options": [
+      "a. Có l•i trong kỳ",
+      "b. Có l•i tích lũy lại",
+      "c. Có thăng dư vốn",
+      "d. Tất cả các trường hợp trên"
+    ],
+    "answer": "a. Có l•i trong kỳ"
+  },
+  {
+    "question": "Câu 261: Nguồn lợi tức tiềm năng của trái phiếu là:,",
+    "options": [
+      "a. Tiền l•i định kỳ",
+      "b. Chênh lệch giá mua, bán trái phiếu",
+      "c. L•i của l•i trái phiếu",
+      "d. Tất cả các phương án trên"
+    ],
+    "answer": "a. Tiền l•i định kỳ"
+  },
+  {
+    "question": "Câu 262: Quỹ đầu tư chứng khán của Việt Nam là quỹ:,",
+    "options": [
+      "a. Đầu tư tối thiểu 40% giá trị tài sản vào quỹ",
+      "b. Đầu tư tối thiểu 50% giá trị tài sản vào quỹ",
+      "c. Đầu tư tối thiểu 60% giá trị tài sản vào quỹ",
+      "d. Đầu tư tối thiểu 70% giá trị tài sản vào quỹ"
+    ],
+    "answer": "a. Đầu tư tối thiểu 40% giá trị tài sản vào quỹ"
+  },
+  {
+    "question": "Câu 263: Phát hành chứng khoán ra công chúng theo quy định của pháp luật Việt Nam là:,",
+    "options": [
+      "a. Chào bán cho ít nhất 100 nhà đầu tư ngoài tổ chức phát hành",
+      "b. Chào bán chứng khoán có thể chuyển nhượng được",
+      "c. Chịu sự điều chỉnh của luật doanh nghiệp",
+      "d. Cả a và b"
+    ],
+    "answer": "a. Chào bán cho ít nhất 100 nhà đầu tư ngoài tổ chức phát hành"
+  },
+  {
+    "question": "Câu 264: Chào bán so cấp là:,",
+    "options": [
+      "a. Đợt phát hành cổ phiếu bổ sung của công ty đại chúng cho rộng r•i công chúng.",
+      "b. Phát hành trái phiếu ra công chúng",
+      "c. Phát hành cổ phiếu lần đầu ra công chúng",
+      "d. Tất cả các câu trên đều đúng"
+    ],
+    "answer": "a. Đợt phát hành cổ phiếu bổ sung của công ty đại chúng cho rộng r•i công chúng."
+  },
+  {
+    "question": "Câu 265: Tổ chức b•o l•nh phát hành ở Việt Nam chỉ được bảo l•nh cho một đợt phát hành với tổng giá trị cổ,",
+    "options": [
+      "a. 20% vốn có của tổ chức bảo l•nh phát hành.",
+      "b. 25% vốn có của tổ chức bảo l•nh phát hành",
+      "c. 30% vốn có của tổ chức bảo l•nh phát hành",
+      "d. 35% vốn có của tổ chức bảo l•nh phát hành"
+    ],
+    "answer": "a. 20% vốn có của tổ chức bảo l•nh phát hành."
+  },
+  {
+    "question": "Câu 266: Tổ chức phát hành phải hoàn thành việc phân phối cổ phiếu trong vòng:,",
+    "options": [
+      "a. 60 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực",
+      "b. 70 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực",
+      "c. 80 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực",
+      "d. 90 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực"
+    ],
+    "answer": "a. 60 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực"
+  },
+  {
+    "question": "Câu 267: Chứng nhận đăng ký phát hành chứng khoán bị thu hồi trong trường hợp sau:,",
+    "options": [
+      "a. Sai sót trong bản cáo bạch gây thiệt hại cho nhà đầu tư",
+      "b. Phát hành chỉ đạt 85% số lượng chứng khoán được phát hành",
+      "c. Chỉ đạt được 100 nhà đầu tư",
+      "d. Tất cả các câu trên."
+    ],
+    "answer": "a. Sai sót trong bản cáo bạch gây thiệt hại cho nhà đầu tư"
+  },
+  {
+    "question": "Câu 268: Một trái phiếu có mệnh giá 10.000 USD, thời hạn 2 năm, l•i suất 5%/năm. Nếu l•i suất yêu cầu là,",
+    "options": [
+      "a. 9132.23 USD",
+      "b. 9005 USD",
+      "c. 10005 USD",
+      "d. 10132 USD"
+    ],
+    "answer": "a. 9132.23 USD"
+  },
+  {
+    "question": "Câu 269: C phi u X có t l tăng tr ng kỳ v ng không đ i theo ổ ế ỷ ệ ưở ọ ổ các nhà phân tích chứng khoán là 8%/năm. Cổ,",
+    "options": [
+      "a. 58,32 USD",
+      "b. 54 USD",
+      "c. 55 USD",
+      "d. 58 USD"
+    ],
+    "answer": "a. 58,32 USD"
+  },
+  {
+    "question": "Câu 270: Sau khi có quyết định hồi chứng nhận đăng ký phát hành, tổ chức phát hành phải hoàn trả tiền cho nhà,",
+    "options": [
+      "a. 15 ngày",
+      "b. 30 ngày",
+      "c. 45 ngày",
+      "d. 60 ngày"
+    ],
+    "answer": "a. 15 ngày"
+  },
+  {
+    "question": "Câu 271: Hội đồng quản trị, ban giám đốc, ban kiểm soát của công ty niêm yết phải nắm giữ:,",
+    "options": [
+      "a. ít nhất 20% vốn cổ phần của công ty kể từ ngày niêm yết",
+      "d. Tất cả các câu trên.",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. ít nhất 20% vốn cổ phần của công ty kể từ ngày niêm yết"
+  },
+  {
+    "question": "Câu 272: Biên độ giao động giá trên thị trường chứng khoán Việt Nam do:,",
+    "options": [
+      "a. Bộ trưởng bộ tài chính quy định.",
+      "b. Chủ tịch ủy ban chứng khoán nhà nước quy định",
+      "c. Thống đốc ngân hàng Nhà nước quy định",
+      "d. Giám đốc trung tâm giao dịch chứng khoán quy định"
+    ],
+    "answer": "a. Bộ trưởng bộ tài chính quy định."
+  },
+  {
+    "question": "Câu 273: Thời hạn công bố thông tin về báo cáo tài chính năm của tổ chức niêm yết chậm nhất là:,",
+    "options": [
+      "a. 5 ngày kể từ ngày hoàn thành báo cáo tài chính năm",
+      "b. 10 ngày kể từ ngày hoàn thành báo cáo tài chính năm",
+      "c. 15 ngày kể từ ngày hoàn thành báo cáo tài chính năm",
+      "d. 20 ngày kể từ ngày hoàn thành báo cáo tài chính năm"
+    ],
+    "answer": "a. 5 ngày kể từ ngày hoàn thành báo cáo tài chính năm"
+  },
+  {
+    "question": "Câu 274: Tổ chức phát hành, tổ chức niêm yết phải công bố thông tin bất thường trong thời gian:,",
+    "options": [
+      "a. 10 tiếng kể từ khi sự kiện xảy ra",
+      "b. 24 tiếng kể từ khi sự kiện xảy ra",
+      "c. 30 tiếng kể từ khi sự kiện xảy ra",
+      "d. 20 tiếng kể từ khi sự kiện xảy ra"
+    ],
+    "answer": "a. 10 tiếng kể từ khi sự kiện xảy ra"
+  },
+  {
+    "question": "Câu 275: Công ty chứng khoán có thể chỉ hoạt động tối đa,",
+    "options": [
+      "a. 30 ngày",
+      "b. 45 ngày",
+      "c. 60 ngày",
+      "d. 90 ngày"
+    ],
+    "answer": "a. 30 ngày"
+  },
+  {
+    "question": "Câu 276: Khi tiến hành tự doanh chứng khoán, công ty chứng khoán không được:,",
+    "options": [
+      "a. Đầu tư trên 20% tổng số cổ phiếu đang lưu hành của một tổ chức niêm yết",
+      "b. Đầu tư vào cổ phiếu của công ty đang có sở hữu 50% vốn điều lệ của công ty chứng khoán.",
+      "c. Đầu tư 15% tổng số cổ phiếu đang lưu hành của một tổ chức không niêm hết.",
+      "d. Tất cả đều đúng."
+    ],
+    "answer": "a. Đầu tư trên 20% tổng số cổ phiếu đang lưu hành của một tổ chức niêm yết"
+  },
+  {
+    "question": "Câu 277: Công ty chứng khoán phải duy trì tỷ lệ vốn khả dụng tối thiểu trên tỏng vốn nợ điều chỉnh là:,",
+    "options": [
+      "a. 3%",
+      "b. 5%",
+      "c. 6%",
+      "d. 8%"
+    ],
+    "answer": "a. 3%"
+  },
+  {
+    "question": "Câu 278: Công ty chứng khoán phải báo cáo ủy ban chứng khoán khi vốn khả dụng thấp hơn quy định trong,",
+    "options": [
+      "a. 24 giờ kể từ khi phát hiện",
+      "b. 32 giờ kể từ khi phát hiện",
+      "c. 40 giờ kể từ khi phát hiện",
+      "d. 48 giờ kể từ khi phát hiện"
+    ],
+    "answer": "a. 24 giờ kể từ khi phát hiện"
+  },
+  {
+    "question": "Câu 279: Công ty quản lý quỹ được phép,",
+    "options": [
+      "a. Dùng tài sản quỹ để cho vay",
+      "b. Dùng vón của quỹ để bảo l•nh các khoản vay",
+      "c. Vay để tài trợ cho hoạt động quỹ",
+      "d. Tất cả đều sai"
+    ],
+    "answer": "a. Dùng tài sản quỹ để cho vay"
+  },
+  {
+    "question": "Câu 280: M t công ty có l ộ ợi nhuận sau thiếu là 12.000.000.000 đồng. Số cổ phiếu phổ thông đang lưu hành là,",
+    "options": [
+      "a. 2.000 đồng",
+      "b. 2.500 đồng",
+      "c. 2.300 đồng",
+      "d. 2.400 đồng"
+    ],
+    "answer": "a. 2.000 đồng"
+  },
+  {
+    "question": "Câu 281: Năm N, công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu,,",
+    "options": [
+      "a. 1500 đồng",
+      "b. 2000 đồng",
+      "c. 1000 đồng",
+      "d. 1300 đồng"
+    ],
+    "answer": "a. 1500 đồng"
+  },
+  {
+    "question": "Câu 282: Nhà đầu tư A vừa mua được 100 cổ phiếu phổ thông X với giá 24.000 đồng/cổ phiếu, phí môi giới là,",
+    "options": [
+      "a. 24.000.000 đồng",
+      "b. 24.150.000 đồng",
+      "c. 23.878.000 đồng",
+      "d. 24.120.000 đồng"
+    ],
+    "answer": "a. 24.000.000 đồng"
+  },
+  {
+    "question": "Câu 283: Một công ty có cổ phiếu đang được bán với giá 20 USD / cổ phiếu. Nếu tất cả các trái chủ của công ty,",
+    "options": [
+      "a. EPS giảm",
+      "b. EPS tăng",
+      "c. EPS không bị ảnh hưởng",
+      "d. P/E bị ảnh hưởng còn EPS không bị ảnh hưởng"
+    ],
+    "answer": "a. EPS giảm"
+  },
+  {
+    "question": "Câu 284: Các câu nào sau đây không chắc chắn với quyền mua cổ phiếu (rights),",
+    "options": [
+      "a. Giá trị nội tại của quyền mua trước.",
+      "b. Một quyền cho phép mua một cổ phiếu mới",
+      "c. Trong thời hạn hiệu lực của quyền, người sở hữu quyền có thể sử dụng quyền để mua cổ phiếu mới hoặc",
+      "d. Tr c khi phát hành c phi u m i đ tăng ướ ổ ế ớ ể vốn, công ty bắt buộc phải phát hành quyền mua trước."
+    ],
+    "answer": "a. Giá trị nội tại của quyền mua trước."
+  },
+  {
+    "question": "Câu 285: Chức năng chính của nhà bảo l•nh phát hành là:,",
+    "options": [
+      "a. Phân phối chứng khoán ra công và cung cấp thị trường cấp 2.",
+      "b. Phân phối chứng khoán ra công chúng và tư vấn cho tổ chức phát hành các thủ tục pháp lý liên quan",
+      "c. Cung cấp thị trường cấp 2 và cung cấp tài chính cá nhân.",
+      "d. Cung cấp thị trường cấp 2 và tư vấn cho tổ chức phát hành các thủ tục pháp lý liên quan đến đợt phát hành."
+    ],
+    "answer": "a. Phân phối chứng khoán ra công và cung cấp thị trường cấp 2."
+  },
+  {
+    "question": "Câu 286: Tài liệu nào quan trọng nhất trong hồ sơ đăng ký phát hành ra công chúng:,",
+    "options": [
+      "a. Bản sao giấy phép thành lập và đăng ký kinh doanh",
+      "b. Danh sách và sơ yếu lý lịch thành viên HDDQT và ban Giám đốc.",
+      "c. Đơn xin phép phát hành.",
+      "d. Bản cáo bạch"
+    ],
+    "answer": "a. Bản sao giấy phép thành lập và đăng ký kinh doanh"
+  },
+  {
+    "question": "Câu 287: Nếu một cổ phiếu đang được mua bán ở mức 35USD nhưng bạn chỉ có để mua cổ phiếu đó với giá là,",
+    "options": [
+      "a. Thị trường",
+      "b. Giới hạn",
+      "c. a và b đều đúng",
+      "d. a và b đều sai"
+    ],
+    "answer": "a. Thị trường"
+  },
+  {
+    "question": "Câu 288: Lý do nào sau đây đúng với bán khống chứng khoán.,",
+    "options": [
+      "a. Hưởng lợi từ việc tăng giá chứng khoán",
+      "b. Hạn chế rủi ro.",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Hưởng lợi từ việc tăng giá chứng khoán"
+  },
+  {
+    "question": "Câu 289: Các chỉ tiêu sau đây không phải là chỉ tiêu của phân tích cơ bản:,",
+    "options": [
+      "a. Các chỉ tiêu phản ánh khả năng sinh lời của công ty",
+      "b. Các chỉ tiêu phản ánh khả năng thanh toán của công ty",
+      "c. Tỷ số P/E.",
+      "d. Chỉ số giá của thị trường chứng khoán."
+    ],
+    "answer": "a. Các chỉ tiêu phản ánh khả năng sinh lời của công ty"
+  },
+  {
+    "question": "Câu 290: Để dự đoán xem việc tăng, giảm giá chứng khoán nào đó có phải là khởi đầu một xu hướng biến động,",
+    "options": [
+      "a. Xem xét kỹ các báo cáo tài chính.",
+      "b. Đi thu nhập các tin đồn",
+      "c. Sử dụng biểu đồ",
+      "d. Tất cả các câu trên"
+    ],
+    "answer": "a. Xem xét kỹ các báo cáo tài chính."
+  },
+  {
+    "question": "Câu 291: Công ty ABA có 10.000 cổ phần đang lưu hành và tuyên bố trả cổ tức 30% cổ phiếu khách hàng của,",
+    "options": [
+      "a. 1%",
+      "b. 1,3%",
+      "c. 1,5%",
+      "d. 1,1%"
+    ],
+    "answer": "a. 1%"
+  },
+  {
+    "question": "Câu 292: Một trái phiếu có l•i suất cao đang bán với giá cao hơn mệnh giá và được thu hồi theo mệnh giá. Bên,",
+    "options": [
+      "a. Nhà đầu tư.",
+      "b. Tổ chức phát hành",
+      "c. Người ủy thác",
+      "d. Công ty môi giới chứng khoán"
+    ],
+    "answer": "a. Nhà đầu tư."
+  },
+  {
+    "question": "Câu 293: Giao dịch theo phương thức khớp lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có,",
+    "options": [
+      "a. 100 đồng",
+      "b. 200 đồng",
+      "c. 300 đồng",
+      "d. 500 đồng"
+    ],
+    "answer": "a. 100 đồng"
+  },
+  {
+    "question": "Câu 294: Một trong những điều kiện phát hành cổ phiếu lần đầu ra công chúng ở Việt Nam là:,",
+    "options": [
+      "a. Có vốn tối thiểu là 10 tỷ VNĐ, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "b. Có vốn tối thiểu là 10 tỷ VNĐ, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải",
+      "c. Có vốn tối thiểu là 5 tỷ VNĐ, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "d. Có vốn tối thiểu là 5 tỷ VNĐ, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải có l•i."
+    ],
+    "answer": "a. Có vốn tối thiểu là 10 tỷ VNĐ, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i."
+  },
+  {
+    "question": "Câu 295: Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niên yết được quy,",
+    "options": [
+      "a. 25% Tổng số cổ phiếu",
+      "b. 49% Tổng số cổ phiếu",
+      "c. 30% Tổng số cổ phiếu",
+      "d. 27% Tổng số cổ phiếu"
+    ],
+    "answer": "a. 25% Tổng số cổ phiếu"
+  },
+  {
+    "question": "Câu 296: Một trong những điều kiện để niêm yết trái phiếu doanh nghiệp là:,",
+    "options": [
+      "a. Là công ty c ph n, công ty trách nhi m h u h n, doanh ổ ầ ệ ữ ạ nghiệp nhà nước có vốn điều lệ đ• góp tại",
+      "b. Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại thời điểm",
+      "c. Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước, doanh nghiệp tư nhân có vốn điều",
+      "d. Không câu nào đúng."
+    ],
+    "answer": "a. Là công ty c ph n, công ty trách nhi m h u h n, doanh ổ ầ ệ ữ ạ nghiệp nhà nước có vốn điều lệ đ• góp tại"
+  },
+  {
+    "question": "Câu 297: Một trong các điều kiện niêm yết trái phiếu doanh nghiệp là:,",
+    "options": [
+      "a. Hoạt động kinh doanh có l•i liên tục 2 năm liền trước năm xin phép niêm yết và có tình hình tài chính lành",
+      "b. Hoạt động kinh doanh có l•i liên tục 3 năm liền trước năm xin phép niêm yết và có tình hình tài chính lành",
+      "c. Hoạt động kinh doanh có l•i liên tục năm liền trước năm xin phép niêm yết và có tình hình tài chính",
+      "d. Không câu nào đúng."
+    ],
+    "answer": "a. Hoạt động kinh doanh có l•i liên tục 2 năm liền trước năm xin phép niêm yết và có tình hình tài chính lành"
+  },
+  {
+    "question": "Câu 298: Nếu một trái phiếu được bán đúng bằng mệnh giá của nó thì:,",
+    "options": [
+      "a. L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu",
+      "b. L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+      "c. L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+      "d. Không có câu nào đúng."
+    ],
+    "answer": "a. L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu"
+  },
+  {
+    "question": "Câu 299: Nếu một trái phiếu được bán với giá thấp hơn mệnh giá thì:,",
+    "options": [
+      "a. L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu",
+      "b. L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+      "c. L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+      "d. Không có cơ sở để so sánh."
+    ],
+    "answer": "a. L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu"
+  },
+  {
+    "question": "Câu 300: Nếu một trái phiếu được bán với giá cao hơn mệnh giá thì:,",
+    "options": [
+      "a. L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu",
+      "b. L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+      "c. L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+      "d. Không có câu nào đúng."
+    ],
+    "answer": "a. L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu"
+  },
+  {
+    "question": "Câu 301: Nhà đầu tư sẽ yêu cầu một l•i suất như thế nào nếu mua trái phiếu có điều khoản cho phép nhà phát,",
+    "options": [
+      "a. Cao hơn l•i suất các trái phiếu khác có cùng kỳ hạn",
+      "b. Th p h n ấ ơ l•i suất các trái phiếu khác có cùng kỳ hạn.",
+      "c. Bằng l•i suất các trái phiếu khác có cùng kỳ hạn.",
+      "d. Tùy nhà phát hành."
+    ],
+    "answer": "a. Cao hơn l•i suất các trái phiếu khác có cùng kỳ hạn"
+  },
+  {
+    "question": "Câu 302: Trong phiên giao dịch giá cổ phiếu X được xác định là 32.500 đồng, như vậy những lệnh mua sau sẽ,",
+    "options": [
+      "a. Lệnh đặt mua > 32.500 đồng",
+      "b. Lệnh đặt mua = 32.500 đồng",
+      "c. Lệnh đặt mua < 32.500 đồng",
+      "d. Trường hợp (a) chắc chắn được thực hiện và trường hợp (b) có thể được thực hiện tùy trường hợp"
+    ],
+    "answer": "a. Lệnh đặt mua > 32.500 đồng"
+  },
+  {
+    "question": "Câu 303: Trong phiên giao dịch giá cổ phiếu X được xác định là 52.000 đồng, như vậy những lệnh bán sau sẽ,",
+    "options": [
+      "a. Lệnh đặt bán > 52.000 đồng",
+      "b. Lệnh đặt bán = 52.000 đồng",
+      "c. Lệnh đặt bán < 52.000 đồng",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Lệnh đặt bán > 52.000 đồng"
+  },
+  {
+    "question": "Câu 304: Thị trường OTC là:,",
+    "options": [
+      "a. Thị trường giao dịch theo phương thức khớp lệnh",
+      "b. Thị trường giao dịch theo phương thức thỏa thuận",
+      "c. Thị trường giao dịch theo phương thức khớp lệnh và phương thức thỏa thuận.",
+      "d. Không có câu nào đúng."
+    ],
+    "answer": "a. Thị trường giao dịch theo phương thức khớp lệnh"
+  },
+  {
+    "question": "Câu 305: Trung tâm giao dịch chứng khoán Hà Nội là:,",
+    "options": [
+      "a. Nơi giao dịch những chứng khoán đ• niêm yết.",
+      "b. Nơi giao dịch những chứng khoán chưa niêm yết",
+      "c. Cả a và b",
+      "d. Chỉ mua bán trái phiếu của các công ty"
+    ],
+    "answer": "a. Nơi giao dịch những chứng khoán đ• niêm yết."
+  },
+  {
+    "question": "Câu 306: Chỉ số VN - Index thời điểm cao nhất tính cho tới hiện nay là:,",
+    "options": [
+      "a. 300 điểm",
+      "b. 400 điểm",
+      "c. Trên 1000 điểm",
+      "d. Không câu nào đúng."
+    ],
+    "answer": "a. 300 điểm"
+  },
+  {
+    "question": "Câu 307: Người bán khống chứng khoán thực hiện hành động bán khống khi họ đi đoán giá của cổ phiếu sẽ:,",
+    "options": [
+      "a. Tăng lên",
+      "b. Giảm đi",
+      "c. Không thay đổi",
+      "d. Không câu nào đúng"
+    ],
+    "answer": "a. Tăng lên"
+  },
+  {
+    "question": "Câu 308: Lợi nhuận mà người bán chứng khoán không nhận được là:,",
+    "options": [
+      "a. (Giá cuối kỳ + Cổ tức) - giá ban đầu",
+      "b. Giá ban đầu - (cổ tức + giá cuối kỳ)",
+      "c. Giá ban đầu - Giá cuối kỳ",
+      "d. Giá cuối kỳ - giá ban đầu"
+    ],
+    "answer": "a. (Giá cuối kỳ + Cổ tức) - giá ban đầu"
+  },
+  {
+    "question": "Câu 309: Trái phiếu có thời gian dáo hạn dài sẽ cho nhà đầu tư:,",
+    "options": [
+      "a. L•i suất ổn định và giảtị thị trường ổn định.",
+      "b. L•i suất ổn định và giá trị thị trường biến động",
+      "c. L•i suất biến động và giá trị thị trường ổn định",
+      "d. L•i suất biến động và giá trị thị trường biến động."
+    ],
+    "answer": "a. L•i suất ổn định và giảtị thị trường ổn định."
+  },
+  {
+    "question": "Câu 310: Cái gì sau đây bị ảnh hưởng bởi việc phát hành trái phiếu dài hạn:,",
+    "options": [
+      "a. Tài sản",
+      "b. Tổng số nợ",
+      "c. Vốn lưu động",
+      "d. Vốn cổ phần"
+    ],
+    "answer": "a. Tài sản"
+  },
+  {
+    "question": "Câu 311: Trong trường hợp nào vốn cổ đông sẽ bị pha lo•ng:,",
+    "options": [
+      "a. Trả cổ tức bằng chứng khoán",
+      "b. Tách cổ phiếu",
+      "c. Trái phiếu có thể chuyển đổi được chuyển sang cổ phiếu thường",
+      "d. Tất cả các trường hợp trên."
+    ],
+    "answer": "a. Trả cổ tức bằng chứng khoán"
+  },
+  {
+    "question": "Câu 312: Chức năng của thị trường tài chính là:,",
+    "options": [
+      "a. Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn",
+      "b. Hình thành giá các tài sản, tài chính",
+      "c. Tạo tính thanh khoản cho tài sản tài chính",
+      "d. Tất cả các chức năng trên."
+    ],
+    "answer": "a. Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn"
+  },
+  {
+    "question": "Câu 313: Kênh tài chính gián tiếp là:,",
+    "options": [
+      "a. Thị trường chứng khoán",
+      "b. Thị trường trái phiếu.",
+      "d. Sở giao dịch chứng khoán",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Thị trường chứng khoán"
+  },
+  {
+    "question": "Câu 314: Thị trường vốn là thị trường giao dịch:,",
+    "options": [
+      "a. Các công cụ tài chính ngắn hạn",
+      "b. Các công cụ tài chính trung và dài hạn",
+      "c. Kỳ phiếu",
+      "d. Tiền tệ"
+    ],
+    "answer": "a. Các công cụ tài chính ngắn hạn"
+  },
+  {
+    "question": "Câu 315: Thị trường chứng khoán là một bộ phận của:,",
+    "options": [
+      "a. Thị trường tín dụng.",
+      "b. Thị trường liên ngân hàng",
+      "c. Thị trường vốn",
+      "d. Thị trường mở"
+    ],
+    "answer": "a. Thị trường tín dụng."
+  },
+  {
+    "question": "Câu 316: Thị trường chứng khoán không phải là:,",
+    "options": [
+      "a. Nơi tập trung và phân phối các nguồn vốn tiết kiệm",
+      "b. Định chế tài chính trực tiếp.",
+      "c. Nơi giao dịch cổ phiếu",
+      "d. Nơi đấu thầu các tín phiếu"
+    ],
+    "answer": "a. Nơi tập trung và phân phối các nguồn vốn tiết kiệm"
+  },
+  {
+    "question": "Câu 317: Đối tượng tham gia mua - bán chứng khoán trên thị trường chứng khoán có thể là:,",
+    "options": [
+      "a. Chính phủ",
+      "b. ủy ban chứng khoán Nhà nước",
+      "c. Quĩ đầu tư chứng khoán",
+      "d. Sở giao dịch chứng khoán."
+    ],
+    "answer": "a. Chính phủ"
+  },
+  {
+    "question": "Câu 318: Tổ chức nào không được phát hành trái phiếu:,",
+    "options": [
+      "a. Công ty trách nhiệm hữu hạn",
+      "b. Công ty hợp danh",
+      "c. Doanh nghiệp Nhà nước",
+      "d. Công ty cổ phần"
+    ],
+    "answer": "a. Công ty trách nhiệm hữu hạn"
+  },
+  {
+    "question": "Câu 319: Cơ quan quản lý Nhà nước đối với TTCK là:,",
+    "options": [
+      "a. Sở giao dịch chứng khoán",
+      "b. Hiệp hội kinh doanh chứng khoán.",
+      "c. ủy ban chứng khoán",
+      "d. ủy ban nhân dân thành phố"
+    ],
+    "answer": "a. Sở giao dịch chứng khoán"
+  },
+  {
+    "question": "Câu 320: Các nguyên tắc hoạt động của TTCK tập trung,",
+    "options": [
+      "a. Mua bán trực tiếp",
+      "b. Công khai thông tin",
+      "c. Giao dịch thỏa thuận",
+      "d. Tất cả đều đúng"
+    ],
+    "answer": "a. Mua bán trực tiếp"
+  },
+  {
+    "question": "Câu 321: Công khai thông tin về TTCK phải thỏa m•n các yêu cầu ngoại trừ,",
+    "options": [
+      "a. Chính xác",
+      "b. Kịp thời",
+      "c. Dễ tiếp cận",
+      "d. Ưu tiên khách hàng"
+    ],
+    "answer": "a. Chính xác"
+  },
+  {
+    "question": "Câu 322: Thị trường chứng khoán thứ cấp là:,",
+    "options": [
+      "a. Thị trường huy động vốn",
+      "b. Thị trường tạo hàng hóa chứng khoán",
+      "c. Thị trường tạo tính thanh khoản cho chứng khoán",
+      "d. Tất cả đều đúng"
+    ],
+    "answer": "a. Thị trường huy động vốn"
+  },
+  {
+    "question": "Câu 323: Nhận định nào là sai về thị trường thứ cấp,",
+    "options": [
+      "a. Là nơi giao dịch các chứng khoán kém phẩm chất",
+      "b. Là nơi luân chuyển vốn đầu tư",
+      "c. Là nơi tạo cơ hội đầu tư cho công chúng.",
+      "d. Là nơi chuyển đổi sở hữu về chứng khoán"
+    ],
+    "answer": "a. Là nơi giao dịch các chứng khoán kém phẩm chất"
+  },
+  {
+    "question": "Câu 324: Những cổ phiếu nào được tự do chuyển nhượng:,",
+    "options": [
+      "a. Cổ phiếu ưu đ•i cổ tức",
+      "b. Cổ phiếu ưu đ•i biểu quyết",
+      "c. Cổ phiếu phổ thông",
+      "d. Cổ phiếu quỹ"
+    ],
+    "answer": "a. Cổ phiếu ưu đ•i cổ tức"
+  },
+  {
+    "question": "Câu 325: Cổ đông phổ thông có quyền:,",
+    "options": [
+      "a. Nhận cổ tức trước trái tức",
+      "b. Nhận thanh lý tài sản đầu tiên khi công ty phá sản",
+      "c. Bỏ phiếu",
+      "d. Nhận thu nhập cố định"
+    ],
+    "answer": "a. Nhận cổ tức trước trái tức"
+  },
+  {
+    "question": "Câu 326: Thặng dư vốn phát sinh khi,",
+    "options": [
+      "a. Công ty làm ăn có l•i",
+      "b. Chênh lệch giá khi phát hành cổ phiếu mới",
+      "c. Công ty tăng vốn khi phát hành thêm chứng khoán",
+      "d. Tất cả các trường hợp trên."
+    ],
+    "answer": "a. Công ty làm ăn có l•i"
+  },
+  {
+    "question": "Câu 327: Giá tráiphiếu vận động,",
+    "options": [
+      "a. Ngược chiều với l•i suất thị trường",
+      "b. Cùng chiều với l•i suất thị trường",
+      "c. Không chịu ảnh hưởng của l•i suất thị trường",
+      "d. Tất cả đều sai."
+    ],
+    "answer": "a. Ngược chiều với l•i suất thị trường"
+  },
+  {
+    "question": "Câu 328: Khi mua cổ phiếu nhà đầu tư quan tâm nhất đến:,",
+    "options": [
+      "a. Giá cổ phiếu",
+      "b. Tình hình hoạt động của công ty",
+      "c. Quan hệ cung cầu của cổ phiếu trên thị trường",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Giá cổ phiếu"
+  },
+  {
+    "question": "Câu 329: Khi mua trái phiếu nhà đầu tư quan tâm nhất đến gì:,",
+    "options": [
+      "a. Mệnh giá trái phiếu",
+      "b. L•i suất trái phiếu",
+      "c. Thời hạn dáo hạn của trái phiếu",
+      "d. Cách thức trả l•i trái phiếu"
+    ],
+    "answer": "a. Mệnh giá trái phiếu"
+  },
+  {
+    "question": "Câu 330: Công ty cổ phần là doanh nghiệp trong đó,",
+    "options": [
+      "a. Cổ đông chịu trách nhiệm hữu hạn về nghĩa vụ nợ",
+      "b.Cổ đông có quyền tự do chuyển đổi tất cả các loại cổ phiếu của mình",
+      "c. Hạn chế số lượng cổ đông tối đa",
+      "d. Tất cả đều đúng."
+    ],
+    "answer": "a. Cổ đông chịu trách nhiệm hữu hạn về nghĩa vụ nợ"
+  },
+  {
+    "question": "Câu 331: Công ty cổ phần bắt buộc phải có,",
+    "options": [
+      "a. Cổ phiếu phổ thông",
+      "b. Cổ phiếu ưu đ•i",
+      "c. Trái phiếu công ty",
+      "d. Tất cả các loại chứng khoán trên"
+    ],
+    "answer": "a. Cổ phiếu phổ thông"
+  },
+  {
+    "question": "Câu 332: Mục đích phân biệt phát hành riêng lẻ và phát hành ra công chúng là:,",
+    "options": [
+      "a. Để dễ dàng quản lý",
+      "b. Để bảo vệ công chúng đầu tư",
+      "c. Để thu hút phát hành",
+      "d. Để dễ dàng huy động vốn."
+    ],
+    "answer": "a. Để dễ dàng quản lý"
+  },
+  {
+    "question": "Câu 333: ở Việt Nam, muốn phát hành cổ phiếu ra công chúng phải:,",
+    "options": [
+      "a. Được ủy ban chứng khoán Nhà nước cấp phép",
+      "b. Được ủy ban chứng khoán Nhà nước chấp thuận đăng ký",
+      "c. Xin phép bộ tài chính",
+      "d. Xin phép trung tâm giao dịch"
+    ],
+    "answer": "a. Được ủy ban chứng khoán Nhà nước cấp phép"
+  },
+  {
+    "question": "Câu 334: Nghị định 144/2003/NĐ-CP của Chính phủ diều chỉnh.,",
+    "options": [
+      "a. Phát hành cổ phiếu của các tổ chức tín dụng",
+      "b. Phát hành cổ phiếu của các doanh nghiệp Nhà nước cổ phần hóa",
+      "c. Phát hành cổ phiếu của các doanh nghiệp có vốn đầu tư nước ngoài chuyển đổi thành công ty cổ phần.",
+      "d. Phát hành cổ phiếu của công ty cổ phần."
+    ],
+    "answer": "a. Phát hành cổ phiếu của các tổ chức tín dụng"
+  },
+  {
+    "question": "Câu 335: Phát hành cổ phiếu ra công chúng bao gồm các hình thức:,",
+    "options": [
+      "a. Chào bán sơ cấp lần đầu.",
+      "b. Chào bán thứ cấp lần đầu",
+      "c. Phát hành thêm cổ phiếu ra công chúng",
+      "d. Tất cả các hình thức trên."
+    ],
+    "answer": "a. Chào bán sơ cấp lần đầu."
+  },
+  {
+    "question": "Câu 336: Phát hành thêm cổ phiếu ra công chúng bao gồm:,",
+    "options": [
+      "a. Chào bán thêm cổ phiếu để tăng vốn điều lệ",
+      "b. Chào bán thêm cổ phiếu để trả cổ tức",
+      "c. Chào bán thêm cổ phiếu thưởng",
+      "d. Tất cả các câu trên."
+    ],
+    "answer": "a. Chào bán thêm cổ phiếu để tăng vốn điều lệ"
+  },
+  {
+    "question": "Câu 337: ủy ban chứng khoán cấp giấy chứng nhận đăng ký phát hành ra công chúng kể từ khi nhận đầy đủ hồ,",
+    "options": [
+      "a. 30 ngày.",
+      "b. 30 ngày làm việc",
+      "c. 45 ngày.",
+      "d. 45 ngày làm việc."
+    ],
+    "answer": "a. 30 ngày."
+  },
+  {
+    "question": "Câu 338: Trông thời hạn UBCKNN xem xét hồ sơ đăng ký phát hành đối tượng có liên quan được phép:,",
+    "options": [
+      "a. Quảng cáo chào mời mua cổ phiếu.",
+      "b. Thăm dò thị trường trên các phương tiện thông tin đại chúng.",
+      "c. Được phép sử dụng các thông tin trong bản cáo bạch để thăm dò thị trường.",
+      "d. Tất cả các phương án trên."
+    ],
+    "answer": "a. Quảng cáo chào mời mua cổ phiếu."
+  },
+  {
+    "question": "Câu 339: Những tổ chức được phép làm đại lý phát hành chứng khoán.,",
+    "options": [
+      "a. Công ty chứng khoán.",
+      "b. Tổ chức tín dụng",
+      "c. Tổ chức tín dụng phi Ngân hàng",
+      "d. Tất cả các phương án trên"
+    ],
+    "answer": "a. Công ty chứng khoán."
+  },
+  {
+    "question": "Câu 340: Bảo l•nh phát hành chứng khoán là việc tổ chức bảo l•nh giúp tổ chức phát hành thực hiện:,",
+    "options": [
+      "a. Các thủ tục trước khi chào bán chứng khoán.",
+      "b. Nhận mua một phần hay toàn bộ chứng khoán của tổ chức phát hành.",
+      "c. Tổ chức phân phối chứng khoán.",
+      "d. Tất cả các việc trên."
+    ],
+    "answer": "a. Các thủ tục trước khi chào bán chứng khoán."
+  },
+  {
+    "question": "Câu 341: Phân phối cổ phiếu phải:,",
+    "options": [
+      "a. Theo giá bán được xác định trong bản cáo bạch đ• đăng ký với UBCKNN",
+      "b. Theo giá thỏa thuận với nhà đầu tư.",
+      "c. Theo giá trị trường qua đấu giá",
+      "d. Theo giá ưu đ•i do Hội đồng quản trị của công ty phát hành quyết định"
+    ],
+    "answer": "a. Theo giá bán được xác định trong bản cáo bạch đ• đăng ký với UBCKNN"
+  },
+  {
+    "question": "Câu 342: Tổ chức bảo l•nh phát hành phải:,",
+    "options": [
+      "a. Có liên quan với tổ chức phát hành.",
+      "b. Phải có giấy phép hoạt động bảo l•nh",
+      "c. Phải là công ty chứng khoán.",
+      "d. Phải là công ty tài chính."
+    ],
+    "answer": "a. Có liên quan với tổ chức phát hành."
+  },
+  {
+    "question": "Câu 343: Điều điện niêm yết cổ phiếu,",
+    "options": [
+      "a. Vốn điều lệ 5 tỷ đồng trở lên.",
+      "b. Kinh doanh có l•i 2 năm liên tiếp",
+      "c. Tối thiểu 20% cổ phiếu bán ít nhất 50 cổ đông ngoài tổ chức phát hành",
+      "d. Tất cả các điều kiện trên."
+    ],
+    "answer": "a. Vốn điều lệ 5 tỷ đồng trở lên."
+  },
+  {
+    "question": "Câu 344: Giao dịch nội bộ phải thông báo cho trung tâm giao dịch chứng khoán trước khi thực hiện ít nhất.,",
+    "options": [
+      "a. 10 ngày làm việc",
+      "b. 10 ngày",
+      "c. 15 ngày làm việc",
+      "d. 15 ngày"
+    ],
+    "answer": "a. 10 ngày làm việc"
+  },
+  {
+    "question": "Câu 345: Tổ chức niêm yết được phép mua bán cổ phiếu quỹ trong vòng:,",
+    "options": [
+      "a. 60 ngày làm việc",
+      "b. 60 này",
+      "c. 90 ngày",
+      "d. 90 ngày làm việc"
+    ],
+    "answer": "a. 60 ngày làm việc"
+  },
+  {
+    "question": "Câu 346: Tổ chức niêm yết chỉ được bán cổ phiếu quỹ sau khi trả lại tối thiểu,",
+    "options": [
+      "a. 3 tháng",
+      "b. 4 tháng",
+      "c. 5 tháng",
+      "d. 6 tháng"
+    ],
+    "answer": "a. 3 tháng"
+  },
+  {
+    "question": "Câu 347: Tổ chức nào sau đây có thể là thành viên của trung tâm giao dịch chứng khoán:,",
+    "options": [
+      "a. Công ty chứng khoán",
+      "b. Công ty quản lý quỹ",
+      "c. Quỹ đầu tư chứng khoán",
+      "d. Ngân hàng chỉ định chứng khoán"
+    ],
+    "answer": "a. Công ty chứng khoán"
+  },
+  {
+    "question": "Câu 348: Tổ chức nào sau đây có thể là thành viên của trung tâm giao dịch chứng khoán phải có:,",
+    "options": [
+      "a. Giấy phép hoạt động môi giới chứng khoán.",
+      "b. Giấy phép tự doanh chứng khoán.",
+      "c. Có cơ sở vật chất đảm bảo giao dịch.",
+      "d. Tất cả các điều kiện trên."
+    ],
+    "answer": "a. Giấy phép hoạt động môi giới chứng khoán."
+  },
+  {
+    "question": "Câu 349: Nhà đầu tư có quyền bán cổ phiếu niêm yết lô lẻ tại:,",
+    "options": [
+      "a. Trung tâm giao dịch chứng khoán",
+      "b. Công ty chứng khoán.",
+      "c. Thị trường tự do",
+      "d. Các Ngân hàng thương mại"
+    ],
+    "answer": "a. Trung tâm giao dịch chứng khoán"
+  },
+  {
+    "question": "Câu 350: Đổi tên phân bổ thị trường chứng khoán gồm:,",
+    "options": [
+      "a. Tổ chức phát hành tổ chức niêm yết.",
+      "b. Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ.",
+      "c. Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán.",
+      "d. Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán trung tâm phát hành."
+    ],
+    "answer": "a. Tổ chức phát hành tổ chức niêm yết."
+  },
+  {
+    "question": "Câu 351: Tự doanh chứng khoán là việc:,",
+    "options": [
+      "a. Công ty chứng khán mua bán chứng khoán cho khách hàng",
+      "b. Công ty chứng khoán mua bán chứng khoán cho chính mình",
+      "c. Công ty chứng khoán quản lý vốn của khách hàng qua việc và nắm giữ chứng khoán vì quyền lợi khách hàng.",
+      "d. Tất cả các câu trên đều đúng."
+    ],
+    "answer": "a. Công ty chứng khán mua bán chứng khoán cho khách hàng"
+  },
+  {
+    "question": "Câu 352: Tổ chức phát hành, tổ chức niêm yết công bố báo cáo tài chính năm trên,",
+    "options": [
+      "a. 3 số báo liên tiếp của một tờ báo.",
+      "b. 4 số báo liên tiếp của một tờ báo.",
+      "c.5 số báo liên tiếp của một tờ báo.",
+      "d. 6 số báo liên tiếp của một tờ báo."
+    ],
+    "answer": "a. 3 số báo liên tiếp của một tờ báo."
+  },
+  {
+    "question": "Câu 353: Công ty chứng khoán là gì:,",
+    "options": [
+      "a. Công ty cổ phần, công ty trách nhiệm hữu hạn",
+      "b. Doanh nghiệp tư nhân, công ty hợp doanh",
+      "c. Doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn",
+      "d. Doanh nghiệp tư nhân, công ty cổ phần"
+    ],
+    "answer": "a. Công ty cổ phần, công ty trách nhiệm hữu hạn"
+  },
+  {
+    "question": "Câu 354: Các loại hình kinh doanh chứng khoán chính là:,",
+    "options": [
+      "a. Môi giới phát hành chứng khoán",
+      "b. Bảo l•nh phát hành, quản lý doanh mục đầu tư",
+      "c. Tư vấn tài chính và đầu tư chứng khoán.",
+      "d.TÊt c¶"
+    ],
+    "answer": "a. Môi giới phát hành chứng khoán"
+  },
+  {
+    "question": "Câu 355: Thời hạn cấp giấy phép kinh doanh chứng khoán là:,",
+    "options": [
+      "a. 60 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "b. 60 này làm việc kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "c. 45 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "d. 45 ngày làm việc kể từ khi UBCK nhận được hồ sơ hợp lệ"
+    ],
+    "answer": "a. 60 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ"
+  },
+  {
+    "question": "Câu 356: Các công ty chứng khoán nhận lệnh qua:,",
+    "options": [
+      "a. Mạng Internet",
+      "b. Chi nhánh",
+      "c. Phòng giao dịch",
+      "d. Đại lý nhận lệnh"
+    ],
+    "answer": "a. Mạng Internet"
+  },
+  {
+    "question": "Câu 357: Điều kiện để nhân viên công ty chứng khoán được cấp chứng chỉ hành nghề kinh doanh chứng khoán,",
+    "options": [
+      "a. Có chứng chỉ nguyên môn về chứng khoán do UBCK cấp.",
+      "b. Có năng lực pháp luật và năng lực hành vi dân sự",
+      "c. Đủ tiêu chuẩn trình độ chuyên môn",
+      "d. Tất cả các điều kện trên"
+    ],
+    "answer": "a. Có chứng chỉ nguyên môn về chứng khoán do UBCK cấp."
+  },
+  {
+    "question": "Câu 358: Nhân viên công ty chứng khoán,",
+    "options": [
+      "a. Được tự do mua, bán cổ phiếu ở mọi nơi",
+      "b. Chỉ được mở tài khoản giao dịch cho mình tại công ty chứng khoán nơi làm việc.",
+      "c. Sở hữu không hạn chế số cổ phiếu biểu quyết của một tổ chức phát hành.",
+      "d. Làm giám đốc một công ty niêm yết."
+    ],
+    "answer": "a. Được tự do mua, bán cổ phiếu ở mọi nơi"
+  },
+  {
+    "question": "Câu 359: Chứng chỉ hành nghề kinh doanh chứng khoán có thời hạn:,",
+    "options": [
+      "a. 2 năm",
+      "b. 3 năm",
+      "c. 4 năm",
+      "d. 5 năm"
+    ],
+    "answer": "a. 2 năm"
+  },
+  {
+    "question": "Câu 360: Qũy đầu tư chứng khoán có vốn điều lệ tối thiểu là:,",
+    "options": [
+      "a. 5 tỷ đồng",
+      "b. 10 tỷ đồng",
+      "c. 15 tỷ đồng",
+      "d. 20 tỷ đồng"
+    ],
+    "answer": "a. 5 tỷ đồng"
+  },
+  {
+    "question": "Câu 361: Cơ cấu tổ chức của công ty chứng khán phải đảm bảo:,",
+    "options": [
+      "a. Tách biệt giữa hoạt động kinh doanh của chủ sở hữu công ty chứng khoán với hoạt động kinh doanh của công",
+      "b. Tách biệt hoạt động môi giới với hoạt động tự doanh",
+      "c. Tách biệt hoạt động tự doanh với hoạt động quản lý danh mục đầu tư",
+      "d. Tất cả những điều trên."
+    ],
+    "answer": "a. Tách biệt giữa hoạt động kinh doanh của chủ sở hữu công ty chứng khoán với hoạt động kinh doanh của công"
+  },
+  {
+    "question": "Câu 362: Nghiệp vụ ư vấn tài chính bao gồm:,",
+    "options": [
+      "a. Tư vấn kết cấu tài chính.",
+      "b.Tư vấn phát triển và niêm yết chứng khoán.",
+      "d. Các ngân hàng thương mại",
+      "d. [Missing option]"
+    ],
+    "answer": "a. Tư vấn kết cấu tài chính."
+  },
+  {
+    "question": "Câu 363: Đối tượng công bố thôn tin thị trường chứng khoán gồm:,",
+    "options": [
+      "a. Tổ chức phát hành tổ chức niêm yết",
+      "b. Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ.",
+      "c. Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán.",
+      "d. Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán, trung tâm giao dịch."
+    ],
+    "answer": "a. Tổ chức phát hành tổ chức niêm yết"
+  },
+  {
+    "question": "Câu 364: Tự doanh chứng khoán là việc,",
+    "options": [
+      "a. Công ty chứng khoán mua bán chứ khoán cho khách hàng.",
+      "b. Công ty chứng khoán mua bán chứng khoán cho chính mình",
+      "c. Công ty chứng khoán quản lý vốn của khách hàng qua việc và nắm giữ chứng khoán vì quyền lợi của khách",
+      "d. Tất cả các câu trên đều đúng."
+    ],
+    "answer": "a. Công ty chứng khoán mua bán chứ khoán cho khách hàng."
+  },
+  {
+    "question": "Câu 365: Tổ chức phát hành, tổ chức niêm yết công bố báo cáo tài chính năm trên:,",
+    "options": [
+      "a. 3 số báo liên tiếp của một tờ báo.",
+      "b. 4 số báo liên tiếp của một tờ báo",
+      "c. 5 số báo liên tiếp của một tờ báo",
+      "d. 6 số báo liên tiếp của một tờ báo"
+    ],
+    "answer": "a. 3 số báo liên tiếp của một tờ báo."
+  },
+  {
+    "question": "Câu 366: Công ty chứng khoán phải là:,",
+    "options": [
+      "a. Công ty cổ phần, công ty trách nhiệm hữu hạn",
+      "b. Doanh nghiệp tư nhân, công ty hợp danh",
+      "c. Doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn",
+      "d. Doanh nghiệp tư nhân, công ty cổ phần"
+    ],
+    "answer": "a. Công ty cổ phần, công ty trách nhiệm hữu hạn"
+  },
+  {
+    "question": "Câu 367: Các loại hình kinh doanh chứng khoán chính là:,",
+    "options": [
+      "a. Môi giới, tự doanh chứng khoán",
+      "b. Bảo l•nh phát hành, quản lý danh mục đầu tư",
+      "c. Tư vấn tài chính và đầu tư chứng khoán.",
+      "d. Tất cả các loại hình trên."
+    ],
+    "answer": "a. Môi giới, tự doanh chứng khoán"
+  },
+  {
+    "question": "Câu 368: Thời hạn cấp giấy phép kinh doanh chứng khoán tối đa là:,",
+    "options": [
+      "a. 60 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "b. 60 ngày làm việc kể từ khi UBCK nhận được hồ sơ hợp lệ.",
+      "c. 45 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "d. 45 ngày làm việc kể từ khi UBCk nhận được hồ sơ hợp lệ"
+    ],
+    "answer": "a. 60 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ"
+  },
+  {
+    "question": "Câu 369: Công ty chứng khoán được phép:,",
+    "options": [
+      "a. Làm đại lý phát hành chứng khoán niêm yết",
+      "b. Làm đại lý phát hành chứng khoán chưa niêm yết",
+      "c. Tư vấn cổ phần hóa, xác định giá trị doanh nghiệp",
+      "d. Tất cả các câu trên đều đúng"
+    ],
+    "answer": "a. Làm đại lý phát hành chứng khoán niêm yết"
+  },
+  {
+    "question": "Câu 370: Chứng chỉ hành nghề kinh doanh chứng khoán chỉ được cấp cho:,",
+    "options": [
+      "a. Công ty chứng khoán",
+      "b. Cá nhân có đủ chứng chỉ chuyên môn về thị trường chứng khoán.",
+      "c. Cá nhân đang làm việc tại một công ty chứng khoán.",
+      "d. Tất cả đều đúng."
+    ],
+    "answer": "a. Công ty chứng khoán"
+  },
+  {
+    "question": "Câu 371: Giao dịch theo phương thức khớip lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có,",
+    "options": [
+      "a. 100 đ",
+      "b. 200 đ",
+      "c. 300 đ",
+      "d. 500 đ"
+    ],
+    "answer": "a. 100 đ"
+  },
+  {
+    "question": "Câu 372: Giao d ch theo ph ng th c kh p l nh Vi t ị ươ ứ ớ ệ ở ệ Nam quy định đơn vịyết giá đối với những cổ phiếu có,",
+    "options": [
+      "a. 100 đ",
+      "b. 1000 đ",
+      "b. 300 đ",
+      "c. 500 đ"
+    ],
+    "answer": "a. 100 đ"
+  },
+  {
+    "question": "Câu 373: Công ty A là một doanh nghiệp nhà nước thực hiện cổ phần hóa, công ty A sẽ tiến hành bán cổ phần,",
+    "options": [
+      "a. Đấu gia công khai",
+      "b. Chỉ bán trong nội bộ công ty",
+      "c. Bán theo giá sẵn cho người ld",
+      "d. Chỉ có b và c"
+    ],
+    "answer": "a. Đấu gia công khai"
+  },
+  {
+    "question": "Câu 374: Doanh nghiệp Nhà nước cổ phần hóa thực hiện bán đấu giá cổ phiếu lần đầu ra công chúng bắt buộc,",
+    "options": [
+      "a. 10 tỷ đồng trở lên",
+      "b. Từ 1 đến 10 tỷ đồng",
+      "c. 5 tỷ đồng trở lên",
+      "d. Tùy doanh nghiệp có muốn thực hiện đấu giá qua trung tâm hay không."
+    ],
+    "answer": "a. 10 tỷ đồng trở lên"
+  },
+  {
+    "question": "Câu 375: Điều kiện được đăng ký giao dịch tại TTGDCK Hà Nội đối với cổ phiếu là:,",
+    "options": [
+      "a. Doanh nghiệp cổ phần có vờnt 5tỷ trở lên có ít nhất 50 cổ đông, có tình hình tài chính lành mạnh, báo cáo tài",
+      "b. Doanh nghiệp cổ phần có vốn từ 5 tỷ trở lên có ít nhất 50 cổ đông trong tổ chức phát hành, có tình hình tài",
+      "c. Doanh nghiệp cổ phần có vốn từ 10 tỷ trở lên có ít nhất 100 cổ đông ngoài tổ chức phát hành, có tình",
+      "d. Không câu nào đúng."
+    ],
+    "answer": "a. Doanh nghiệp cổ phần có vờnt 5tỷ trở lên có ít nhất 50 cổ đông, có tình hình tài chính lành mạnh, báo cáo tài"
+  },
+  {
+    "question": "Câu 376: Khi thực hiện bán cổ phần của DNNN, cổ đông chiến lược được phép mua:,",
+    "options": [
+      "a. Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+      "b. Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+      "c. Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân.",
+      "d. Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân."
+    ],
+    "answer": "a. Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân."
+  },
+  {
+    "question": "Câu 377: Khi nhà đ u t mua c ph n qua đ u giá t i trung tâm ầ ư ổ ầ ấ ạ giao dịch chứng khán Hà Nội, nhà đầu tư phải,",
+    "options": [
+      "a. 10% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "b. 15% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "c. 5% giá trị cổ phần đăng ký mua tính theo giá khởi điểm.",
+      "d. Không phải đặt cọc."
+    ],
+    "answer": "a. 10% giá trị cổ phần đăng ký mua tính theo giá khởi điểm"
+  },
+  {
+    "question": "Câu 378: Công ty cổ phần ABC phát hành trái phiếu trị giá 10 tỷ đồng, mệnh giá trái phiếu là 100.000 đồng. Đợt,",
+    "options": [
+      "a. Tăng vốn lưu động.",
+      "b. Tăng vốn lưu động và tăng tổng nợ",
+      "c. Tăng vốn lưu động, tăng tổng nợ và tăng tổng tài sản",
+      "d. Tăng vốn lưu động, tăng tổng nợ, tăng tổng tài sản và tăng vốn chủ sở hữu."
+    ],
+    "answer": "a. Tăng vốn lưu động."
+  },
+  {
+    "question": "Câu 379: Năm N, công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu,,",
+    "options": [
+      "a) 1500đ",
+      "b) 2000đ",
+      "c) 1000đ",
+      "d. [Missing option]"
+    ],
+    "answer": "a) 1500đ"
+  },
+  {
+    "question": "Câu 380: Loại hình niêm yết nào sau đây mang tính chất thâu tóm, sát nhập công ty,",
+    "options": [
+      "a) Niêm yết lần đầu",
+      "b) Niêm yết lại",
+      "c) Niêm yết bổ sung",
+      "d) Niêm yết cửa sau"
+    ],
+    "answer": "a) Niêm yết lần đầu"
+  },
+  {
+    "question": "Câu 381: Quỹ đầu tư chứng khoán dạng đóng góp là quỹ:,",
+    "options": [
+      "a) Phát hành chứng chỉ quỹ nhiều lần",
+      "b) Có thể được niêm yết chứng chỉ quỹ trên TTCK",
+      "c) Được quyền mua lại chứng chỉ quỹ từ nhà đầu tư",
+      "d) Được quyền phát hành bổ sung ra công chúng"
+    ],
+    "answer": "a) Phát hành chứng chỉ quỹ nhiều lần"
+  },
+  {
+    "question": "Câu 382: Ông X vừa bán 100 cổ phiếu của công ty A với giá 40 USD/cổ phiếu. Ông ta mua cổ phiếu đó 1 năm,",
+    "options": [
+      "a) 1000USD",
+      "b) 1200USD",
+      "c) 1300USD",
+      "d) Tất cả đều sai"
+    ],
+    "answer": "a) 1000USD"
+  },
+  {
+    "question": "Câu 383: Thị trường chứng khoán đang lên cổ phiếu REE đ• tăng giá liên tục mấy phiên, là nhà tư vấn đầu tư,,",
+    "options": [
+      "a) Mua chứng khoán này vào vì tôi dự báo nó còn lên",
+      "b) Bán chứng khoán này vì tôi suy nghĩ đ• lên mấy hôm rồi nó sẽ xuống",
+      "c) Không mua không bán gì cả vì thị trường chưa ổn định",
+      "d) Chỉ cung cấp đầy đủ thông tin cho khách hàng và để họ tự quyết định mua bán"
+    ],
+    "answer": "a) Mua chứng khoán này vào vì tôi dự báo nó còn lên"
+  },
+  {
+    "question": "Câu 384: Tại thời điểm trái phiếu chuyển đổi thành cổ phiếu thường, I. Quyền sở hữu của cổ đông hiện hữu bị pha lo•ng, II. Thuế thu nhập của công ty giảm, III. Người sở hữu trái phiếu chuyển đổi được nhận lại vốn gốc, IV. Thu nhập trên vốn cổ phần giảm,",
+    "options": [
+      "a) I và II",
+      "b) I, II và III",
+      "c) I và IV",
+      "d) I, II, III và IV"
+    ],
+    "answer": "a) I và II"
+  },
+  {
+    "question": "Câu 385: Cổ phiếu nào sau đây không được phép chuyển nhượng:,",
+    "options": [
+      "a) Cổ phiếu phổ thông",
+      "b) Cổ phiếu ưu đ•i cổ tức",
+      "c) Cổ phiếu ưu đ•i biểu quyết",
+      "d) Tất cả các loại trên"
+    ],
+    "answer": "a) Cổ phiếu phổ thông"
+  },
+  {
+    "question": "Câu 386: Công ty cổ phần bắt buộc phải có,",
+    "options": [
+      "a) Cổ phiếu phổ thông",
+      "b) Cổ phiếu ưu đ•i",
+      "c) Trái phiếu công ty",
+      "d) Tất cả các loại chứng khoán trên"
+    ],
+    "answer": "a) Cổ phiếu phổ thông"
+  },
+  {
+    "question": "Câu 387: Mục tiêu chính của công tác thanh tra, giám sát việc thực hiện pháp luật chứng khoán và thị trường, I. Bảo vệ quyền lợi của người đầu tư, II. Góp phần đảm bảo cho hoạt động thị chứng khoán công bằng công khai và hiệu quả, III. Giảm thiểu rủi ro hệ thống, IV. Để người đầu tư ngày càng có l•i,",
+    "options": [
+      "a) I, II, III",
+      "b) Tất cả",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a) I, II, III"
+  },
+  {
+    "question": "Câu 388: Việc quản lý chứng khoán tại hệ thống lưu ký chứng khoán tập trung có thể được thực hiện:,",
+    "options": [
+      "a) Thông qua hệ thống tài khoản lưu ký chứng khoáng tại trung tâm lưu ký chứng khoán đối với chứng khoán",
+      "b) Lưu giữ đặc biệt - lưu giữ chứng chỉ chứng khoán trong kho trung tâm lưu ký chứng khoán đứng tên người",
+      "c) Do tổ chức phát hành quản lý",
+      "d) a và b"
+    ],
+    "answer": "a) Thông qua hệ thống tài khoản lưu ký chứng khoáng tại trung tâm lưu ký chứng khoán đối với chứng khoán"
+  },
+  {
+    "question": "Câu 389: Một công ty XYZ thông báo sẽ tách cổ phiếu, điều này sẽ làm:,",
+    "options": [
+      "a) Tăng mệnh giá tương đương với chỉ số tách",
+      "b) Không thay đổi",
+      "c) Giảm mệnh giá và tăng số lượng cổ phần",
+      "d) Tăng mệnh giá và giảm số lượng cổ phần"
+    ],
+    "answer": "a) Tăng mệnh giá tương đương với chỉ số tách"
+  },
+  {
+    "question": "Câu 390: Khi thực hiện nghiệp vụ môi giới chứng khoán công ty chứng khoán đại diện cho khách hàng tiến,",
+    "options": [
+      "a) Cơ chế giao dịch tại SGD CK hoặc thị trường OTC trong đó SGDCK/Thị trường OTC cùng chia sẻ trách",
+      "b) Cơ chế giao dịch tại SGD trong đó khách hàng chịu trách nhiệm về kết quả kinh tế của giao dịch đó.",
+      "c) Cơ chế giao dịch tại thị trường OTC trong đó khách hàng chịu trách nhiệm về kết quả kinh tế của giao dịch",
+      "d) B và C"
+    ],
+    "answer": "a) Cơ chế giao dịch tại SGD CK hoặc thị trường OTC trong đó SGDCK/Thị trường OTC cùng chia sẻ trách"
+  },
+  {
+    "question": "Câu 391: Trong tháng 7 chúng ta không có ngày nghỉ lễ, giả sử lệnh bán chứng khoán của bạn đ• được thực hiện,",
+    "options": [
+      "a) Chủ nhật 18/7",
+      "b) Thứ hai 19/7",
+      "c) Thứ ba 20/7",
+      "d) Thứ tư 21/7"
+    ],
+    "answer": "a) Chủ nhật 18/7"
+  },
+  {
+    "question": "Câu 392: Gi s b n bán kh ng 100 c ả ử ạ ố ổ phiếu phổ thông với giá 50$/ cổ phiếu. Với mức ký quỹ ban đầu là,",
+    "options": [
+      "a) 20%",
+      "b) 25%",
+      "c) 40%",
+      "d) 50%"
+    ],
+    "answer": "a) 20%"
+  },
+  {
+    "question": "Câu 393: Lý do nào sau đây đúng với bán khống chứng khoán,",
+    "options": [
+      "a) Ngăn chặn sự thua lỗ",
+      "b) Hưởng lợi từ sự sụt giá",
+      "c) Hưởng lợi từ việc tăng giá chứng khoán",
+      "d) Hạn chế rủi ro"
+    ],
+    "answer": "a) Ngăn chặn sự thua lỗ"
+  },
+  {
+    "question": "Câu 394: Một công ty XYZ thông báo sẽ gộp cổ phiếu, Điều này sẽ làm:,",
+    "options": [
+      "a) Không thay đổi",
+      "b) Tăng mệnh giá và giảm số cổ phần",
+      "c) Giảm mệnh giá và tăng số cổ phần",
+      "d) Tăng mệnh tương đương với chỉ số tách"
+    ],
+    "answer": "a) Không thay đổi"
+  },
+  {
+    "question": "Câu 395: Lệnh ATO là lệnh:,",
+    "options": [
+      "a) Được thực hiện tại mức giá cao nhất",
+      "b) Được ưu tiên trước lệnh thị trường",
+      "c) Được sử dụng với mục tích làm tăng khối lượng giao dịch",
+      "d) Không làm ảnh hưởng đến mức giá khớp lệnh và khối lượng giao dịch"
+    ],
+    "answer": "a) Được thực hiện tại mức giá cao nhất"
+  },
+  {
+    "question": "Câu 396: Giả sử, pptk quỹ có các khoản mục như sau:,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 397: Quỹ đầu tư chứng khoán dạng mở là quỹ đầu tư, I. Phát hành liên tục, II. Không niêm yết, III. ít hấp dẫn đầu người đầu tư, IV. Phải mua lại chứng chỉ khi người sở hữu yêu cầu, V. Chính sách đầu tư dài hạn,",
+    "options": [
+      "a) I, II, V",
+      "b) I, II và III",
+      "c) I, II, III và IV",
+      "d) I, II, IV"
+    ],
+    "answer": "a) I, II, V"
+  },
+  {
+    "question": "Câu 398: Đối với các doanh nghiệp nhà nước cổ phần hóa và niêm yết ngay trên thị trường chứng khoán, điều,",
+    "options": [
+      "a) Vốn điều lệ",
+      "b) Thời gian hoạt động có l•i",
+      "c) Thời gian cam kết nắm giữ cổ phiếu của thành viên Hội đồng quản trị, Ban Giám đốc, Ban Kiểm soát.",
+      "d) Tỷ lệ nắm giữ của các cổ đông ngoài tổ chức phát hành"
+    ],
+    "answer": "a) Vốn điều lệ"
+  },
+  {
+    "question": "Câu 399: Trả cổ tức bằng cổ phiếu, sẽ:,",
+    "options": [
+      "a) Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "b) Không làm thay đổi tỷ lệ quyền lợi của cổ đông",
+      "c) Làm giảm quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "d) Không có câu nào đúng"
+    ],
+    "answer": "a) Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty"
+  },
+  {
+    "question": "Câu 400: Gi s giá đóng c a c a ch ng khoán A trong phiên ả ử ử ủ ứ giao dịch trước là 10200 đồng, đơn vị yết giá là,",
+    "options": [
+      "a) 9600, 10998, 10608",
+      "b) 9600, 10000, 10100, 10300, 10400, 10500, 10600, 10700",
+      "c) 9700, 10000, 10100, 10500, 10600, 10700, 10800",
+      "d) 9600, 10000, 10100, 10200, 10300, 10400, 10500, 10600, 10700"
+    ],
+    "answer": "a) 9600, 10998, 10608"
+  },
+  {
+    "question": "Câu 401: Thị trường tài chính bao gồm:,",
+    "options": [
+      "a) Thị trường tiền tệ và thị trường vốn",
+      "b) Thị trường hối đoái và thị trường vốn",
+      "c) Thị trường chứng khoán và thị trường tiền tệ",
+      "d) Thị trường thuê mua và thị trường bảo hiểm"
+    ],
+    "answer": "a) Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "question": "Câu 402: Để giao dịch chứng khoán niêm yết tại Trung tâm giao dịch chứng khoán cần phải có các bước:,",
+    "options": [
+      "a) I, II, III, IV, V",
+      "b) I, III, V, II, IV",
+      "c) II, I, V, IV, III",
+      "d) II, III, I, V, IV"
+    ],
+    "answer": "a) I, II, III, IV, V"
+  },
+  {
+    "question": "Câu 403: Số lệnh của cổ phiếu XXX với giá đóng cửa trước đó là 30,5 như sau:,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 404:, I. Nhận cổ tức với mức ưu đ•i, II. Tham dự và biểu quyết tất cả các vấn đề thuộc thẩm quyền, III. Khi công ty giải thể, nhận được lại một phần tài sản tương ứng với số vốn cổ phần góp vào công ty., IV. Được nhận cổ tức ưu đ•i như l•i suất trái phiếu kể cả khi công ty làm ăn thua lỗ,",
+    "options": [
+      "a) I",
+      "b) I và II",
+      "c) I và II",
+      "d) Chỉ IV"
+    ],
+    "answer": "a) I"
+  },
+  {
+    "question": "Câu 405: Qua thông báo về đợt phát trái phiếu Chính phủ Việt Nam tại thị trường chứng khoán Hoa Kỳ vừa qua,",
+    "options": [
+      "a) Đúng",
+      "b) Sai",
+      "c) Không thể xác định",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Đúng"
+  },
+  {
+    "question": "Câu 406: Hình thức bảo l•nh phát hành trong đó đợt phát hành sẽ bị hủy bỏ nếu toàn bộ chứng khoán không bán,",
+    "options": [
+      "a) Bảo l•nh với cam kết chắc chắn",
+      "b) Bảo l•nh với cố gắng tối đa",
+      "c) Bảo l•nh tất cả hoặc không",
+      "d) Tất cả các hình thức trên"
+    ],
+    "answer": "a) Bảo l•nh với cam kết chắc chắn"
+  },
+  {
+    "question": "Câu 407: Lệnh dừng để bán được đưa ra,",
+    "options": [
+      "a) Với giá cao hơn giá thị trường hiện hành",
+      "b) Với giá thấp hơn giá thị trường hiện hành",
+      "c) Hoặc cao hơn hoặc thấp hơn giá thị trường hiện hành",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "question": "Câu 408: Thị trường tài chính là nơi huy động vốn,",
+    "options": [
+      "a) Ngắn hạn",
+      "b) Trung hạn",
+      "c) Dài hạn",
+      "d) Cả ba yếu tố trên"
+    ],
+    "answer": "a) Ngắn hạn"
+  },
+  {
+    "question": "Câu 409: Sở Giao dịch chứng khoán là:,",
+    "options": [
+      "a) Thị trường giao dịch chứng khoán tập trung",
+      "b) Thị trường giao dịch chứng khoán phi tập trung",
+      "c) Một trong các hình thức hoạt động của thị trường chứng khoán thứ cấp",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Thị trường giao dịch chứng khoán tập trung"
+  },
+  {
+    "question": "Câu 410: Chứng khoán xác định người sở hữu nó có,",
+    "options": [
+      "a) Quyền sở hữu đối với một công ty",
+      "b) Quyền chủ nợ đối với một công ty",
+      "c) Quyền chủ nợ đối với Chính phủ hay chính quyền địa phương",
+      "d) Tất cả các quyền trên"
+    ],
+    "answer": "a) Quyền sở hữu đối với một công ty"
+  },
+  {
+    "question": "Câu 411: Cổ phiếu và trái phiếu có cùng đặc trưng là:,",
+    "options": [
+      "a) Có l•i suất cố định",
+      "b) Có thu nhập theo hoạt động của công ty",
+      "c) Được quyền bầu cử tại đại hội cổ đông",
+      "d) Không có câu nào đúng"
+    ],
+    "answer": "a) Có l•i suất cố định"
+  },
+  {
+    "question": "Câu 412: Xác định giá mở cửa theo các lệnh sau đây:,",
+    "options": [
+      "a) Giá đóng cửa phiên giao dịch trước là 20.600: ………………",
+      "b) Giá đóng cửa phiên giao dịch trước là 21.000: ………………",
+      "c) Giá đóng cửa phiên giao dịch trước là 21.500: ………………",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Giá đóng cửa phiên giao dịch trước là 20.600: ………………"
+  },
+  {
+    "question": "Câu 413: Một lệnh dừng bán được đưa ra:,",
+    "options": [
+      "a) Với giá cao hơn giá thị trường hiện hành",
+      "b) Hoặc là cao hơn hay thấp hơn giá thị trường hiện hành",
+      "c) Ngay tại giá thị trường hiện hành",
+      "d) Với giá thấp hơn giá thị trường hiện hành"
+    ],
+    "answer": "a) Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "question": "Câu 414: Công ty ABC được phép phát hành 5.000.000 cổ phiếu theo điều lệ Công ty 3.000.000 cổ phiếu đ•,",
+    "options": [
+      "a) 1.000.000",
+      "b) 2.000.000",
+      "c) 3.000.000",
+      "d) 5.000.000"
+    ],
+    "answer": "a) 1.000.000"
+  },
+  {
+    "question": "Câu 415: M t Công ty ch ng khoán thi u sót xác ộ ứ ế nhận với khách hàng về một việc mua 100 cổ phiếu của công,",
+    "options": [
+      "a) Phải trả 34 3/8",
+      "b) Phải trả 34 5/8",
+      "c) Có thể hủy bỏ lệnh",
+      "d) Có thể chấp nhận giá 34 3/8 hoặc hủy bỏ lệnh"
+    ],
+    "answer": "a) Phải trả 34 3/8"
+  },
+  {
+    "question": "Câu 416: Điều kiện cần thiết để thành lập Công ty cổ phần là:,",
+    "options": [
+      "a) Thu nhập do Công ty cổ phần mang lại cho những người góp vốn phải có l•i suất lớn hơn l•i suất tiền gửi",
+      "b) Phải có sự nhất trí cao về mục tiêu kinh doanh và các hoạt động khác giữa các thành viên sáng lập",
+      "c) Nhà nước đ• ban hành đầy đủ các luật về Công ty cổ phần, luật thương mại, luật phá sản, luật cầm cố… và",
+      "d) Cả a, b và c đều đúng"
+    ],
+    "answer": "a) Thu nhập do Công ty cổ phần mang lại cho những người góp vốn phải có l•i suất lớn hơn l•i suất tiền gửi"
+  },
+  {
+    "question": "Câu 417: Đối với người kinh doanh chứng khoán, nếu dự đoán được mức trần (mức chống đỡ) thì tại thời điểm,",
+    "options": [
+      "a) Bán chứng khoán",
+      "b) Mua chứng khoán",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Bán chứng khoán"
+  },
+  {
+    "question": "Câu 418: H•y xác định ngày giao dịch chứng khoán không có cổ tức tại sơ đồ dưới đây. Biết rằng ngày đăng ký,",
+    "options": [
+      "b) 27/6",
+      "c) 30/6",
+      "d) 28/6",
+      "d. [Missing option]"
+    ],
+    "answer": "b) 27/6"
+  },
+  {
+    "question": "Câu 419: Thị trường chứng khoán nước A áp dụng phương thức ghép lệnh từng đợt trên sổ lệnh vào thời điểm,",
+    "options": [
+      "a) Khách hàng (a): 200; (b): 200; (c): 200",
+      "b) Khách hàng (a): 200; (b): 200; (c): 100; (d): 100",
+      "c) Khách hàng (a): 200; (b): 100; (c): 150; (d): 150",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Khách hàng (a): 200; (b): 200; (c): 200"
+  },
+  {
+    "question": "Câu 420: Trong các điều kiện để doanh nghiệp được phát hành chứng khoán ra công chứng, điều kiện nào quan,",
+    "options": [
+      "a) Có sản phẩm nổi tiếng trên thị trường",
+      "b) Tình hình tài chính lành mạnh, ổn định và kết quả kinh doanh có hiệu quả trước khi phát hành.",
+      "c) Có bộ máy nhân sự tốt",
+      "d) Có cơ sở vật chất (máy móc thiết bị) hiện đại"
+    ],
+    "answer": "a) Có sản phẩm nổi tiếng trên thị trường"
+  },
+  {
+    "question": "Câu 421: Một Công ty có một loại cổ phiếu ưu đ•i không cộng dồn cổ tức đang lưu hành với số cổ tức được trả,",
+    "options": [
+      "a) 7 USD",
+      "b) 10 USD",
+      "c) 14 USD",
+      "d) 20 USD"
+    ],
+    "answer": "a) 7 USD"
+  },
+  {
+    "question": "Câu 422: Các tổ chức tham gia hoạt động trực tiếp trên thị trường chứng khoán tập trung là:, I. Các nhà đầu tư cá thể, II. Các Công ty chứng khoán, III. Các nhà đầu tư có tổ chức, IV. Các ngân hàng thương mại được UBCKNN cấp phép hoạt động,",
+    "options": [
+      "a) Chỉ I",
+      "b) Chỉ có II",
+      "c) Chỉ I & III",
+      "d) Chỉ II và IV"
+    ],
+    "answer": "a) Chỉ I"
+  },
+  {
+    "question": "Câu 423: Trong tr ng h p x y ra vi c thanh l ườ ợ ả ệ ý tài sản công ty các cổ đông nắm giữ cổ phiếu ưu đ•i:,",
+    "options": [
+      "a) Là chủ nợ nói chung",
+      "b) Mất toàn bộ vốn đầu tư ban đầu",
+      "c) Là những người có độ ưu tiên sau cùng trong việc trả nợ của công ty",
+      "d) Chỉ là người có độ ưu tiên trước cổ đông nắm giữ cổ phiếu thường trong việc chia phần tài sản còn"
+    ],
+    "answer": "a) Là chủ nợ nói chung"
+  },
+  {
+    "question": "Câu 424: Ai là người chia quyền sở hữu trong công ty :, I. Cổ đông ưu đ•i, II. Cổ đông thường, III. Người nắm giữ trái phiếu,",
+    "options": [
+      "a) Chỉ I",
+      "b) Chỉ I và II",
+      "c) Cả I, II và III",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Chỉ I"
+  },
+  {
+    "question": "Câu 425: Thị trường ngoài danh mục (OTC: Over - The - Counter) là một,",
+    "options": [
+      "a) Cả a, b, c đều sai",
+      "b) Thị trường đấu giá",
+      "c) Thị trường chuyển giao",
+      "d) Thị trường theo thương lượng"
+    ],
+    "answer": "a) Cả a, b, c đều sai"
+  },
+  {
+    "question": "Câu 426: Một công ty phát hành 1.000.000 cổ phiếu với giá 10,5 đô la (đ• bán hết trong đợt phát hành). Một thời,",
+    "options": [
+      "a) Không thay đổi",
+      "b) Tăng 500.000 đô la",
+      "c) Giảm 500.000 đô la",
+      "d) Chuyển 500.000 đô la từ nợ sang vốn"
+    ],
+    "answer": "a) Không thay đổi"
+  },
+  {
+    "question": "Câu 427: ý nghĩa của việc phân biệt giữa phát hành riêng rẽ (nội bộ) và phát hành ra công chúng là:,",
+    "options": [
+      "a) Để phân biệt quy mô hoạt động vốn",
+      "b) Để phân biệt loại chứng khoán được phát hành",
+      "c) Để phân biệt đối tượng và phạm vi cần quản lý",
+      "d) Cả a, b, c đều đúng"
+    ],
+    "answer": "a) Để phân biệt quy mô hoạt động vốn"
+  },
+  {
+    "question": "Câu 428: Nếu một khách hàng đưa ra một lệnh có hiệu lực cho đến khi hủy bỏ để bán 100 cổ phiếu của công ty,",
+    "options": [
+      "a) L nh tr thành m t ệ ở ộ lệnh thị trường khi cổ phiếu đạt tới giá 37",
+      "b) Đây là một lệnh có hiệu lực trong ngày",
+      "c) Đây là một lệnh mở",
+      "d) Cả a, b, c đều sai"
+    ],
+    "answer": "a) L nh tr thành m t ệ ở ộ lệnh thị trường khi cổ phiếu đạt tới giá 37"
+  },
+  {
+    "question": "Câu 429: Chỉ số nào sau đây sẽ được nhà phân tích sử dụng để dự đoán triển vọng của Công ty:,",
+    "options": [
+      "a) Chỉ số TSLĐ",
+      "b) Chỉ số thử nhanh",
+      "c) Chỉ số giá trên thu nhập",
+      "d) Chỉ số nợ trên vốn cổ phiếu"
+    ],
+    "answer": "a) Chỉ số TSLĐ"
+  },
+  {
+    "question": "Câu 430: Công ty cổ phần ABC phát hành trái phiếu trị giá 100.000.000 đô la, mệnh giá trái phiếu là 1.000đô la,, I. Tăng vốn cổ đông, II. Tăng tổng cộng nợ, III. Tăng vốn lưu động, IV. Tăng tổng cộng tài sản có,",
+    "options": [
+      "a) Chỉ I",
+      "b) I, II và III",
+      "c) II, III và IV",
+      "d) I, II, III và IV"
+    ],
+    "answer": "a) Chỉ I"
+  },
+  {
+    "question": "Câu 431: Vào thời điểm chuyển đổi trái phiếu thành cổ phiếu:, I. Người sở hữu trái phiếu chuyển đổi nhận lại vốn, II. Quyền sở hữu của cổ đông hiện tại bị pha lo•ng, III. Công ty A phải trả thuế nhiều hơn, nhưng cơ cấu bảng tổng kết tài sản tốt hơn,",
+    "options": [
+      "a) I và II",
+      "b) II và III",
+      "c) I và III",
+      "d) Chỉ II"
+    ],
+    "answer": "a) I và II"
+  },
+  {
+    "question": "Câu 432: Một trong các nhược điểm trong hoạt động của công ty cổ phần là:, I. Tách rời quyền sở hữu và quyền điều hành, II. Tương đối ít được tín nhiệm trong cấp tín dụng, III. Thi u đ ng l c và s ế ộ ự ự quan tâm cá nhân, vì trách nhiệm chung trong thua lỗ, IV. Không giữ được bí mật trong kinh doanh và tài chính,",
+    "options": [
+      "a) Chỉ có I và IV",
+      "b) Chỉ có I và III",
+      "c) Chỉ có I, III và IV",
+      "d) Tất cả I, II. III, IV"
+    ],
+    "answer": "a) Chỉ có I và IV"
+  },
+  {
+    "question": "Câu 433: Một khách hàng vào một lệnh bán đứng với giá 53 1/2. Lô chứng khoán sau cùng trước khi lệnh được,",
+    "options": [
+      "a) 53 3/4",
+      "b) 53 5/8",
+      "c) 53 1/2",
+      "d) 53 3/8"
+    ],
+    "answer": "a) 53 3/4"
+  },
+  {
+    "question": "Câu 434: Đại hội cổ đông sẽ bầu:,",
+    "options": [
+      "a) Hội đồng quản trị và Ban kiểm soát",
+      "b) Hội đồng quản trị, Chủ tịch Hội đồng quản trị và Ban Kiểm soát",
+      "c) Hội đồng quản trị để Hội đồng quản trị chọn Ban Giám đốc và Ban Kiểm soát",
+      "d) Cả a, b, c đều sai"
+    ],
+    "answer": "a) Hội đồng quản trị và Ban kiểm soát"
+  },
+  {
+    "question": "Câu 435: Tại sao việc phát hành chứng khoán ra công chúng phải được ủy Ban Chứng Khoán Nhà nước cấp,",
+    "options": [
+      "a) Để việc quản lý các công ty phát hành được tốt hơn",
+      "b) Để bảo vệ các nhà đầu tư lớn",
+      "c) Để đảm bảo chỉ những công ty làm ăn tốt và nghiêm chỉnh mới được huy động vốn qua công chúng và bảo",
+      "d) Để ủy Ban Chứng Khoán Nhà nước giám sát hoạt động của công ty"
+    ],
+    "answer": "a) Để việc quản lý các công ty phát hành được tốt hơn"
+  },
+  {
+    "question": "Câu 436: Căn cứ vào phân tích kỹ thuật mô hình đầu và hai vai hướng xuống, xác định xu hướng,",
+    "options": [
+      "a) Khó dự đoán",
+      "b) Thị trường đi lên",
+      "c) Thị trường bình quân",
+      "d) Thị trường đi xuống"
+    ],
+    "answer": "a) Khó dự đoán"
+  },
+  {
+    "question": "Câu 437: Chính phủ phát hành trái phiếu nhằm các mục đích:,",
+    "options": [
+      "a) Bù đắp thâm hụt ngân sách",
+      "b) Tài trợ các công trình công cộng",
+      "c) Giúp đỡ các công ty",
+      "d) Điều tiết tiền tệ"
+    ],
+    "answer": "a) Bù đắp thâm hụt ngân sách"
+  },
+  {
+    "question": "Câu 438: Trong các điều kiện để doanh nghiệp được phát hành chứng khoán ra công chúng, điều kiện nào là,",
+    "options": [
+      "a) Có ban Giám đốc điều hành tốt",
+      "b) Có sản phẩm nổi tiếng trên thị trường",
+      "c) Có tỷ lệ nợ trên vốn hợp lý",
+      "d) Quy mô vốn và kết quả hoạt động trước khi phát hành"
+    ],
+    "answer": "a) Có ban Giám đốc điều hành tốt"
+  },
+  {
+    "question": "Câu 439: Khi l•i suất thị trường tăng lên, giá trái phiếu sẽ:,",
+    "options": [
+      "a) Tăng",
+      "b) Giảm",
+      "c) Không thay đổi",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Tăng"
+  },
+  {
+    "question": "Câu 440: Một nhà đầu tư muốn thu được lợi vốn thì khi nào là thời điểm tốt nhất để mua trái phiếu,",
+    "options": [
+      "a) Khi l•i suất cao và dự kiến sẽ giảm xuống",
+      "b) Khi l•i suất thấp và dự kiến sẽ tăng lên",
+      "c) Khi l•i suất ổn định và dự kiến sẽ không đổi",
+      "d) Khi giá trái phiếu thấp và l•i suất dự kiến sẽ tăng lên"
+    ],
+    "answer": "a) Khi l•i suất cao và dự kiến sẽ giảm xuống"
+  },
+  {
+    "question": "Câu 441: Chức năng chính của tổ chức bảo l•nh phát hành chứng khoán là:,",
+    "options": [
+      "a) Tư vấn",
+      "b) Chuẩn bị hồ sơ xin phép phát hành",
+      "c) Định giá chứng khoán phát hành",
+      "d) Bao tiêu một phần hoặc toàn bộ số chứng khoán phát hành"
+    ],
+    "answer": "a) Tư vấn"
+  },
+  {
+    "question": "Câu 442: Giả sử chỉ số DowJones công nghiệp ngày giao dịch t là 12060 điểm và tổng giá của 30 loại chứng,",
+    "options": [
+      "a) 4",
+      "b) 0,15",
+      "c) 100,5",
+      "d) 0,25"
+    ],
+    "answer": "a) 4"
+  },
+  {
+    "question": "Câu 443: Gi s giá đóng c a c a ch ng khoán A trong phiên ả ử ử ủ ứ giao dịch trước là 9.800 đồng, đơn vị yết giá là,",
+    "options": [
+      "a) 9310, 9819, 1000, 10290",
+      "b) 9300, 9700, 9800, 10200",
+      "c) 9500, 9700, 9900, 1000, 10400",
+      "d) 9400, 9500, 9600, 9700, 10200"
+    ],
+    "answer": "a) 9310, 9819, 1000, 10290"
+  },
+  {
+    "question": "Câu 444: Xác định giá mở cửa theo các lệnh sau đây:,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 445: Một trong các điều kiện nào dưới đây chưa phải là điều kiện tối thiểu của việc phát hành chứng,",
+    "options": [
+      "a) Mức vốn điều lệ tối thiểu là 10 tỷ VND",
+      "b) Kinh doanh có l•i trong năm gần nhất",
+      "c) Đội ngũ l•nh đạo của công ty có năng lực quản lý tốt",
+      "d) Tối thiểu 20% vốn cổ phần phát hành ra công chúng"
+    ],
+    "answer": "a) Mức vốn điều lệ tối thiểu là 10 tỷ VND"
+  },
+  {
+    "question": "Câu 446: Các tổ chức có thể tham gia hoạt động trực tiếp trên thị trường chứng khoán tập trung là:, I. Các nhà đầu tư có tổ chức, II. Các nhà đầu tư cá thể, III. Các công ty chứng khoán, IV. Các ngân hàng thương mại được UBCKNN cấp phép,",
+    "options": [
+      "a) Chỉ có I",
+      "b) Chỉ có II",
+      "c) Chỉ có III",
+      "d) Không có câu nào đúng"
+    ],
+    "answer": "a) Chỉ có I"
+  },
+  {
+    "question": "Câu 447: Khi công ty không có l•i, nó sẽ:,",
+    "options": [
+      "a) Trả cổ tức cho cổ phiếu thường",
+      "b) Trả l•i trái phiếu",
+      "c) Trả cổ tức cho cổ phiếu ưu đ•i",
+      "d) Không phải trả l•i và cổ tức"
+    ],
+    "answer": "a) Trả cổ tức cho cổ phiếu thường"
+  },
+  {
+    "question": "Câu 448: Việc tách cổ phiếu trong tổ đại diện để tính đủ số giá chứng khoán theo phương pháp Dow Jones sẽ,",
+    "options": [
+      "a) Tăng",
+      "b) Giảm",
+      "c) Không đổi",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Tăng"
+  },
+  {
+    "question": "Câu 449: H•y xác định ngày giao dịch chứng khoán không có cổ tức tại sơ đồ dưới đây. Biết rằng ngày kết thúc,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 450: Theo pháp luật Việt Nam các tổ chức được phép phát hành cổ phiếu là:,",
+    "options": [
+      "a) Công ty trách nhiệm hữu hạn",
+      "b) Doanh nghiệp nhà nước thực hiện cổ phần hóa",
+      "c) Công ty cổ phần và doanh nghiệp nhà nước thực hiện cổ phần hóa",
+      "d) Công ty cổ phần"
+    ],
+    "answer": "a) Công ty trách nhiệm hữu hạn"
+  },
+  {
+    "question": "Câu 451: Việc phát hành cổ phiếu làm tăng:,",
+    "options": [
+      "a) Nợ của Công ty",
+      "b) Tài sản của công ty",
+      "c) Vốn cổ phần của công ty",
+      "d) Cả b và c"
+    ],
+    "answer": "a) Nợ của Công ty"
+  },
+  {
+    "question": "Câu 452: Một cổ phiếu bán theo quyền mua cổ phiếu mới với giá 90.000đ/01 CP, nhưng hiện nay, giá thị trường,",
+    "options": [
+      "a) 3.000đ",
+      "b) 2.000đ",
+      "c) 20.000đ",
+      "d) 10.000đ"
+    ],
+    "answer": "a) 3.000đ"
+  },
+  {
+    "question": "Câu 453: Trình tự chào bán chứng chỉ quỹ đầu tư lần đầu và đăng ký việc thành lập quỹ:,",
+    "options": [
+      "a) 1, 2, 3, 5 và 4",
+      "b) 5, 2, 3, 4 và 1",
+      "c) 1, 5, 2, 4 và 3",
+      "d) 3, 5, 4, 2 và 1"
+    ],
+    "answer": "a) 1, 2, 3, 5 và 4"
+  },
+  {
+    "question": "Câu 454: Nghĩa vụ nào sau đây không thuộc nghĩa vụ của thành viên:,",
+    "options": [
+      "a) Nộp phí thành viên, phí giao dịch, phí sử dụng hệ thống giao dịch",
+      "b) Nghĩa vụ đóng góp lập quỹ hỗ trợ thanh toán",
+      "c) Nghĩa vụ nộp báo cáo tài chính bán niên",
+      "d) Nghĩa vụ báo cáo Giám đốc hoặc nhân viên kinh doanh của thành viên là đối tượng chịu sự điều tra"
+    ],
+    "answer": "a) Nộp phí thành viên, phí giao dịch, phí sử dụng hệ thống giao dịch"
+  },
+  {
+    "question": "Câu 455: Mục đích của công tác thanh tra giám sát là:, I. Giúp các tổ chức cá nhân hoạt động đúng pháp luật, II. Đảm bảo thị trường chứng khoán hoạt động an toàn công khai, công bằng và hiệu quả, III. Bảo vệ quyền hợp pháp của người đầu tư, IV. Góp phần hoàn thiện cơ chế quản lý,",
+    "options": [
+      "a) Chỉ I",
+      "b) Chỉ I và II",
+      "c) Chỉ I, II và III",
+      "d) Cả I, II, III và IV"
+    ],
+    "answer": "a) Chỉ I"
+  },
+  {
+    "question": "Câu 456: Tổ chức phát hành bị đinh chỉ giấy phép phát hành trong những trường hợp sau:, I. Không thực hiện việc bổ sung sửa đổi hồ sơ xin phép phát hành theo thông tư 01 ủy ban Chứng Khoán Nhà, II. Tài sản của tổ chức phát hành bị tổn thất, bị phong tỏa, bị tịch thu có tỷ lệ tương đương hơn 10% trên tổng, III. Tổ chức phát hành vi phạm pháp luật, vi phạm các quy định về chứng khoán và thị trường chứng khoán gây,",
+    "options": [
+      "a) I và II",
+      "b) II và III",
+      "c) I và III",
+      "d) I, II và III"
+    ],
+    "answer": "a) I và II"
+  },
+  {
+    "question": "Câu 457: Quy định về vốn khả dụng của Công ty Chứng khoán với tỷ lệ là:,",
+    "options": [
+      "a) 5%",
+      "b) 6%",
+      "c) 8%",
+      "d) 10%"
+    ],
+    "answer": "a) 5%"
+  },
+  {
+    "question": "Câu 458: Điều kiện cơ bản để thành lập và xin cấp phép hoạt động công ty chứng khoán, I. Phải tuân thủ luật công ty, II. Giảm đốc công ty phải là người có quốc tịch Việt Nam, III. Điều kiện về cán bộ: có đa số nhân viên kể cả các nhân viên cao cấp của công ty, có lý lịch cá nhân tố, được, IV. Điều kiện về tài chính: thể nhân và pháp nhân tham gia thành lập công ty chứng khoán phải có thực lực tốt,",
+    "options": [
+      "a) Chỉ có I, III và IV",
+      "b) Chỉ có I, II và III",
+      "c) Chỉ I, II và IV",
+      "d) Cả I, II, III và IV"
+    ],
+    "answer": "a) Chỉ có I, III và IV"
+  },
+  {
+    "question": "Câu 459: Công ty chứng khoán không được:, I. Dùng quá 70% vốn điều lệ để đầu tư vào bất động sản và mua sắm trang thiết bị., II. Đầu tư vượt quá 20% tổng số chứng khoán đang lưu hành của một công ty niêm yết., III. Đầu tư vượt quá 15% tổng số chứng khoán đang lưu hành của một công ty niêm yết., IV. Bảo l•nh phát hành chứng khoán ra công chúng vượt quá 4 lần hiệu số giữa giá trị tài sản lưu động và tổng,",
+    "options": [
+      "a) Chỉ có I và II",
+      "b) Chỉ có II và III",
+      "c) Chỉ có II, III và IV",
+      "d) Tất cả I, II, III và IV"
+    ],
+    "answer": "a) Chỉ có I và II"
+  },
+  {
+    "question": "Câu 460: Người hành nghề kinh doanh chứng khoán được phép:,",
+    "options": [
+      "a) Cùng làm việc hoặc góp vốn vào hai hoặc nhiều công ty chứng khoán",
+      "b) Cho mượn giấy phép hành nghề kinh doanh chứng khoán",
+      "c) Tham gia các hoạt động kinh doanh chứng khoán",
+      "d) Làm giám đốc, thành viên hội đồng quản trị hoặc cổ đông sở hữu trên 5% cổ phiếu có quyền biểu quyết của"
+    ],
+    "answer": "a) Cùng làm việc hoặc góp vốn vào hai hoặc nhiều công ty chứng khoán"
+  },
+  {
+    "question": "Câu 461: Những điều kiện cơ bản để được phát hành cổ phiếu lần đầu ra công chúng, trong đó bao gồm:, I. Có mức vốn điều lệ tối thiểu 5 tỷ đồng, II. Có ít nhất 2 năm liên tục gần nhất kinh doanh có lợi nhuận., III. Có ít nhất 20% cổ phần bán cho ít nhất 100 người ngoài tổ chức phát hành và số cổ đông sáng lập nắm giữ, IV. Giá trị cổ phiếu xin phát hành thêm không lớn hơn giá trị cổ phiếu đang lưu hành.,",
+    "options": [
+      "a) Chỉ có I",
+      "b) Chỉ có II, III và IV",
+      "c) Chỉ có I, II và III",
+      "d) Cả I, II, III và IV"
+    ],
+    "answer": "a) Chỉ có I"
+  },
+  {
+    "question": "Câu 462: Trong thời gian ủy ban Chứng khoán Nhà nước xem xét đơn xin phép phát hành cổ phiếu và trái phiếu, I. Cho công chúng biết ngày phát hành ra công chúng, II. Công ty tổ chức quảng cáo trực tiếp hay gián tiếp việc chào mời công chúng mua cổ phiếu hay trái phiếu., III. Công ty sử dụng bản cáo bạch gửi lên ủy ban Chứng khoán Nhà nước để thăm dò thị trường., IV. Công ty s ử dụng các phương tiện thông tin đại chúng để thăm dò,",
+    "options": [
+      "a) Chỉ có III",
+      "b) Chỉ có II",
+      "c) Chỉ I và IV",
+      "d) I, II, III và IV"
+    ],
+    "answer": "a) Chỉ có III"
+  },
+  {
+    "question": "Câu 463: Khi gây thiệt hại cho các thành viên lưu ký, Trung tâm giao dịch chứng khoán,",
+    "options": [
+      "a) Không chịu bất kỳ một trách nhiệm nào đối với các thành viên lưu ký",
+      "b) Phải hoàn toàn chịu trách nhiệm về những thiệt hại đ• gây ra cho các thành viên lưu ký.",
+      "c) Chỉ chịu một phần nhỏ trách nhiệm đối với các thành viên lưu ký mà thôi",
+      "d) Tất cả đều sai"
+    ],
+    "answer": "a) Không chịu bất kỳ một trách nhiệm nào đối với các thành viên lưu ký"
+  },
+  {
+    "question": "Câu 464: Bản cáo bạch phải có đầy đủ chữ ký của các thành phần sau đây, ngoại trừ… có thể là không cần,",
+    "options": [
+      "a) Kế toán trưởng",
+      "b) Trưởng ban kiểm soát",
+      "c) Chủ tịch Hội đồng quản trị",
+      "d) Tổ chức bảo l•nh phát hành"
+    ],
+    "answer": "a) Kế toán trưởng"
+  },
+  {
+    "question": "Câu 465: Tổ chức phát hành xin đăng ký niêm yết chứng khoán sau 1 năm kể từ ngày được ủy ban Chứng khoán,",
+    "options": [
+      "a) Hoạt động kinh doanh có l•i vào thời điểm xin phép niêm yết hoặc niêm yết lại.",
+      "b) Các nguyên nhân hủy bỏ niêm yết đ• được khắc phục",
+      "c) Mức vốn điều lệ tối thiểu: 10 tỷ đồng Việt Nam",
+      "d) ý kiến kiểm toán đối với báo cáo tài chính 2 năm phải là: Chấp nhận toàn bộ hoặc Chấp nhận có ngoại"
+    ],
+    "answer": "a) Hoạt động kinh doanh có l•i vào thời điểm xin phép niêm yết hoặc niêm yết lại."
+  },
+  {
+    "question": "Câu 466: Hồ sơ xin phép phát hành cổ phiếu ra công chúng theo Thông tư số 01/98/TT-UBCK ngày 13/10/1998, I. Bản cáo bạch, II. Điều lệ công ty, III. Cam kết bảo l•nh phát hành, IV. Báo cáo tài chính 2 năm liên tục gần nhất có kiểm toán,",
+    "options": [
+      "a) Chỉ có I",
+      "b) Chỉ có I và II",
+      "c) Chỉ I, II và III",
+      "d) Cả I, II, III và IV"
+    ],
+    "answer": "a) Chỉ có I"
+  },
+  {
+    "question": "Câu 467: Những trường hợp nào sau đây Trung tâm giao dịch chứng khoán có thể tạm ngừng giao dịch, loại trừ:,",
+    "options": [
+      "a) Khi phát hiện chứng khoán giả mạo trên thị trường",
+      "b) Khi có tin đồn gây biến động lớn về giá và khối lượng giao dịch",
+      "c) Giá một loại chứng khoán tăng hoặc giảm tới mức giới hạn cho phép trong 3 ngày giao dịch liên tiếp kèm",
+      "d) Tổ chức niêm yết bị đinh chỉ hoạt động kinh doanh chính từ 3 tháng trở lên"
+    ],
+    "answer": "a) Khi phát hiện chứng khoán giả mạo trên thị trường"
+  },
+  {
+    "question": "Câu 468: Chứng chỉ quỹ đầu tư bị hủy bỏ niêm yết trong những trường hợp nào sau đây:, I. Quỹ bị giải thể, II. Số người đầu tư là dưới 100 người trong thời hạn quá 1 năm, III. Thời gian hoạt động còn lại của quỹ là 3 tháng, IV. Giá chứng chỉ quỹ đầu tư giảm trên 50% mỗi năm trong 2 năm liên tục,",
+    "options": [
+      "a) Chỉ I và II",
+      "b) Chỉ I và III",
+      "c) Chỉ II, III và IV",
+      "d) Chỉ I, II và IV"
+    ],
+    "answer": "a) Chỉ I và II"
+  },
+  {
+    "question": "Câu 469: Lợi ích đối với các nhà đầu tư khi việc đầu tư thông qua quỹ:, I. Không có rủi ro, II. Đảm bảo đầu tư có hiệu quả hơn, III. Giảm được chi phí giao dịch và nghiên cứu,",
+    "options": [
+      "a) Chỉ I",
+      "b) Chỉ I và II",
+      "c) Chỉ II và III",
+      "d) Cả I, II và III"
+    ],
+    "answer": "a) Chỉ I"
+  },
+  {
+    "question": "Câu 470: Ngân hàng thương mại xin cấp giấy phép hoạt động lưu ký phải đáp ứng các điều kiện sau, ngoại trừ:,",
+    "options": [
+      "a) Đ• được Ngân hàng Nhà nước cấp giấy phép thành lập và hoạt động tại Việt Nam",
+      "b) Làm ăn có l•i từ 5 năm trở lên",
+      "c) Phải có tối thiểu hai nhân viên nghiệp vụ và phải có một người trong Ban giám đốc phụ trách",
+      "d) Phải có cơ sở vật chất kỹ thuật đủ để đảm bảo thực hiện dịch vụ lưu ký"
+    ],
+    "answer": "a) Đ• được Ngân hàng Nhà nước cấp giấy phép thành lập và hoạt động tại Việt Nam"
+  },
+  {
+    "question": "Câu 471: Các hành vi nào sau đây được coi là vi phạm nguyên tắc giao dịch chứng khoán:, I. Mua thấp bán cao, II. Giao dịch nội gián, III. Lũng đoạn thị trường,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 472: Khi công ty tuyên bố phá sản, cổ đông thường sẽ được,",
+    "options": [
+      "a) Nhận lại vốn ban đầu",
+      "b) Nhận những gì còn lại sau khi thanh toán các khoản nợ và cổ phiếu ưu đ•i",
+      "c) Nhận được giá trị ghi trong sổ sách",
+      "d) Không nhận được gì"
+    ],
+    "answer": "a) Nhận lại vốn ban đầu"
+  },
+  {
+    "question": "Câu 473: Khi công ty không có l•i, nó sẽ,",
+    "options": [
+      "a) Trả cổ tức cho cổ phiếu thường",
+      "b) Trả l•i trái phiếu",
+      "c) Trả cổ tức cho cổ phiếu ưu đ•i",
+      "d) Không phải trả l•i và cổ tức"
+    ],
+    "answer": "a) Trả cổ tức cho cổ phiếu thường"
+  },
+  {
+    "question": "Câu 474: Cổ phiếu và trái phiếu,",
+    "options": [
+      "a) Có l•i suất cố định",
+      "b) Có thu nhập theo hoạt động của công ty",
+      "c) Được quyền bầu cử tại Đại hội cổ đông",
+      "c) Không có câu nào đúng"
+    ],
+    "answer": "a) Có l•i suất cố định"
+  },
+  {
+    "question": "Câu 475: Một sự giảm xuống của l•i xuất thị trường sẽ làm cho giá trái phiếu,",
+    "options": [
+      "a) Tăng",
+      "b) Giảm",
+      "c) Không đổi",
+      "d) Gấp đôi"
+    ],
+    "answer": "a) Tăng"
+  },
+  {
+    "question": "Câu 476: Ai là người chia quyền sở hữu trong công ty, I. Cổ đông thường, II. Cổ đông ưu đ•i, III. Người nắm giữ trái phiếu,",
+    "options": [
+      "a) Chỉ I",
+      "b) Chỉ II",
+      "c) I và II",
+      "d) I, II và III"
+    ],
+    "answer": "a) Chỉ I"
+  },
+  {
+    "question": "Câu 477: Có 3 nhà đầu tư đặt lệnh tại cùng một giá. Nhà đầu tư a và b là khách hàng đặt lệnh và nhà đầu tư c là, I. a mua được 500, b mua được 100, và c mua được 100, II. a mua được 500, b mua được 100 và c không mua được cp nào, III. a mua được 200, b mua được 200 và c mua được 200,",
+    "options": [
+      "a) 50.400",
+      "b) 50.200",
+      "c) 50.000",
+      "d. [Missing option]"
+    ],
+    "answer": "a) 50.400"
+  },
+  {
+    "question": "Câu 478: Thị trường chứng khoán nước A mới được thành lập thường xuyên có sự mất cân đối, cầu lớn hơn,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 479: H•y xác đ nh ngày giao d ch ch ng khoán không có ị ị ứ cổ tức tại sơ đồ dưới đây. Biết rằng ngày kết thúc,",
+    "options": [
+      "a. [Missing option]",
+      "b. [Missing option]",
+      "c. [Missing option]",
+      "d. [Missing option]"
+    ],
+    "answer": "a. [Missing option]"
+  },
+  {
+    "question": "Câu 480: Thị trường chứng khoán sơ cấp là gì?,",
+    "options": [
+      "a) Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái",
+      "b) Là nơi mua bán các chứng khoán kém chất lượng",
+      "c) Là nơi giao dịch các chứng khoán đ• phát hành",
+      "d) Là thị trường chứng khoán chưa phát triển"
+    ],
+    "answer": "a) Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái"
+  },
+  {
+    "question": "Câu 481: ý nghĩa của việc phân biệt giữa phát hành riêng lẻ và phát hành ra công chúng,",
+    "options": [
+      "a) Để phân biệt quy mô huy động vốn",
+      "b) Để phân biệt đối tượng và phạm vi cần quản lý",
+      "c) Để phân biệt loại chứng khoán được phát hành",
+      "d) Để phân biệt hình thức bán chứng khoán: bán buôn hay bán lẻ"
+    ],
+    "answer": "a) Để phân biệt quy mô huy động vốn"
+  },
+  {
+    "question": "Câu 482: Tại sao việc phát hành chứng khoán ra công chúng phải được ủy ban chứng khoán nhà nước cấp phép?,",
+    "options": [
+      "a) Để việc quản lý các công ty phát hành được tốt hơn",
+      "b) Để bảo vệ các nhà đầu tư lớn",
+      "c) Để đảm bảo chỉ những công ty làm ăn tốt và nghiêm chỉnh mới được huy động vốn qua công chúng",
+      "d) Để ủy ban chứng khoán nhà nước giám sát hoạt động của công ty"
+    ],
+    "answer": "a) Để việc quản lý các công ty phát hành được tốt hơn"
+  },
+  {
+    "question": "Câu 483: Trong các điều kiện để doanh nghiệp được phát hành chứng khoán ra công chúng, điều kiện nào là,",
+    "options": [
+      "a) Có ban Giám đốc điều hành tốt",
+      "b) Có sản phẩm nổi tiếng trên thị trường",
+      "c) Có tỷ lệ nợ trên vốn hợp lý",
+      "d) Quy mô vốn và kết quả hoạt động trước khi phát hành"
+    ],
+    "answer": "a) Có ban Giám đốc điều hành tốt"
+  },
+  {
+    "question": "Câu 484: Tài liệu nào là quan trọng nhất trong hồ sơ đăng ký phát hành ra công chúng,",
+    "options": [
+      "a) Bản cáo bạch",
+      "b) Các báo cáo tài chính",
+      "c) Các báo cáo về hoạt động của công ty",
+      "d) Đơn xin phát hành"
+    ],
+    "answer": "a) Bản cáo bạch"
+  },
+  {
+    "question": "Câu 485: Nghĩa vụ cơ bản của công ty có chứng khoán phát hành ra công chúng là gì?,",
+    "options": [
+      "a) Tổ chức kinh doanh tốt",
+      "b) Công bố thông tin chính xác, trung thực một cách thường xuyên và bất thường",
+      "c) Đảm bảo cho cổ phiếu của công ty luôn tăng giá",
+      "d) Trả cổ tức đều đặn hàng năm"
+    ],
+    "answer": "a) Tổ chức kinh doanh tốt"
+  },
+  {
+    "question": "Câu 486: Mục đích chủ yếu của công ty phát hành chứng khoán ra công chúng là gì?,",
+    "options": [
+      "a) Để chứng tỏ công ty hoạt động hiệu quả",
+      "b) Để tăng danh tiếng của công ty",
+      "c) Huy động vốn để mở rộng sản xuất kinh doanh, nâng cao năng lực quản lý",
+      "d) Tăng số lượng cổ đông của công ty"
+    ],
+    "answer": "a) Để chứng tỏ công ty hoạt động hiệu quả"
+  },
+  {
+    "question": "Câu 487: Điền vào những điều sau đây liên quan đến hệ thống giao dịch đối mặt tại sàn, I. Các lệnh đ• qua môi giới tại sàn và đ• trực tiếp tới người chuyên gia, II. Nó có thể dùng cho lệnh thị trường và lệnh giới hạn, III. Nó có thể được dùng cho các lô tròn và phần lẻ,",
+    "options": [
+      "a) I và II",
+      "b) I và III",
+      "c) I, II và III",
+      "d. [Missing option]"
+    ],
+    "answer": "a) I và II"
+  },
+  {
+    "question": "Câu 488: Một khách hàng ra một lệnh dừng bán để bán với giá 43 1/2. Lô chứng khoán sau cùng trước khi lệnh,",
+    "options": [
+      "a) 43 3/4",
+      "b) 43 1/2",
+      "c) 43 3/8",
+      "d) 43 5/8"
+    ],
+    "answer": "a) 43 3/4"
+  },
+  {
+    "question": "Câu 489: Thành viên nào của sở giao dịch có thể thực hiện các lệnh giùm cho các thành viên khác của sở giao,",
+    "options": [
+      "a) Môi giới tại sàn",
+      "b) Môi giới của môi giới",
+      "c) Chuyên gia",
+      "d) Cả ba"
+    ],
+    "answer": "a) Môi giới tại sàn"
+  },
+  {
+    "question": "Câu 490: Một khách hàng đưa vào một lệnh giới hạn ở giá 66 3/4, giá đóng cửa cho cổ phiếu này của ngày là 66,",
+    "options": [
+      "a) Có một lệnh đến trước lệnh của khách hàng đó với giá 66 3/4",
+      "b) Giá giới hạn chưa đạt tới",
+      "c) Các lệnh thị trường khác đến trước lệnh của khách hàng đó",
+      "d) Không có điều nào ở trên giá đó"
+    ],
+    "answer": "a) Có một lệnh đến trước lệnh của khách hàng đó với giá 66 3/4"
+  },
+  {
+    "question": "Câu 491: Nếu một khách hàng đưa ra một lệnh Có hiệu lực cho đến khi hủy bỏ để bán 100 cổ phiếu của công,",
+    "options": [
+      "a) Đây là lệnh mở",
+      "b) Lệnh trở thành một lệnh thị trường khi cổ phiếu đạt tới giá 37",
+      "c) Khách hàng được đảm bảo bán cổ phiếu ở giá 37",
+      "d) Đây là một lệnh có hiệu lực trong ngày"
+    ],
+    "answer": "a) Đây là lệnh mở"
+  },
+  {
+    "question": "Câu 492: Lô bán sau cùng của cổ phiếu XYX ở giá 35. Một chuyên gia có các lệnh mua 900 cổ phiếu trên sổ của,",
+    "options": [
+      "a) 34 7/8",
+      "b) 35 1/2",
+      "c) 35 3/4",
+      "d) 35 7/8"
+    ],
+    "answer": "a) 34 7/8"
+  },
+  {
+    "question": "Câu 493: Thị trường thứ ba liên quan với:,",
+    "options": [
+      "a) Chứng khoán OTC",
+      "b) Chứng khoán đ• đăng ký",
+      "c) Chứng khoán đ• đăng ký được giao dịch tại (thị trường) OTC",
+      "d) Cả ba"
+    ],
+    "answer": "a) Chứng khoán OTC"
+  },
+  {
+    "question": "Câu 494: Lệnh nào trong các lệnh sau đây có thể được người chuyên gia chấp nhận:, I. M t l nh đ c ộ ệ ượ đưa vào với tính chất có hiệu lực cho đến khi hủy bỏ, II. Một lệnh được đưa vào với tính chất có hiệu lực trong tuần, III. Một lệnh được đưa vào với tính chất có hiệu lực trong ngày, IV. Một lệnh mà trao cho người chuyên gia tùy ý về giá và thời gian,",
+    "options": [
+      "a) I và II",
+      "b) II và III",
+      "c) I, III và IV",
+      "d) I, II, III và IV"
+    ],
+    "answer": "a) I và II"
+  },
+  {
+    "question": "Câu 495: Một nhà kinh doanh đưa vào một lệnh có tính chất thực hiện ngay hoặc hủy bỏ để mua 1000 cổ phiếu,",
+    "options": [
+      "a) 500 cổ phiếu ở giá 20 hoặc tốt hơn",
+      "b) 500 cổ phiếu ở giá thị trường",
+      "c) 1000 cổ phiếu ở giá 20",
+      "d) Không có gì, vì tất cả 1000 cổ phiếu không được thực hiện"
+    ],
+    "answer": "a) 500 cổ phiếu ở giá 20 hoặc tốt hơn"
+  },
+  {
+    "question": "Câu 496: Xác định giá mở cửa theo các lệnh sau đây:,",
+    "options": [
+      "a) Giá đóng cửa phiên giao dịch trước là 106: ……………",
+      "b) Giá đóng cửa phiên giao dịch trước là 115: ……………",
+      "c) Giá đóng cửa phiên giao dịch trước là 110: ……………",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Giá đóng cửa phiên giao dịch trước là 106: ……………"
+  },
+  {
+    "question": "Câu 497: Nếu một nhà phân tích muốn đánh giá khả năng thanh toán nợ ngắn hạn (đáo hạn trong vòng 1 năm 0,",
+    "options": [
+      "a) Chỉ số hiện hành (Current ratio)",
+      "b) Chỉ số nhanh (Quick ratio)",
+      "c) Chỉ số vòng quay hàng tồn kho",
+      "d) Chỉ số nợ trên vốn sở hữu"
+    ],
+    "answer": "a) Chỉ số hiện hành (Current ratio)"
+  },
+  {
+    "question": "Câu 498: Công ty cổ phần XYZ có thu nhập trên mỗi cổ phiếu là 4USD và hiện chỉ cổ tức cho cổ đông là 2,",
+    "options": [
+      "a) 2 trên 1",
+      "b) 9.3 trên 1",
+      "c) 14 trên 1",
+      "d) 28 trên 1"
+    ],
+    "answer": "a) 2 trên 1"
+  },
+  {
+    "question": "Câu 499: Công ty cổ phần ABC phát hành trái phiếu trị giá 100.000.000USD, mệnh giá trái phiếu là 1000 USD,, I. Tăng vốn lưu động, II. Tăng tổng cộng nợ, III. Tăng tổng cộng tài sản có, IV. Tăng vốn cổ đông,",
+    "options": [
+      "b) I và II",
+      "c) I, II và III",
+      "d) I, II, III và IV",
+      "d. [Missing option]"
+    ],
+    "answer": "b) I và II"
+  },
+  {
+    "question": "Câu 500: N u m t nhà phân tích k thu t nhìn vào đ th đ xác ế ộ ỹ ậ ồ ị ể định mức ủng hộ, anh ta sẽ chọn điểm mà tại,",
+    "options": [
+      "a) Ngừng gia tăng",
+      "b) Ngừng giảm",
+      "c) Tương đối ổn định",
+      "d) Đạt đến điểm mới"
+    ],
+    "answer": "a) Ngừng gia tăng"
+  },
+  {
+    "question": "Câu 501: Căn cứ vào phân tích kỹ thuật mô hình đầu và hai vai hướng lên, xác định xu hướng:,",
+    "options": [
+      "a) Thị trường đi xuống",
+      "b) Thị trường đi lên",
+      "c) Thị trường quân bình",
+      "d) Khó dự đoán"
+    ],
+    "answer": "a) Thị trường đi xuống"
+  },
+  {
+    "question": "Câu 502: Một nhà phân tích kỹ thuật sẽ xem xét tất cả các phương thức, ngoại trừ phương thức sau:,",
+    "options": [
+      "a) Lý thuyết người mua bán các cổ phiếu lẻ (dưới 100) luôn sai lầm",
+      "b) Chỉ số giá cả - thu nhập của các cổ phiếu Dow Jones",
+      "c) Lưu lượng cổ phiếu bán khống",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Lý thuyết người mua bán các cổ phiếu lẻ (dưới 100) luôn sai lầm"
+  },
+  {
+    "question": "Câu 503: H•y xác định trong ba câu hỏi từ a đến c sau đây, trường hợp nào thể hiện xu hướng thị trường đang đi,",
+    "options": [
+      "a) Chỉ số bình quân công nghiệp Dow Jones và chỉ số bình quân Dow Jones của ngành vận tải cả hai có xu",
+      "b) Số lượng bán khống của thị trường chứng khoán New York tăng 25% so với tháng trước",
+      "c) Doanh thu của các cổ phiếu bán lẻ tăng đáng kể trong vài tuần qua",
+      "d. [Missing option]"
+    ],
+    "answer": "a) Chỉ số bình quân công nghiệp Dow Jones và chỉ số bình quân Dow Jones của ngành vận tải cả hai có xu"
+  },
+  {
+    "question": "Câu 504: Theo luật công ty, công ty cổ phần là loại hình doanh nghiệp:,",
+    "options": [
+      "a) Có trên 7 người góp vốn, mang tính đối vốn",
+      "b) Có trên 2 người góp vốn, mang tính đối vốn",
+      "c) Có trên 7 người góp vốn, mang tính đối nhân và đối vốn",
+      "d) Cả 3 đều sai"
+    ],
+    "answer": "a) Có trên 7 người góp vốn, mang tính đối vốn"
+  },
+  {
+    "question": "Câu 505: Sau khi có Luật Công ty, trong thực tế hiện nay, công ty cổ phần ít được thành lập so với công ty trách,",
+    "options": [
+      "a) Có chi phí thành lập cao và thủ tục phức tạp",
+      "b) Khó kêu gọi cổ đông góp vốn",
+      "c) Mới lạ nên chưa dám thành lập",
+      "d) Cả ba đều sai"
+    ],
+    "answer": "a) Có chi phí thành lập cao và thủ tục phức tạp"
+  },
+  {
+    "question": "Câu 506: Một trong các nhược điểm trong hoạt động của công ty cổ phần là:,",
+    "options": [
+      "a) Tách rời quyền sở hữu và quyền điều hành",
+      "b) Thiếu động lực và sự quan tâm cá nhân, vì trách nhiệm chung trong thua lỗ",
+      "c) Không giữ được bí mật trong kinh doanh và tài chính",
+      "d) Tương đối ít được tín nhiệm trong cấp tín dụng"
+    ],
+    "answer": "a) Tách rời quyền sở hữu và quyền điều hành"
+  },
+  {
+    "question": "Câu 507: Đại hội đồng cổ đông sẽ bầu:,",
+    "options": [
+      "a) Hội đồng quản trị và Ban Kiểm soát",
+      "b) Hội đồng quản trị để Hội đồng quản trị chọn Giám đốc và Ban kiểm soát",
+      "c) Hội đồng quản trị, Chủ tịch Hội đồng quản trị và Ban kiểm soát",
+      "d) Cả ba đều sai"
+    ],
+    "answer": "a) Hội đồng quản trị và Ban Kiểm soát"
+  },
+  {
+    "question": "Câu 508: Cổ phần hóa doanh nghiệp nhà nước như lâu nay là:,",
+    "options": [
+      "a) Giải thể DNNN và thành lập lại theo dạng công ty cổ phần có nhà nước tham gia góp vốn",
+      "b) Chuyển thể DNNN thành công ty cổ phần có nhà nước tham gia góp vốn",
+      "c) Chuyển thể DNNN thành công ty cổ phần mà nhà nước vẫn giữ một tỷ lệ vốn góp trong cơ cấu vốn",
+      "d) Cả ba đều đúng"
+    ],
+    "answer": "a) Giải thể DNNN và thành lập lại theo dạng công ty cổ phần có nhà nước tham gia góp vốn"
+  },
+  {
+    "question": "Câu 509: Theo pháp luật Việt Nam các tổ chức được phép phát hành trái phiếu là:,",
+    "options": [
+      "a) Doanh nghiệp tư nhân",
+      "b) Công ty cổ phần và doanh nghiệp nhà nước",
+      "c) Công ty trách nhiệm hữu hạn",
+      "d) Công ty cổ phần"
+    ],
+    "answer": "a) Doanh nghiệp tư nhân"
+  },
+  {
+    "question": "Câu 510: Theo pháp luật Việt Nam các tổ chức được phép phát hành cổ phiếu là:,",
+    "options": [
+      "a) Công ty trách nhiệm hữu hạn",
+      "b) Doanh nghiệp nhà nước thực hiện cổ phần hóa",
+      "c) Công ty cổ phần và doanh nghiệp nhà nước thực hiện cổ phần hóa",
+      "d) Công ty cổ phần"
+    ],
+    "answer": "a) Công ty trách nhiệm hữu hạn"
+  },
+  {
+    "question": "Câu 511: Hiện nay ở Việt Nam, ủy ban chứng khoán nhà nước quản lý:,",
+    "options": [
+      "a) Việc phát hành chứng khoán",
+      "b) Vi c ệ phát hành chứng khoán ra công chúng",
+      "c) Việc phát hành chứng khoán ra công chúng và phát hành chứng khoán riêng lẻ",
+      "d) Việc phát hành chứng khoán của Chính phủ"
+    ],
+    "answer": "a) Việc phát hành chứng khoán"
+  },
+  {
+    "question": "Câu 512: Việc phát hành cổ phiếu làm tăng:,",
+    "options": [
+      "a) Nợ của công ty",
+      "b) Tài sản của công ty",
+      "c) Vốn cổ phần của công ty",
+      "d) Cả b và c"
+    ],
+    "answer": "a) Nợ của công ty"
+  },
+  {
+    "question": "Câu 513: Việc phát hành trái phiếu làm tăng:,",
+    "options": [
+      "a) Nợ của doanh nghiệp",
+      "b) Tài sản của doanh nghiệp",
+      "c) Vốn cổ phần của doanh nghiệp",
+      "d) Cả b và c"
+    ],
+    "answer": "a) Nợ của doanh nghiệp"
+  },
+  {
+    "question": "Câu 514: Hiện nay ở Việt Nam, trong quy định về việc phát hành chứng khoán ra công chúng, thì tỷ lệ chứng,",
+    "options": [
+      "a) 30%",
+      "b) 20% hoặc 15%",
+      "c) 20%",
+      "d) 15%"
+    ],
+    "answer": "a) 30%"
+  },
+  {
+    "question": "Câu 515: Bản cáo bạch là:,",
+    "options": [
+      "a) Một bản báo cáo tình hình hoạt động của tổ chức phát hành",
+      "b) Một văn bản chào bán chứng khoán ra công chúng",
+      "c) Là một tài liệu trong hồ sơ xin phép phát hành chứng khoán ra công chúng",
+      "d) Cả b và c"
+    ],
+    "answer": "a) Một bản báo cáo tình hình hoạt động của tổ chức phát hành"
+  },
+  {
+    "question": "Câu 516: Tổ chức, cá nhân nào chịu trách nhiệm chính về những sai sót trong hồ sơ xin phép phát hành:,",
+    "options": [
+      "a) Tổ chức phát hành chứng khoán",
+      "b) Tổ chức bảo l•nh phát hành chứng khoán",
+      "c) Những người tham gia vào việc soạn thảo hồ sơ xin phép phát hành",
+      "d) Cả a, b và c"
+    ],
+    "answer": "a) Tổ chức phát hành chứng khoán"
+  },
+  {
+    "question": "Câu 517: Hiện nay ở Việt Nam phương thức bảo l•nh phát hành chứng khoán ra công cúng được phép là:,",
+    "options": [
+      "a) Bảo l•nh theo phương thức chắc chắn",
+      "b) Bảo l•nh cố gắng tối đa",
+      "c) Bảo l•nh theo phương thức tất cả hoặc không",
+      "d) Cả ba phương thức trên"
+    ],
+    "answer": "a) Bảo l•nh theo phương thức chắc chắn"
+  },
+  {
+    "question": "Câu 518: Những chứng khoán nào được phép niêm yết tại Trung tâm giao dịch:,",
+    "options": [
+      "a) Trái phiếu Chính phủ",
+      "b) Cổ phiếu của các doanh nghiệp thực hiện cổ phần hóa (DN đại chúng)",
+      "c) Chứng khoán của các doanh nghiệp đ•được UBCKNN cấp giấy phép phát hành ra công chúng",
+      "d) Cả a và c"
+    ],
+    "answer": "a) Trái phiếu Chính phủ"
+  },
+  {
+    "question": "Câu 519: Các khoản mục sau là tài sản, ngoại trừ:,",
+    "options": [
+      "a) Các khoản phải thu",
+      "b) Hàng tồn kho",
+      "c) Lợi nhuận giữ lại (Không được tính là tài sản: ……)",
+      "d) Nhãn hiệu thương mại"
+    ],
+    "answer": "a) Các khoản phải thu"
+  },
+  {
+    "question": "Câu 520: Câu nào trong những câu sau là đúng:, I. Doanh thu có xu hướng làm tăng vốn chủ sở hữu, II. Doanh thu không làm thay đổi tổng tài sản, III. Cơ bản chi phí được xem như là những khoản nợ, IV. Chi phí có xu hướng làm giảm vốn chủ sở hữu,",
+    "options": [
+      "a) Chỉ có I",
+      "b) Chỉ có III",
+      "c) I & IV",
+      "d) II & III"
+    ],
+    "answer": "a) Chỉ có I"
+  },
+  {
+    "question": "Câu 521: Nếu một công ty trả cổ tức sẽ ảnh hưởng đến:,",
+    "options": [
+      "a) Làm giảm thu nhập thuần",
+      "b) Vốn cổ đông thấp hơn",
+      "c) Làm tăng những khoản nợ",
+      "d) Không ảnh hưởng đến tổng tài sản"
+    ],
+    "answer": "a) Làm giảm thu nhập thuần"
+  },
+  {
+    "question": "Câu 522: Bản báo cáo tài chính nào thể hiện thông tin về một doanh nghiệp tại một thời điểm:,",
+    "options": [
+      "a) Bản cân đối tài sản",
+      "b) Bản báo cáo thu nhập",
+      "c) Bản báo cáo lưu chuyển tiền mặt",
+      "d) Bản báo cáo lợi nhận giữ lại"
+    ],
+    "answer": "a) Bản cân đối tài sản"
+  },
+  {
+    "question": "Câu 523: Phân loại đầu tư ngắn hạn và đầu tư dài hạn phụ thuộc vào:,",
+    "options": [
+      "a) Số lượng tiền đầu tư",
+      "b) Khoảng thời gian nhà đầu tư muốn thực hiện đầu tư",
+      "c) Khoảng thời gian nhà đầu tư đ• thực hiện đầu tư",
+      "d) Việc đầu tư bằng nội tệ hay ngoại tệ"
+    ],
+    "answer": "a) Số lượng tiền đầu tư"
+  },
+  {
+    "question": "Câu 524: Thị trường tài chính là thị trường huy động vốn:,",
+    "options": [
+      "a) Ngắn hạn",
+      "b) Trung hạn",
+      "c) Dài hạn",
+      "d) Cả ba"
+    ],
+    "answer": "a) Ngắn hạn"
+  },
+  {
+    "question": "Câu 525: Công cụ nào trong số các công cụ dưới đây không phải là công cụ của thị trường tiền tệ:,",
+    "options": [
+      "a) Tín phiếu kho bạc",
+      "b) Công trái địa phương",
+      "c) Hối phiếu",
+      "d) Trái phiếu phát hành mới__"
+    ],
+    "answer": "d) Trái phiếu phát hành mới__"
+  }
+]
