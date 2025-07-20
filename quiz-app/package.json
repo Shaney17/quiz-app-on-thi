@@ -1,7 +1,7 @@
 {
   "name": "quiz-app",
   "version": "0.1.0",
-  "homepage": "https://shaney17.github.io/quiz-app-on-thi",
+  "homepage": "https://shaney17.github.io/quiz-app",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
