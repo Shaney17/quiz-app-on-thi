@@ -57,9 +57,17 @@ body {
 }
 
 @keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.05);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }
 
 /* Quiz container */
@@ -143,7 +151,9 @@ body {
   flex-wrap: wrap;
 }
 
-.submit-btn, .new-quiz-btn, .restart-btn {
+.submit-btn,
+.new-quiz-btn,
+.restart-btn {
   padding: 15px 30px;
   font-size: 1.1em;
   font-weight: 600;
@@ -321,7 +331,8 @@ body {
   gap: 10px;
 }
 
-.user-answer, .correct-answer-display {
+.user-answer,
+.correct-answer-display {
   padding: 10px;
   border-radius: 5px;
   background: rgba(255, 255, 255, 0.5);
@@ -342,47 +353,49 @@ body {
   .App {
     padding: 10px;
   }
-  
+
   .app-header {
     padding: 20px;
   }
-  
+
   .app-header h1 {
     font-size: 2em;
   }
-  
+
   .quiz-info {
     flex-direction: column;
     gap: 10px;
   }
-  
+
   .question-card {
     padding: 20px;
   }
-  
+
   .quiz-actions {
     flex-direction: column;
     align-items: center;
   }
-  
-  .submit-btn, .new-quiz-btn, .restart-btn {
+
+  .submit-btn,
+  .new-quiz-btn,
+  .restart-btn {
     width: 100%;
     max-width: 300px;
   }
-  
+
   .score-summary {
     padding: 20px;
   }
-  
+
   .score-number {
     font-size: 2.5em;
   }
-  
+
   .score-details {
     flex-direction: column;
     gap: 10px;
   }
-  
+
   .answer-comparison {
     gap: 5px;
   }
@@ -394,6 +407,7 @@ body {
     opacity: 0;
     transform: translateY(20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);

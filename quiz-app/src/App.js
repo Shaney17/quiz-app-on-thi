@@ -31,7 +31,7 @@ const QuestionCard = ({ question, options, onAnswer, selectedAnswer, isSubmitted
 // Component hiển thị kết quả
 const Results = ({ score, total, questions, userAnswers, onRestart }) => {
   const percentage = Math.round((score / total) * 100);
-  
+
   return (
     <div className="results">
       <div className="score-summary">
@@ -45,13 +45,13 @@ const Results = ({ score, total, questions, userAnswers, onRestart }) => {
           <span className="incorrect">Sai: {total - score}</span>
         </div>
       </div>
-      
+
       <div className="detailed-results">
         <h3>Chi tiết đáp án</h3>
         {questions.map((q, index) => {
           const userAnswer = userAnswers[index];
           const isCorrect = userAnswer === q.answer;
-          
+
           return (
             <div key={index} className={`result-item ${isCorrect ? 'correct' : 'incorrect'}`}>
               <div className="question-header">
@@ -63,14 +63,14 @@ const Results = ({ score, total, questions, userAnswers, onRestart }) => {
               <p className="question-text">{q.question}</p>
               <div className="answer-comparison">
                 <div className="user-answer">
-                  <strong>Câu trả lời của bạn:</strong> 
+                  <strong>Câu trả lời của bạn:</strong>
                   <span className={isCorrect ? 'correct-answer' : 'wrong-answer'}>
                     {userAnswer || 'Chưa trả lời'}
                   </span>
                 </div>
                 {!isCorrect && (
                   <div className="correct-answer-display">
-                    <strong>Đáp án đúng:</strong> 
+                    <strong>Đáp án đúng:</strong>
                     <span className="correct-answer">{q.answer}</span>
                   </div>
                 )}
@@ -79,7 +79,7 @@ const Results = ({ score, total, questions, userAnswers, onRestart }) => {
           );
         })}
       </div>
-      
+
       <button className="restart-btn" onClick={onRestart}>
         Làm bài mới
       </button>
@@ -109,7 +109,7 @@ function App() {
   const generateNewQuiz = () => {
     const shuffledQuestions = shuffleArray(questionsData);
     const selectedQuestions = shuffledQuestions.slice(0, 30);
-    
+
     setCurrentQuestions(selectedQuestions);
     setUserAnswers(new Array(30).fill(''));
     setIsSubmitted(false);
@@ -125,7 +125,7 @@ function App() {
   // Xử lý khi người dùng chọn đáp án
   const handleAnswer = (questionIndex, answer) => {
     if (isSubmitted) return;
-    
+
     const newAnswers = [...userAnswers];
     newAnswers[questionIndex] = answer;
     setUserAnswers(newAnswers);
@@ -134,7 +134,7 @@ function App() {
   // Xử lý khi nộp bài
   const handleSubmit = () => {
     const unansweredCount = userAnswers.filter(answer => answer === '').length;
-    
+
     // Nếu còn câu chưa trả lời, hiển thị thông báo xác nhận
     if (unansweredCount > 0) {
       const confirmMessage = `Bạn còn ${unansweredCount} câu chưa trả lời. Những câu này sẽ được tính là sai.\n\nBạn có chắc chắn muốn nộp bài không?`;
@@ -142,11 +142,11 @@ function App() {
         return;
       }
     }
-    
+
     const calculatedScore = currentQuestions.reduce((score, question, index) => {
       return userAnswers[index] === question.answer ? score + 1 : score;
     }, 0);
-    
+
     setScore(calculatedScore);
     setIsSubmitted(true);
     setShowResults(true);
@@ -199,22 +199,22 @@ function App() {
             isSubmitted={isSubmitted}
           />
         ))}
-        
+
         <div className="quiz-actions">
-          <button 
+          <button
             className="submit-btn"
             onClick={handleSubmit}
             disabled={isSubmitted || answeredCount === 0}
           >
-            {isAllAnswered 
-              ? 'Nộp bài và xem kết quả' 
-              : answeredCount === 0 
+            {isAllAnswered
+              ? 'Nộp bài và xem kết quả'
+              : answeredCount === 0
                 ? 'Hãy trả lời ít nhất 1 câu'
                 : `Nộp bài (${answeredCount}/30 câu)`
             }
           </button>
-          
-          <button 
+
+          <button
             className="new-quiz-btn"
             onClick={generateNewQuiz}
             disabled={isSubmitted}

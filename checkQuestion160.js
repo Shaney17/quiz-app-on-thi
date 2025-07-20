@@ -4,7 +4,7 @@ const fs = require('fs');
 function checkQuestion160() {
   try {
     console.log('🔍 Kiểm tra câu 160 trong các file hiện có...\n');
-    
+
     // Kiểm tra file gốc
     const originalFile = 'questions_ck_ttck.json';
     if (fs.existsSync(originalFile)) {
@@ -19,7 +19,7 @@ function checkQuestion160() {
         console.log('   ❌ Không tìm thấy câu 160');
       }
     }
-    
+
     // Kiểm tra file đã làm sạch
     const cleanedFile = 'questions_final_cleaned.json';
     if (fs.existsSync(cleanedFile)) {
@@ -37,7 +37,7 @@ function checkQuestion160() {
         console.log('   ❌ Không tìm thấy câu 160');
       }
     }
-    
+
     // Kiểm tra file trong quiz app
     const quizFile = './quiz-app/src/data/questions.json';
     if (fs.existsSync(quizFile)) {
@@ -52,12 +52,12 @@ function checkQuestion160() {
         console.log('   ❌ Không tìm thấy câu 160');
       }
     }
-    
+
     console.log('\n📋 BẠN CÓ THỂ:');
     console.log('1. Cung cấp nội dung chính xác của câu 160 từ file Word');
     console.log('2. Hoặc tôi sẽ tạo script để đọc file Word trực tiếp');
     console.log('3. Hoặc bạn copy nội dung câu 160 từ Word để tôi so sánh và sửa');
-    
+
   } catch (error) {
     console.error('❌ Lỗi:', error.message);
   }
